@@ -16,43 +16,35 @@ a img, .yellowborder { border: 5px solid #FFA544; }
 h1, h2, h3, h4 { margin-top: 0; }
 h3 { font-size: 2em; margin: 1.5em 0 .5em;}
 
-.content_box { width: 885px; text-align: left; margin:0 auto; padding: 40px 0 0; overflow: hidden;   background: transparent url('/images/cpb_topborder.png') top center repeat-x; }
-.content { width: 500px; margin: 0 auto; font-size: 1.2em; line-height: 1.5em; }
+.content_box { width: 100%; text-align: left; margin:0 auto; padding: 40px 0 0; overflow: hidden;   background: transparent url('/images/cpb_topborder.png') top center repeat-x; }
+.content { max-width: 500px; margin: 0 auto; font-size: 1.2em; line-height: 1.5em; }
+.content img { box-sizing: border-box; height:auto; max-width: 100%; }
 
 .entry-title { font-size: 1.5em; margin: 0 0 5px 0; }
 .see-archives { font-size: 12px; border-top: 2px solid #FFA544; margin:1em 0 2.3em; padding-top:1em; }
 
 .recipe { background: #fcf8eb; border: 0.1em dotted #643D1E; padding: 20px; }
 
-/*---:[ containers ]:---*/
 .supercontainer {
 	margin-left: auto; margin-right: auto;
 	background-color:#FDF7E1;
 	border: 5px solid #FFA544;
 	border-top-width: 0;
-	width:980px;
+	max-width:980px;
 }
-.container {
-	margin-left: auto; margin-right: auto;
-	width: 885px;
-	text-align:left;
-	padding-top:24px;
-}
+.container { text-align: left; padding: 24px 45px 0; }
 
-.masthead, a.masthead {
-	background: transparent url(/images/cpb-sprite.png) no-repeat;
+.masthead {
+	background: transparent url(/images/masthead.png) no-repeat center center;
+  background-size: 100% auto;
 	display: block;
-	width: 587px;
+	max-width: 587px;
 	height: 115px;
 	margin: 0 auto;
 	text-indent: -9000px;
 }
-div.masthead h1, a.masthead h2,
-div.masthead h4, a.masthead h4 {
-	margin: 0;
-}
+.masthead h1, .masthead h4 {margin: 0; }
 
-/*---:[ nav styles ]:---*/
 .nav {
 	height: 30px;
 	list-style:none;
