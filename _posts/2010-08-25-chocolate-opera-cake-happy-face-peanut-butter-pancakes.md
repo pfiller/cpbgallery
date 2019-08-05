@@ -79,7 +79,7 @@ It was a thoroughly delicious birthday week. We hope you enjoy our birthday trea
 <strong>Happy Face Assembly</strong>
 Since I added the whipped cream too early and it melted, I didn't get to snap a good shot of my cute pancakes. So, here's a little sketch so that you get the gist.
 
-<a href="/wp-content/uploads/2010/08/happy_face_pb_pancakes.gif"><img src="/wp-content/uploads/2010/08/happy_face_pb_pancakes.gif" alt="" title="happy_face_pb_pancakes" width="448" height="313" class="alignnone size-full wp-image-815" /></a>
+<a href="/images/uploads/2010/08/happy_face_pb_pancakes.gif"><img src="/images/uploads/2010/08/happy_face_pb_pancakes.gif" alt="" title="happy_face_pb_pancakes" width="448" height="313" class="alignnone size-full wp-image-815" /></a>
 
 <strong>Directions</strong>
 Center pancake on plate. Drizzle a strip of caramel sauce in a circle on the plate around the entire pancake and then drizzle some more across the top of the pancake. For the "hair", line 1/3 of the edge of the pancake with caramelized bananas. Draw the eyes, a nose and a smile with the whipped cream and quickly dot the eyes with chocolate chips. Serve immediately.

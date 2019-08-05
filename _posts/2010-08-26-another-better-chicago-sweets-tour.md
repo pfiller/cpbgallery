@@ -28,7 +28,7 @@ Next up was a cute little coffee house in Bucktown named <a href="http://www.ips
 
 They even had a batch of coffee beans roasting in the front area while we were there, so we left with some of their Organic fair trade beans in tow.
 
-<a href="/wp-content/uploads/2010/08/nutella_mocha.jpg"><img src="/wp-content/uploads/2010/08/nutella_mocha.jpg" alt="" title="nutella_mocha" width="478" height="452" class="alignnone size-full wp-image-812" /></a>
+<a href="/images/uploads/2010/08/nutella_mocha.jpg"><img src="/images/uploads/2010/08/nutella_mocha.jpg" alt="" title="nutella_mocha" width="478" height="452" class="alignnone size-full wp-image-812" /></a>
 
 Also on my list were (of course) cupcakeries. Sadly and surprisingly we didn't get to hit up our favorite standby, <a href="http://www.mollyscupcakes.com/">Molly's</a>, (Ron Bennington! Peanut Butter Nutella!) but we did try two new awesome cupcakeries: <a href="http://morecupcakes.com/">More Cupcakes</a> and <a href="http://www.sprinkles.com/">Sprinkles</a>.
 

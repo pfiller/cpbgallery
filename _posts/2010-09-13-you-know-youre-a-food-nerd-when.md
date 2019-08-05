@@ -51,7 +51,7 @@ You pose with your winning pastry like the proudest mama ever.
 <em><strong>You know you're a food nerd when...</strong></em>
 You read a blog about chocolate and peanut butter. (Haha, gotcha! I write it though, so that puts me at least a few points ahead of you.)
 
-<a href="/wp-content/uploads/2010/09/you_are_here_cpb.jpg"><img src="/wp-content/uploads/2010/09/you_are_here_cpb.jpg" alt="" title="you_are_here_cpb" width="500" height="302" class="alignnone size-full wp-image-819" /></a>
+<a href="/images/uploads/2010/09/you_are_here_cpb.jpg"><img src="/images/uploads/2010/09/you_are_here_cpb.jpg" alt="" title="you_are_here_cpb" width="500" height="302" class="alignnone size-full wp-image-819" /></a>
 
 <em><strong>And finally, you know you're a food nerd when...</strong></em>
 You have more pictures of yourself posing with food than with family members.

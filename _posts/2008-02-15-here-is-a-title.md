@@ -41,8 +41,6 @@ Then, fold the squares in half as neat as you can, smushing the contents inside 
 
 Relocate your sealed empanadas to prepared baking sheets. Cut slits into the tops of them so that steam can escape during baking. Combine the egg yolks and heavy cream in a small bowl. Using a brush, brush the coating onto each empanada and dust with turbinado sugar.
 
-http://cpb.ilovekstar.com/wp-content/uploads/2008/02/coat1.jpg
-
 Bake in a preheated oven for 20-22 minutes or until golden brown and juices inside are bubbling through the slices you made in the tops of the empanadas. You should wait just a second so they aren't burn-your-tongue-hot, but they are super delicious warm.
 
 This recipe yields 8 empanadas. They can be made 2 days in advance and refrigerated. Just take them out when you preheat the oven and bake at your convenience. This is especially helpful when you want to stumble out of bed to a gourmet breakfast without having to do much work.
