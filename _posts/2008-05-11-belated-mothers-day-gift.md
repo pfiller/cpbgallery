@@ -2,7 +2,7 @@
 layout: post
 title: Belated Mother's Day Gift
 date: '2008-05-11T09:49:31+00:00'
-permalink: belated-mothers-day-gift
+slug: belated-mothers-day-gift
 ---
 <a href="http://www.ilovepeanutbutter.com/%5Citems_2.html"><img src='images/uploads/2008/05/moms1.jpg' alt='Mother’s Day Chocolate Peanut Butter Gift' /></a>
 

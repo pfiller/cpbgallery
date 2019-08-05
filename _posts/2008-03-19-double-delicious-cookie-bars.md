@@ -2,7 +2,7 @@
 layout: post
 title: Double Delicious Cookie Bars
 date: '2008-03-19T00:05:55+00:00'
-permalink: double-delicious-cookie-bars
+slug: double-delicious-cookie-bars
 ---
 <a href="http://www.flickr.com/photos/kstar810/2227933983/in/set-72157603817944040/"><img src="http://farm3.static.flickr.com/2229/2227933983_8cb31860cc.jpg?v=0" alt="double delicious cookie bars" /></a>
 

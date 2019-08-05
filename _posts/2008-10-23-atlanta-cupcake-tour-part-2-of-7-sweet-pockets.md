@@ -2,7 +2,7 @@
 layout: post
 title: 'Atlanta Cupcake Tour, Part 2 of 7: Sweet Pockets'
 date: '2008-10-23T00:05:15+00:00'
-permalink: atlanta-cupcake-tour-part-2-of-7-sweet-pockets
+slug: atlanta-cupcake-tour-part-2-of-7-sweet-pockets
 ---
 <a href="http://www.flickr.com/photos/kstar810/2939309839/in/set-72157608008574439/"><img src="http://farm4.static.flickr.com/3168/2939309839_b6039d17bf.jpg?v=0" alt="Cupcakes" /></a>
 

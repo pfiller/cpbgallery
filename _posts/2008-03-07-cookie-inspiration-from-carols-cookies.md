@@ -2,7 +2,7 @@
 layout: post
 title: Cookie inspiration from Carol's Cookies
 date: '2008-03-07T00:05:41+00:00'
-permalink: cookie-inspiration-from-carols-cookies
+slug: cookie-inspiration-from-carols-cookies
 ---
 <img src='images/uploads/2008/03/pbswirl_03.jpg' alt='pbswirl03' class="yellowborder" />
 

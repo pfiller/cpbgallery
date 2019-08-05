@@ -2,7 +2,7 @@
 layout: post
 title: P.B.Loco's Peanut Butter with Cocoa Banana
 date: '2009-10-06T19:04:32+00:00'
-permalink: pblocos-peanut-butter-with-cocoa-banana
+slug: pblocos-peanut-butter-with-cocoa-banana
 ---
 <a href="http://www.flickr.com/photos/kstar810/3988487928/"><img src="http://farm3.static.flickr.com/2599/3988487928_31ba9f6f24.jpg" alt="Cocoa Banana Peanut Butter" /></a>
 

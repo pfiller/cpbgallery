@@ -2,7 +2,7 @@
 layout: post
 title: Economy Candy = Paradise
 date: '2008-04-28T00:05:13+00:00'
-permalink: economy-candy-paradise
+slug: economy-candy-paradise
 ---
 <a href="http://flickr.com/photos/kstar810/2447856062/"><img src="http://farm3.static.flickr.com/2248/2447856062_bf81ce530c.jpg?v=0" alt="Economy Candy" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Cooking Light's Swag Bars
 date: '2009-01-09T10:12:03+00:00'
-permalink: cooking-lights-swag-bars
+slug: cooking-lights-swag-bars
 ---
 <a href="http://find.myrecipes.com/recipes/recipefinder.dyn?action=displayRecipe&recipe_id=1867595"><img src="http://img.timeinc.net/recipes/i/recipes/ck/09/01/swag-bars-ck-1867595-l.jpg" alt="swag bars" /></a>
 

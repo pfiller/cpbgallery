@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter-Stuffed Milk Chocolate Sandwich Cookies
 date: '2010-02-11T10:57:40+00:00'
-permalink: peanut-butter-stuffed-milk-chocolate-sandwich-cookies
+slug: peanut-butter-stuffed-milk-chocolate-sandwich-cookies
 ---
 Snow Day! What'd you do to celebrate? I made cookies!
 

@@ -2,7 +2,7 @@
 layout: post
 title: 8&#162; Scoops at Cold Stone Creamery
 date: '2008-06-08T14:29:47+00:00'
-permalink: 8-scoops-at-cold-stone-creamery
+slug: 8-scoops-at-cold-stone-creamery
 ---
 <a href="http://www.flickr.com/photos/kstar810/2280966704/"><img src="http://farm4.static.flickr.com/3021/2280966704_89318e0d86.jpg?v=0" alt="Cold Stone Ice Cream 8 cents" /></a>
 

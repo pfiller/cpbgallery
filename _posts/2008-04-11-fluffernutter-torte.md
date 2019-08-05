@@ -2,7 +2,7 @@
 layout: post
 title: Fluffernutter Torte
 date: '2008-04-11T00:05:58+00:00'
-permalink: fluffernutter-torte
+slug: fluffernutter-torte
 ---
 <a href="http://www.flickr.com/photos/hjgilbert/2390966348/in/photostream/"><img src='images/uploads/2008/04/fluffernutter_cake_02.jpg' alt='fluffernutter cake' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Top 5 Chocolate Peanut Butter Milkshakes
 date: '2008-06-09T10:20:28+00:00'
-permalink: top-5-chocolate-peanut-butter-milkshakes
+slug: top-5-chocolate-peanut-butter-milkshakes
 ---
 <img src='images/uploads/2008/06/shake.gif' alt='Milkshake' class="yellowborder"/>
 

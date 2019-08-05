@@ -2,7 +2,7 @@
 layout: post
 title: 'Chocolate Auction: Askinosie Single Origin Dark Chocolate (from Liberia, Africa)'
 date: '2010-04-05T15:44:18+00:00'
-permalink: chocolate-auction-askinosie-single-origin-dark-chocolate-from-liberia-africa
+slug: chocolate-auction-askinosie-single-origin-dark-chocolate-from-liberia-africa
 ---
 <a href="http://chocolateuniversity.org/index.php/central-high-school/img_6920/"><img src='images/uploads/2010/04/chocolate_university1.jpg' alt='Askinosie Single Origin Dark Chocolate (from Liberia, Africa)' /></a>
 

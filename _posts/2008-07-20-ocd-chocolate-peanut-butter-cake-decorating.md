@@ -2,7 +2,7 @@
 layout: post
 title: OCD Chocolate Peanut Butter Cake Decorating
 date: '2008-07-20T00:05:14+00:00'
-permalink: ocd-chocolate-peanut-butter-cake-decorating
+slug: ocd-chocolate-peanut-butter-cake-decorating
 ---
 <a href="http://www.flickr.com/photos/ryan_451/2675224499/"><img src='images/uploads/2008/07/chocolate_peanut_butter.jpg' alt='Chocolate Peanut Butter Cake' /></a>
 

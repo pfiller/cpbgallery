@@ -2,7 +2,7 @@
 layout: post
 title: A few quick bites...
 date: '2009-03-26T10:33:28+00:00'
-permalink: a-few-quick-bites
+slug: a-few-quick-bites
 ---
 <a href="http://www.flickr.com/photos/kstar810/3381295008/in/photostream/"><img src="http://farm4.static.flickr.com/3548/3381295008_e61a6d5a35.jpg?v=0" alt="Chocolate Peanut Butter Twinkies" /></a>
 

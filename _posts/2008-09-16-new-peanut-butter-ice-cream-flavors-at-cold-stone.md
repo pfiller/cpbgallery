@@ -2,7 +2,7 @@
 layout: post
 title: 'New Peanut Butter Ice Cream Flavors at Cold Stone '
 date: '2008-09-16T23:54:49+00:00'
-permalink: new-peanut-butter-ice-cream-flavors-at-cold-stone
+slug: new-peanut-butter-ice-cream-flavors-at-cold-stone
 ---
 <a href="http://www.flickr.com/photos/kstar810/2858244868/"><img src="http://farm4.static.flickr.com/3088/2858244868_6edacf0df8.jpg?v=0" alt="Cold Stone" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Atlanta Cupcake Tour, Part 4 of 7: Belly General Store'
 date: '2008-10-26T00:05:08+00:00'
-permalink: atlanta-cupcake-tour-part-4-of-7-belly-general-store
+slug: atlanta-cupcake-tour-part-4-of-7-belly-general-store
 ---
 <a href="http://www.flickr.com/photos/kstar810/2940160592/in/set-72157608008574439/"><img src="http://farm4.static.flickr.com/3011/2940160592_00d99b00f1.jpg?v=0" alt="Belly General Store" /></a>
 

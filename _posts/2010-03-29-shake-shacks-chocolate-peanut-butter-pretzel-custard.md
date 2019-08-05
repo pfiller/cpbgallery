@@ -2,7 +2,7 @@
 layout: post
 title: Shake Shack's Chocolate Peanut Butter Pretzel Custard
 date: '2010-03-29T09:05:51+00:00'
-permalink: shake-shacks-chocolate-peanut-butter-pretzel-custard
+slug: shake-shacks-chocolate-peanut-butter-pretzel-custard
 ---
 <a href="http://www.flickr.com/photos/kstar810/4470197376/"><img src="http://farm5.static.flickr.com/4029/4470197376_fa65ac0d4f.jpg" alt="Shake Shack's Chocolate Peanut Butter Pretzel Custard" />
 </a>

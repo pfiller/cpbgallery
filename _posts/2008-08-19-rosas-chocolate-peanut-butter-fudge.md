@@ -2,7 +2,7 @@
 layout: post
 title: Rosa's Chocolate Peanut Butter Fudge
 date: '2008-08-19T12:08:20+00:00'
-permalink: rosas-chocolate-peanut-butter-fudge
+slug: rosas-chocolate-peanut-butter-fudge
 ---
 <a href="http://www.flickr.com/photos/kstar810/2720639641/"><img src="http://farm4.static.flickr.com/3262/2720639641_ab7bbbaa97.jpg?v=0" alt="Rosa's Chocolate Peanut Butter Fudge" /></a>
 

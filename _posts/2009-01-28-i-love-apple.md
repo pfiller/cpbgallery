@@ -2,7 +2,7 @@
 layout: post
 title: I love Apple
 date: '2009-01-28T00:06:38+00:00'
-permalink: i-love-apple
+slug: i-love-apple
 ---
 <img src='images/uploads/2009/01/i_love_apple1.gif' alt='apple' />
 

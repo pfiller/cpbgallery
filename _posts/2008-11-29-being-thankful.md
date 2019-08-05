@@ -2,7 +2,7 @@
 layout: post
 title: Being Thankful
 date: '2008-11-29T10:34:09+00:00'
-permalink: being-thankful
+slug: being-thankful
 ---
 <a href="http://www.flickr.com/photos/kstar810/3067125630/"><img src='images/uploads/2008/11/thanks.jpg' alt='Thank You' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Chunk PB Cookies
 date: '2008-02-13T21:39:49+00:00'
-permalink: happy-valentines-day
+slug: happy-valentines-day
 ---
 <a href="http://www.flickr.com/photos/kstar810/2059821224/in/set-72157603817944040/"><img src="http://farm3.static.flickr.com/2373/2059821224_77668e6c34.jpg?v=0" alt="chocolate chunk pb cookies" /></a>
 

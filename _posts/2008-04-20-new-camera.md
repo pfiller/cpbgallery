@@ -2,7 +2,7 @@
 layout: post
 title: New Camera!
 date: '2008-04-20T00:05:10+00:00'
-permalink: new-camera
+slug: new-camera
 ---
 <a href="http://www.flickr.com/photos/kstar810/2426861474/"><img src='images/uploads/2008/04/img_6476_02.jpg' alt='Chocolate bar with Peanut Butter Chips' /></a>
 

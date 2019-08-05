@@ -2,7 +2,7 @@
 layout: post
 title: 'Gift Time: Sticky, Chewy, Messy, Gooey by Jill O''Conner'
 date: '2008-12-17T22:31:36+00:00'
-permalink: gift-time-sticky-chewy-messy-gooey-by-jill-oconner
+slug: gift-time-sticky-chewy-messy-gooey-by-jill-oconner
 ---
 <img src='images/uploads/2008/12/sticky_chewy.jpg' alt='Sticky, Chewy, Messy, Gooey' class="yellowborder" />
 

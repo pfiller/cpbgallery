@@ -2,7 +2,7 @@
 layout: post
 title: Xooro Churro
 date: '2008-07-14T08:31:32+00:00'
-permalink: xooro-churro
+slug: xooro-churro
 ---
 <a href="http://www.flickr.com/photos/chantastic/2662564006/"><img src="http://farm4.static.flickr.com/3130/2662564006_36330d3428.jpg?v=1215904211" alt="Xooro Churro" /></a>
 

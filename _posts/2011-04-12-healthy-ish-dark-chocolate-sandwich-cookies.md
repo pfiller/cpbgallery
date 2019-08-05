@@ -2,7 +2,7 @@
 layout: post
 title: Healthy (-ish) Dark Chocolate Sandwich Cookies
 date: '2011-04-12T16:00:47+00:00'
-permalink: healthy-ish-dark-chocolate-sandwich-cookies
+slug: healthy-ish-dark-chocolate-sandwich-cookies
 ---
 <a href="http://www.flickr.com/photos/kstar810/5611572655/" title="Dark Chocolate Cookies by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5142/5611572655_7f658b7506.jpg" width="500" height="333" alt="Dark Chocolate Cookies"></a>
 

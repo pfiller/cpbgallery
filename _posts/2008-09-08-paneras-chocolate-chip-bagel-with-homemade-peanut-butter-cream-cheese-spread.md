@@ -2,7 +2,7 @@
 layout: post
 title: Panera's Chocolate Chip Bagel with Homemade Peanut Butter Cream Cheese Spread
 date: '2008-09-08T00:07:52+00:00'
-permalink: paneras-chocolate-chip-bagel-with-homemade-peanut-butter-cream-cheese-spread
+slug: paneras-chocolate-chip-bagel-with-homemade-peanut-butter-cream-cheese-spread
 ---
 <a href="http://flickr.com/photos/kstar810/2833454749/"><img src="http://farm4.static.flickr.com/3008/2833454749_989f9749b9.jpg?v=0" alt="Panera Bagel" /></a>
 

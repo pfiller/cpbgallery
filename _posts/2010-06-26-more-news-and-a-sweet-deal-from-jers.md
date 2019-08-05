@@ -2,7 +2,7 @@
 layout: post
 title: More News and a Sweet Deal From Jer's!
 date: '2010-06-26T14:39:15+00:00'
-permalink: more-news-and-a-sweet-deal-from-jers
+slug: more-news-and-a-sweet-deal-from-jers
 ---
 <img src='images/uploads/2010/06/cpb_hearts1.gif' alt='chocolate peanut butter love' class="yellowborder"/>
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Sensory Overload: Bon Appetit''s Peanut Butter Desserts Feature'
 date: '2009-02-05T11:35:06+00:00'
-permalink: sensory-overload-bon-appetits-peanut-butter-desserts-feature
+slug: sensory-overload-bon-appetits-peanut-butter-desserts-feature
 ---
 <a href="http://www.bonappetit.com/magazine/2009/01/peanut_butter_desserts"><img src='images/uploads/2009/02/bon_appetit_peanut_butter.jpg' alt='Bon Appetit’s Peanut Butter Desserts Feature' /></a>
 

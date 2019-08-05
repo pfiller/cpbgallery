@@ -2,7 +2,7 @@
 layout: post
 title: The Old Market Candy Shop
 date: '2009-10-28T09:00:53+00:00'
-permalink: the-old-market-candy-shop
+slug: the-old-market-candy-shop
 ---
 To all of you who sent such nice comments on my last post: thanks for the enthusiasm - we are excited to get hitched!! :)
 

@@ -2,7 +2,7 @@
 layout: post
 title: Devil's Food Twinkies with Peanut Butter Filling
 date: '2009-04-02T16:18:17+00:00'
-permalink: devils-food-twinkies-with-peanut-butter-filling
+slug: devils-food-twinkies-with-peanut-butter-filling
 ---
 <a href="http://www.flickr.com/photos/kstar810/3380474129/in/photostream/"><img src="http://farm4.static.flickr.com/3593/3380474129_803b2c74dd.jpg?v=0" alt="Devils Food Twinkies with Peanut Butter Filling" /></a>
 

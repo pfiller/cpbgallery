@@ -2,7 +2,7 @@
 layout: post
 title: No Bake Chocolate Peanut Butter Banana Tofu Pie
 date: '2008-05-10T07:53:20+00:00'
-permalink: no-bake-chocolate-peanut-butter-banana-tofu-pie
+slug: no-bake-chocolate-peanut-butter-banana-tofu-pie
 ---
 <a href="http://thebakingbird.blogspot.com/2008/05/finally-i-have-blog-ive-been-dreaming.html"><img src="http://farm4.static.flickr.com/3070/2418334031_64e3e83e22.jpg?v=0" alt="Vegan Peanut Butter Tofu Pie" /></a>
 

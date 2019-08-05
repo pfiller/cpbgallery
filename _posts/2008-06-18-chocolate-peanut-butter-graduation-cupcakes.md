@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Graduation Cupcakes
 date: '2008-06-18T00:05:17+00:00'
-permalink: chocolate-peanut-butter-graduation-cupcakes
+slug: chocolate-peanut-butter-graduation-cupcakes
 ---
 <a href="http://www.flickr.com/photos/8139998@N05/2570020282/"><img src='images/uploads/2008/06/graduation_cupcakes.jpg' alt='Chocolate Peanut Butter Graduation Cupcakes' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Quick & Easy Peanut Butter Pie
 date: '2009-07-03T16:24:23+00:00'
-permalink: quick-easy-peanut-butter-pie
+slug: quick-easy-peanut-butter-pie
 ---
 <img src='images/uploads/2009/07/chocolate_peanut_butter_pie1.gif' alt='Chocolate Peanut Butter Pie' />
 

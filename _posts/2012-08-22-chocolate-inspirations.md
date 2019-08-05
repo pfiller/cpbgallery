@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Inspirations
 date: '2012-08-22T20:34:14+00:00'
-permalink: chocolate-inspirations
+slug: chocolate-inspirations
 ---
 <a href="http://www.flickr.com/photos/kstar810/7701250928/" title="Chocolate Inspirations by kstar810, on Flickr"><img src="http://farm9.staticflickr.com/8157/7701250928_18e6f90ee8.jpg" width="500" height="333" alt="Chocolate Inspirations"></a>
 

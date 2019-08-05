@@ -2,7 +2,7 @@
 layout: post
 title: 'Sir Francis Bacon: A Gustatory Adventure'
 date: '2009-05-05T08:56:05+00:00'
-permalink: sir-francis-bacon-a-gustatory-adventure
+slug: sir-francis-bacon-a-gustatory-adventure
 ---
 <img src='images/uploads/2009/03/sir_francis_bacon_bar_02.jpg' alt='Sir Francis Bacon Peanut Butter Brittle Bar' class="yellowborder" />
 *Note: bacon bars do not actually talk.

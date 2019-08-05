@@ -2,7 +2,7 @@
 layout: post
 title: Eat your PB!
 date: '2009-01-28T08:46:11+00:00'
-permalink: eat-your-pb
+slug: eat-your-pb
 ---
 <img src='images/uploads/2009/01/peanut_butter_friend.gif' alt='Peanut Butter Friend' class="yellowborder" />
 

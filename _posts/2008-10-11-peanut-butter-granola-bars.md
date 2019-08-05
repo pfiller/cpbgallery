@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Granola Bars
 date: '2008-10-11T10:53:23+00:00'
-permalink: peanut-butter-granola-bars
+slug: peanut-butter-granola-bars
 ---
 <img src='images/uploads/2008/10/pb_granola_bar.gif' alt='Peanut Butter Granola Bars' class="yellowborder"/>
 

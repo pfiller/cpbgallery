@@ -2,7 +2,7 @@
 layout: post
 title: Back with a bang! A Review of Molly's Cupcakes
 date: '2008-07-30T13:02:58+00:00'
-permalink: back-with-a-bang-a-review-of-mollys-cupcakes
+slug: back-with-a-bang-a-review-of-mollys-cupcakes
 ---
 <a href="http://www.flickr.com/photos/kstar810/2714600838/"><img src="http://farm4.static.flickr.com/3037/2714600838_da57e1097a.jpg?v=0" alt="Molly's Ron Bennington Cupcake" /></a>
 

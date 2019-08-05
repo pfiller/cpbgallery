@@ -2,7 +2,7 @@
 layout: post
 title: Everyday Food's Chocolate Peanut Butter Pie
 date: '2008-04-30T00:05:49+00:00'
-permalink: everyday-foods-chocolate-peanut-butter-pie
+slug: everyday-foods-chocolate-peanut-butter-pie
 ---
 <img src='images/uploads/2008/04/cpb_pie.jpg' alt='Chocolate Peanut Butter Pie' class="yellowborder" />
 

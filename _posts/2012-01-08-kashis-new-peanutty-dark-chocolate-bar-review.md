@@ -2,7 +2,7 @@
 layout: post
 title: Kashi's New Peanutty Dark Chocolate Bar Review
 date: '2012-01-08T16:07:57+00:00'
-permalink: kashis-new-peanutty-dark-chocolate-bar-review
+slug: kashis-new-peanutty-dark-chocolate-bar-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/6501935419/" title="Kashi's Peanutty Dark Chocolate Bar by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7145/6501935419_7ece32e6ed.jpg" width="500" height="333" alt="Kashi's Peanutty Dark Chocolate Bar"></a>
 

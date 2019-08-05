@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Cream Cheese Peanut Butter Bars
 date: '2008-06-26T15:15:33+00:00'
-permalink: chocolate-cream-cheese-peanut-butter-bars
+slug: chocolate-cream-cheese-peanut-butter-bars
 ---
 <a href="http://www.flickr.com/photos/kstar810/2607383085/"><img src="http://farm4.static.flickr.com/3010/2607383085_ef3b5f2bac.jpg?v=0" alt="Chocolate Cream Cheese Peanut Butter Bars" /></a>
 

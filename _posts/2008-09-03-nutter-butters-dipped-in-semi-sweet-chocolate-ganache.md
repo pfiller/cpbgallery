@@ -2,7 +2,7 @@
 layout: post
 title: Nutter Butters Dipped in Semi-Sweet Chocolate Ganache
 date: '2008-09-03T08:31:17+00:00'
-permalink: nutter-butters-dipped-in-semi-sweet-chocolate-ganache
+slug: nutter-butters-dipped-in-semi-sweet-chocolate-ganache
 ---
 <a href="http://www.flickr.com/photos/kstar810/2820516956/"><img src="http://farm4.static.flickr.com/3238/2820516956_dbb6175ef0.jpg?v=0" alt="Nutter Butters" /></a>
 

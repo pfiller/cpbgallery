@@ -2,7 +2,7 @@
 layout: post
 title: Lesser Evil Peanut Butter Choco Kettle Corn
 date: '2008-05-15T00:05:55+00:00'
-permalink: lesser-evil-peanut-butter-choco-kettle-corn
+slug: lesser-evil-peanut-butter-choco-kettle-corn
 ---
 <a href="http://www.lesserevil.com/kettlecorns.html"><img src='images/uploads/2008/05/lesser_evil.jpg' alt='Lesser Evil Peanut Butter Choco Popcorn' /></a>
 

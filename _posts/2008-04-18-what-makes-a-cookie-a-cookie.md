@@ -2,7 +2,7 @@
 layout: post
 title: What makes a cookie a cookie?
 date: '2008-04-18T00:05:33+00:00'
-permalink: what-makes-a-cookie-a-cookie
+slug: what-makes-a-cookie-a-cookie
 ---
 <a href="http://www.flickr.com/photos/kstar810/1248826904/in/set-72157600340317544/"><img src="http://farm2.static.flickr.com/1312/1248826904_d2176c5b5b.jpg?v=0" alt="cookie monster eating a cookie" /></a>
 

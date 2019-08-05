@@ -2,7 +2,7 @@
 layout: post
 title: Jell-O Chocolate Peanut Butter Parfaits
 date: '2008-05-23T00:05:19+00:00'
-permalink: jell-o-chocolate-peanut-butter-parfaits
+slug: jell-o-chocolate-peanut-butter-parfaits
 ---
 <img src='images/uploads/2008/05/jello_cosby1.jpg' alt='Jell-O Cosby' />
 

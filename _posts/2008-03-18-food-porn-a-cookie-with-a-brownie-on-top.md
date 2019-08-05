@@ -2,7 +2,7 @@
 layout: post
 title: 'Food Porn: A Cookie with a Brownie on Top'
 date: '2008-03-18T00:08:52+00:00'
-permalink: food-porn-a-cookie-with-a-brownie-on-top
+slug: food-porn-a-cookie-with-a-brownie-on-top
 ---
 <a href="http://www.flickr.com/photos/daffodilious/2184188053/in/set-72157600425490592/"><img src="http://farm3.static.flickr.com/2385/2184188053_6738400d0d.jpg?v=0" alt="brownie cookie" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Vegan Peanut Butter Cupcakes with Chocolate Frosting
 date: '2008-08-27T10:34:21+00:00'
-permalink: vegan-peanut-butter-cupcakes-with-chocolate-frosting
+slug: vegan-peanut-butter-cupcakes-with-chocolate-frosting
 ---
 <a href="http://www.flickr.com/photos/ashdmarcin/2794620810/"><img src="http://farm4.static.flickr.com/3269/2794620810_735dc19d2c.jpg?v=0" alt="Peanut Butter Cupcake" /></a>
 

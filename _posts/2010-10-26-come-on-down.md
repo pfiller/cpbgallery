@@ -2,9 +2,9 @@
 layout: post
 title: Come On Down!
 date: '2010-10-26T12:37:37+00:00'
-permalink: come-on-down
+slug: come-on-down
 ---
-<a href="images/uploads/2010/10/giveaway_01.gif"><img src="images/uploads/2010/10/giveaway_01.gif" alt="" title="giveaway_01" width="500" height="350" class="alignnone size-full wp-image-967" /></a>
+<a href="/images/uploads/2010/10/giveaway_01.gif"><img src="/images/uploads/2010/10/giveaway_01.gif" alt="" title="giveaway_01" width="500" height="350" class="alignnone size-full wp-image-967" /></a>
 
 It's time to announce the winner of <a href="http://www.cpbgallery.com/2010/10/21/giveaway-halloween-comes-early-in-nature-valley/#comments">my first-ever giveaway</a> w/goodies from Nature Valley! YaY!
 

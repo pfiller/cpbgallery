@@ -2,7 +2,7 @@
 layout: post
 title: Barley & Chocolate Peanut Butter Bars
 date: '2012-03-14T15:56:47+00:00'
-permalink: barley-chocolate-peanut-butter-bars
+slug: barley-chocolate-peanut-butter-bars
 ---
 <a href="http://www.flickr.com/photos/kstar810/6982130703/" title="Barley &amp; Chocolate Peanut Butter Bars by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7054/6982130703_078eb09e5c.jpg" width="500" height="333" alt="Barley &amp; Chocolate Peanut Butter Bars"></a>
 

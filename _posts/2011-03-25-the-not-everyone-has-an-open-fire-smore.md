@@ -2,7 +2,7 @@
 layout: post
 title: The "Not Everyone Has an Open Fire" S'more
 date: '2011-03-25T13:23:38+00:00'
-permalink: the-not-everyone-has-an-open-fire-smore
+slug: the-not-everyone-has-an-open-fire-smore
 ---
 <a title="Chocolate Hazelnut S'more by kstar810, on Flickr" href="http://www.flickr.com/photos/kstar810/5555734041/"><img src="http://farm6.static.flickr.com/5181/5555734041_999d9d1db1.jpg" alt="Chocolate Hazelnut S'more" width="500" height="333" /></a>
 

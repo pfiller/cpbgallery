@@ -2,7 +2,7 @@
 layout: post
 title: Good Ol' Fashioned [Fill in the Blank]
 date: '2008-03-02T00:05:41+00:00'
-permalink: good-ol-fashioned-fill-in-the-blank
+slug: good-ol-fashioned-fill-in-the-blank
 ---
 <a href="http://www.flickr.com/photos/kstar810/2200857666/in/set-72157603817944040/"><img src="http://farm3.static.flickr.com/2016/2200857666_99831cbfde.jpg?v=0" alt="thumbprints" /></a>
 

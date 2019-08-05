@@ -2,9 +2,9 @@
 layout: post
 title: PB&J to Save the World (No April Foolin')
 date: '2011-04-02T07:00:08+00:00'
-permalink: pbj-to-save-the-world-no-april-foolin
+slug: pbj-to-save-the-world-no-april-foolin
 ---
-<a href="images/uploads/2011/04/happy_pbandj_day.jpg"><img src="images/uploads/2011/04/happy_pbandj_day.jpg" alt="" title="happy_pbandj_day" width="500" height="350" class="alignnone size-full wp-image-2064" /></a>
+<a href="/images/uploads/2011/04/happy_pbandj_day.jpg"><img src="/images/uploads/2011/04/happy_pbandj_day.jpg" alt="" title="happy_pbandj_day" width="500" height="350" class="alignnone size-full wp-image-2064" /></a>
 
 Like most kids, I ate a lot of peanut butter & jelly sandwiches. Little did I know that this was a good thing for both my tastebuds and for the planet!
 

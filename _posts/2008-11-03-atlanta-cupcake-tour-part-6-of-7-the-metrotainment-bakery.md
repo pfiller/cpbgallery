@@ -2,7 +2,7 @@
 layout: post
 title: 'Atlanta cupcake Tour, Part 6 of 7: The Metrotainment Bakery'
 date: '2008-11-03T00:07:10+00:00'
-permalink: atlanta-cupcake-tour-part-6-of-7-the-metrotainment-bakery
+slug: atlanta-cupcake-tour-part-6-of-7-the-metrotainment-bakery
 ---
 <a href="http://www.flickr.com/photos/kstar810/2935351052/in/set-72157608008574439/"><img src="http://farm3.static.flickr.com/2380/2935351052_c087fe9620.jpg?v=0" alt="Metrotainment Red Velvet" /></a>
 

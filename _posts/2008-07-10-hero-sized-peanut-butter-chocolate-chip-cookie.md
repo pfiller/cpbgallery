@@ -2,7 +2,7 @@
 layout: post
 title: Hero Sized Peanut Butter Chocolate Chip Cookie
 date: '2008-07-10T07:43:50+00:00'
-permalink: hero-sized-peanut-butter-chocolate-chip-cookie
+slug: hero-sized-peanut-butter-chocolate-chip-cookie
 ---
 <a href="http://www.flickr.com/photos/danburgmurmur/2648104426/"><img src='images/uploads/2008/07/peanut_chocolate_chip.jpg' alt='Peanut Chocolate Chip Cookie' /></a>
 

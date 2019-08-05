@@ -2,7 +2,7 @@
 layout: post
 title: 'Fancy Food Show, Part II: Feed Your Soul Cookies'
 date: '2008-07-05T00:05:25+00:00'
-permalink: fancy-food-show-part-ii-feed-your-soul-cookies
+slug: fancy-food-show-part-ii-feed-your-soul-cookies
 ---
 <a href="http://flickr.com/photos/kstar810/2633522933/"><img src="http://farm4.static.flickr.com/3165/2633522933_0bb8f56d13.jpg?v=0" alt="Feed Your Soul Cookies" /></a>
 

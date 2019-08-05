@@ -2,7 +2,7 @@
 layout: post
 title: 'Honest Foods: Choco P''nut Butter Bar Review'
 date: '2008-03-12T09:36:21+00:00'
-permalink: honest-foods-choco-pnut-butter
+slug: honest-foods-choco-pnut-butter
 ---
 <img src='images/uploads/2008/03/honest_cpb.jpg' alt='honest' class="yellowborder" />
 

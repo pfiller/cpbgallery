@@ -2,7 +2,7 @@
 layout: post
 title: Jer's Cara Mella Peanut Butter Bar Review
 date: '2009-01-15T21:57:57+00:00'
-permalink: jers-cara-mella-peanut-butter-bar-review
+slug: jers-cara-mella-peanut-butter-bar-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/3193449046/"><img src="http://farm4.static.flickr.com/3092/3193449046_cec6c36459.jpg?v=0" alt="Jer's Cara Mella Peanut Butter Bar" /></a>
 

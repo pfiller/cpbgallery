@@ -2,7 +2,7 @@
 layout: post
 title: How It Feels to Eat a Cupcake
 date: '2008-05-26T00:05:59+00:00'
-permalink: how-it-feels-to-eat-a-cupcake
+slug: how-it-feels-to-eat-a-cupcake
 ---
 <a href="http://www.flickr.com/photos/katieelizabethphotography/2496516544/"><img src="http://farm3.static.flickr.com/2303/2496516544_692609678a.jpg?v=0" alt="Eating a Cupcake" /></a>
 

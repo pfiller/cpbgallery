@@ -2,7 +2,7 @@
 layout: post
 title: Midtown Manhattan Candy Store Tour
 date: '2008-05-05T00:05:34+00:00'
-permalink: midtown-manhattan-candy-store-tour
+slug: midtown-manhattan-candy-store-tour
 ---
 Wow, have I got a lot of fun stuff to show you today!
 

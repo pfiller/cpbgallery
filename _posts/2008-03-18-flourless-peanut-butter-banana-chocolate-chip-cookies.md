@@ -2,7 +2,7 @@
 layout: post
 title: Flourless Peanut Butter Banana Chocolate Chip Cookies
 date: '2008-03-18T00:05:32+00:00'
-permalink: flourless-peanut-butter-banana-chocolate-chip-cookies
+slug: flourless-peanut-butter-banana-chocolate-chip-cookies
 ---
 <a href="http://vegweb.com/index.php?topic=21318.0"><img src='images/uploads/2008/03/vegan_pbbancookie1.jpg' alt='vegan cookie with peanut butter and banana' class="yellowborder" /></a>
 

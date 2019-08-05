@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Nirvana Cake
 date: '2010-03-15T15:52:21+00:00'
-permalink: chocolate-peanut-butter-nirvana-cake
+slug: chocolate-peanut-butter-nirvana-cake
 ---
 <a href="http://www.jif.com/Recipes/Details.aspx?recipeID=3515"><img src='images/uploads/2010/03/nirvana_peanut_butter_cake1.jpg' alt='Nirvana Cake' /></a>
 

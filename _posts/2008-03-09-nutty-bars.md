@@ -2,7 +2,7 @@
 layout: post
 title: Nutty Bars
 date: '2008-03-09T00:05:49+00:00'
-permalink: nutty-bars
+slug: nutty-bars
 ---
 <img src='images/uploads/2008/03/nutty_bar_01.jpg' alt='nuttybarcloseup' class="yellowborder" />
 

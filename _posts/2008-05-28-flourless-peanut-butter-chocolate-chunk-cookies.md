@@ -2,7 +2,7 @@
 layout: post
 title: Flourless Peanut Butter Chocolate Chunk Cookies
 date: '2008-05-28T00:05:19+00:00'
-permalink: flourless-peanut-butter-chocolate-chunk-cookies
+slug: flourless-peanut-butter-chocolate-chunk-cookies
 ---
 <a href="http://www.recchiuti.com/cgi-bin/recchiuti/recipe_detail.html?recipe=02"><img src='images/uploads/2008/05/flourless_cookie.jpg' alt='Flourless Cookie' /></a>
 

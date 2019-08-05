@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Nutella Hot Chocolate
 date: '2010-01-31T09:04:10+00:00'
-permalink: peanut-butter-nutella-hot-chocolate
+slug: peanut-butter-nutella-hot-chocolate
 ---
 <a href="http://www.flickr.com/photos/kstar810/4313373791/"><img src="http://farm5.static.flickr.com/4072/4313373791_fc4b7c5c74.jpg" alt="peanut butter nutella hot chocolate" /></a>
 

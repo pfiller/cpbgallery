@@ -2,7 +2,7 @@
 layout: post
 title: I've been Tagged!!
 date: '2008-04-27T09:00:55+00:00'
-permalink: ive-been-tagged
+slug: ive-been-tagged
 ---
 <img src='images/uploads/2008/04/tag.gif' alt='tag' />
 

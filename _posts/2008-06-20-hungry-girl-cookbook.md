@@ -2,7 +2,7 @@
 layout: post
 title: Hungry Girl Cookbook
 date: '2008-06-20T00:05:55+00:00'
-permalink: hungry-girl-cookbook
+slug: hungry-girl-cookbook
 ---
 <a href="http://book.hungry-girl.com/chapter/8_chocolate-911"><img src='images/uploads/2008/06/cpb_bread_pudding1.jpg' alt='Chocolate Peanut Butter Bread Pudding' /></a>
 

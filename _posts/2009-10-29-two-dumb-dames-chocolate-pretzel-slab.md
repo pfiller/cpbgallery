@@ -2,7 +2,7 @@
 layout: post
 title: Two Dumb Dames' Pretzel Explosion
 date: '2009-10-29T09:00:46+00:00'
-permalink: two-dumb-dames-chocolate-pretzel-slab
+slug: two-dumb-dames-chocolate-pretzel-slab
 ---
 While spending a good amount of time in the car on our road trip a couple weeks ago, Taste Tester and I decided to count how many states we'd been to. After tallying him at 34 and me at 25, we decided to add another new one to the list: Arkansas. It was only a short drive away from where we were staying in Springfield, MO so we decided to take a day trip there. After getting some recommendations on various cities and parks to visit, we chose Eureka Springs. It's a quaint town that's got a similar vibe to Woodstock, NY (if you're a north-easterner). The difference is that it's larger and there are tons of awesome Victorian houses scattered all over the place.
 

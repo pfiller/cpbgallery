@@ -2,7 +2,7 @@
 layout: post
 title: Banana Chocolate Chip Cupcakes with Peanut Butter Cream Cheese Frosting
 date: '2012-02-18T17:10:59+00:00'
-permalink: banana-chocolate-chip-cupcakes-with-peanut-butter-cream-cheese-frosting
+slug: banana-chocolate-chip-cupcakes-with-peanut-butter-cream-cheese-frosting
 ---
 <a href="http://www.flickr.com/photos/kstar810/6897984399/" title="Cupcakes! by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7199/6897984399_558031aeec.jpg" width="500" height="333" alt="Cupcakes!"></a>
 

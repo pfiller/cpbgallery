@@ -2,7 +2,7 @@
 layout: post
 title: The end of cupcake week *sniff*
 date: '2008-04-04T08:10:14+00:00'
-permalink: the-end-of-cupcake-week-sniff
+slug: the-end-of-cupcake-week-sniff
 ---
 <a href="http://www.flickr.com/photos/whimsy_girl/2381869596/"><img src="http://farm3.static.flickr.com/2150/2381869596_edd4e6c778.jpg?v=0" alt="chocolate peanut butter cupcake" /></a>
 

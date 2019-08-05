@@ -2,7 +2,7 @@
 layout: post
 title: Awkward Monkey Donuts
 date: '2010-09-17T08:30:46+00:00'
-permalink: awkward-monkey-donuts
+slug: awkward-monkey-donuts
 ---
 <a href="http://www.flickr.com/photos/kstar810/4990514895/" title="Monkey-See Monkey-Donut by kstar810, on Flickr"><img src="http://farm5.static.flickr.com/4128/4990514895_7f7d7bb8d4.jpg" width="500" height="375" alt="Monkey-See Monkey-Donut" /></a>
 
@@ -12,7 +12,7 @@ Monday was my mom's birthday so I took the day off to spend the afternoon with h
 
 See? I wasn't exaggerating. There was literally no other human being, aside from the usher who was probably giving us dirty looks for giving him something to do.
 
-<a href="http://www.flickr.com/photos/kstar810/4991119760/"><img src="images/uploads/2010/09/4991119760_04b7671534.jpg" alt="" title="4991119760_04b7671534" width="500" height="334" class="alignnone size-full wp-image-843" /></a>
+<a href="http://www.flickr.com/photos/kstar810/4991119760/"><img src="/images/uploads/2010/09/4991119760_04b7671534.jpg" alt="" title="4991119760_04b7671534" width="500" height="334" class="alignnone size-full wp-image-843" /></a>
 
 We enjoyed the movie despite the abundance of not quite mom-friendly jokes. Even still it left a touch of residual awkwardness in the air, which we helped extinguish with a trip to Dunkin Donuts across the way. There was a new donut being advertised called the "Monkey-See Monkey-Donut", a donut filled with bananas foster filling, covered in chocolate icing and topped with Reese's Peanut Butter shavings. You know I couldn't walk out without trying it.
 

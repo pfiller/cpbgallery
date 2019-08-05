@@ -2,7 +2,7 @@
 layout: post
 title: Voodoo Doughnut  - The "No Name"
 date: '2008-10-02T09:55:05+00:00'
-permalink: voodoo-doughnut-the-no-name
+slug: voodoo-doughnut-the-no-name
 ---
 <a href="http://www.flickr.com/photos/jennifervincent/2852758876/"><img src='images/uploads/2008/10/voodoo_doughnut1.jpg' alt='Voodoo Doughnut' />
 </a>

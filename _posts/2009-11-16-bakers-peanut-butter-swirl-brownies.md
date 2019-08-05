@@ -2,7 +2,7 @@
 layout: post
 title: Baker's Peanut Butter Swirl Brownies
 date: '2009-11-16T09:00:25+00:00'
-permalink: bakers-peanut-butter-swirl-brownies
+slug: bakers-peanut-butter-swirl-brownies
 ---
 <a href="http://www.flickr.com/photos/kstar810/4044527870/"><img src="http://farm4.static.flickr.com/3528/4044527870_294775d252.jpg" alt="Peanut Butter Swirl Brownies" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Cupcakes! by Elinor Klivans
 date: '2008-09-02T07:49:49+00:00'
-permalink: cupcakes-by-elinor-klivans
+slug: cupcakes-by-elinor-klivans
 ---
 <a href="http://flickr.com/photos/kstar810/2819677055/"><img src="http://farm4.static.flickr.com/3026/2819677055_b771be76d1.jpg?v=0" alt="Cupcakes" /></a>
 

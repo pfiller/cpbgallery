@@ -2,7 +2,7 @@
 layout: post
 title: Reese's Milk Chocolate Peanut Butter Eggs
 date: '2010-02-26T09:00:30+00:00'
-permalink: reeses-milk-chocolate-peanut-butter-eggs
+slug: reeses-milk-chocolate-peanut-butter-eggs
 ---
 <a href="http://www.flickr.com/photos/kstar810/4387773782/"><img src="http://farm3.static.flickr.com/2773/4387773782_8a8b02162e.jpg" alt="Reeses Peanut Butter Easter Eggs" /></a>
 

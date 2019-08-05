@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Banana Cupcakes
 date: '2008-02-13T21:38:47+00:00'
-permalink: patrick-tests
+slug: patrick-tests
 ---
 <a href="http://www.flickr.com/photos/8507797@N03/1266498360/in/set-72157600285720855/"><img src="http://farm2.static.flickr.com/1310/1266437578_2cdf5e4e9a.jpg?v=0" alt="chocolate peanut butter banana cupcakes" /></a>
 

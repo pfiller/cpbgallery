@@ -2,7 +2,7 @@
 layout: post
 title: Petit Pain au Chocolate (and Peanut Butter!)
 date: '2008-08-20T00:05:27+00:00'
-permalink: petit-pain-au-chocolate-and-peanut-butter
+slug: petit-pain-au-chocolate-and-peanut-butter
 ---
 <a href="http://www.flickr.com/photos/kstar810/2778514693/"><img src="http://farm4.static.flickr.com/3038/2778514693_c632147bfa.jpg?v=0" alt="Chocolate Croissant" /></a>
 

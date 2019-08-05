@@ -2,7 +2,7 @@
 layout: post
 title: Have You Ever Had Sponge Candy?
 date: '2011-09-27T17:44:39+00:00'
-permalink: have-you-ever-had-sponge-candy
+slug: have-you-ever-had-sponge-candy
 ---
 <a href="http://www.flickr.com/photos/kstar810/6190201766/" title="Watson's Sponge Candy by kstar810, on Flickr"><img src="http://farm7.static.flickr.com/6162/6190201766_2faca687c2.jpg" width="500" height="333" alt="Watson's Sponge Candy"></a>
 

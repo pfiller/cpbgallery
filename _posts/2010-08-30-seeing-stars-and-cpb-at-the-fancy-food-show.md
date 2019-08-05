@@ -2,7 +2,7 @@
 layout: post
 title: Seeing Stars and CPB at The Fancy Food Show
 date: '2010-08-30T09:46:05+00:00'
-permalink: seeing-stars-and-cpb-at-the-fancy-food-show
+slug: seeing-stars-and-cpb-at-the-fancy-food-show
 ---
 <a href="http://www.flickr.com/photos/kstar810/4937365081/" title="me and Ina Garten by kstar810, on Flickr"><img src="http://farm5.static.flickr.com/4119/4937365081_8c56d46ffd.jpg" width="500" height="375" alt="me and Ina Garten" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Adventures in Foodie Land
 date: '2011-06-04T11:29:05+00:00'
-permalink: adventures-in-foodie-land
+slug: adventures-in-foodie-land
 ---
 <a href="http://www.flickr.com/photos/kstar810/5796724658/" title="Madison Square Eats by kstar810, on Flickr"><img src="http://farm4.static.flickr.com/3204/5796724658_1ac95c5c53.jpg" width="500" height="374" alt="Madison Square Eats"></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Aunt Joyce's Chocolate Cake with Peanut Butter Cream Cheese Frosting
 date: '2009-06-13T09:11:48+00:00'
-permalink: aunt-joyces-chocolate-cake-with-peanut-butter-cream-cheese-frosting
+slug: aunt-joyces-chocolate-cake-with-peanut-butter-cream-cheese-frosting
 ---
 <a href="http://www.flickr.com/photos/kstar810/3619598231/in/photostream/"><img src="http://farm4.static.flickr.com/3303/3619598231_34cb489fb4.jpg?v=0" alt="Chocolate Peanut Butter Cake" /></a>
 

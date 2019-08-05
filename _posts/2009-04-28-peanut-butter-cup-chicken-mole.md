@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Cup Chicken Mole
 date: '2009-04-28T20:19:51+00:00'
-permalink: peanut-butter-cup-chicken-mole
+slug: peanut-butter-cup-chicken-mole
 ---
 <a href="http://www.rachaelraymag.com/recipes/chicken-turkey-recipes/peanut-butter-cup-chicken-mole/article.html"><img src='images/uploads/2009/04/peanut_butter_cup_mole.jpg' alt='Peanut Butter Cup Mole' /></a>
 

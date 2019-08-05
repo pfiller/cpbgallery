@@ -2,7 +2,7 @@
 layout: post
 title: 'Ben & Jerry''s Clusterfluff Ice Cream w/Homemade Hot Fudge '
 date: '2011-05-06T14:14:25+00:00'
-permalink: ben-jerrys-clusterfluff-ice-cream-whomemade-hot-fudge
+slug: ben-jerrys-clusterfluff-ice-cream-whomemade-hot-fudge
 ---
 <a href="http://www.flickr.com/photos/kstar810/5693392413/" title="Ben &amp; Jerry's Clusterfluff Ice Cream by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5301/5693392413_c1794f3082.jpg" width="423" height="500" alt="Ben &amp; Jerry's Clusterfluff Ice Cream"></a>
 

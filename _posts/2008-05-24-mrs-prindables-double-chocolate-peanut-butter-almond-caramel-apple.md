@@ -2,7 +2,7 @@
 layout: post
 title: Mrs. Prindables Double Chocolate Peanut Butter Almond Caramel Apple
 date: '2008-05-24T00:05:56+00:00'
-permalink: mrs-prindables-double-chocolate-peanut-butter-almond-caramel-apple
+slug: mrs-prindables-double-chocolate-peanut-butter-almond-caramel-apple
 ---
 <img src='images/uploads/2008/05/cpb_apple.jpg' alt='Double Chocolate Peanut Butter Almond Caramel Apple' class="yellowborder"/>
 

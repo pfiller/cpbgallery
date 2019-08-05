@@ -2,7 +2,7 @@
 layout: post
 title: Candyfreak by Steve Almond
 date: '2008-04-01T00:15:07+00:00'
-permalink: candyfreak-by-steve-almond
+slug: candyfreak-by-steve-almond
 ---
 <img src='images/uploads/2008/03/candyfreak.gif' alt='candyfreak by Steve Almond' class="yellowborder" />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate PB Banana Empanadas
 date: '2008-02-15T05:29:16+00:00'
-permalink: here-is-a-title
+slug: here-is-a-title
 ---
 What to do when one has leftover pate brisee dough from making an apple pie? I did what any sensible person would do after they had already been baking all day and baked some more. It was a good decision. Instructions after the break.
 

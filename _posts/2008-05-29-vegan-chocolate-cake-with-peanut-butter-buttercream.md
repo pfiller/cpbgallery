@@ -2,7 +2,7 @@
 layout: post
 title: Vegan Chocolate Cake with Peanut Butter Buttercream
 date: '2008-05-29T00:05:35+00:00'
-permalink: vegan-chocolate-cake-with-peanut-butter-buttercream
+slug: vegan-chocolate-cake-with-peanut-butter-buttercream
 ---
 <a href="http://www.flickr.com/photos/riveras/2523753126/in/photostream/"><img src='images/uploads/2008/05/roses.jpg' alt='Vegan Chocolate Cake with Peanut Butter Buttercream' /></a>
 

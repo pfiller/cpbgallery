@@ -2,7 +2,7 @@
 layout: post
 title: Having a Ball?
 date: '2009-12-22T10:57:14+00:00'
-permalink: having-a-ball
+slug: having-a-ball
 ---
 <a href="http://www.flickr.com/photos/kstar810/3192603667/in/set-72157603817944040/"><img src='images/uploads/2009/12/jer_caramella.jpg' alt='Jers Caramella' /></a>
 

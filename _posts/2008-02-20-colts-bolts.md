@@ -2,7 +2,7 @@
 layout: post
 title: Colts Bolts
 date: '2008-02-20T07:20:58+00:00'
-permalink: colts-bolts
+slug: colts-bolts
 ---
 <a href="http://www.flickr.com/photos/typetive/2217458467/"><img src="http://farm3.static.flickr.com/2181/2217458467_c5001b5978.jpg?v=0" alt="colt bolt" /></a>
 

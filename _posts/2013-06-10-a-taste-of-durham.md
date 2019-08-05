@@ -2,13 +2,13 @@
 layout: post
 title: A Taste of Durham
 date: '2013-06-10T14:15:22+00:00'
-permalink: a-taste-of-durham
+slug: a-taste-of-durham
 ---
 <a href="http://www.flickr.com/photos/kstar810/8973182294/" title="Big Spoon Roasters Peanut Butter by kstar810, on Flickr"><img src="http://farm4.staticflickr.com/3787/8973182294_fdd166a0d6.jpg" width="500" height="313" alt="Big Spoon Roasters Peanut Butter"></a>
 
-<em>"You want to go to Durham just for peanut butter?"
+_"You want to go to Durham just for peanut butter?"_
 
-"Yep."</em>
+_"Yep."_
 
 My husband looked at me as if I'd said something crazy. Sure we live 500 miles from Durham, but he married a girl who writes <em>a blog about peanut butter</em>. This shocking lack of understanding made me question our marriage.
 

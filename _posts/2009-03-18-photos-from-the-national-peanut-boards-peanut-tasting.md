@@ -2,7 +2,7 @@
 layout: post
 title: Photos From The National Peanut Board's Peanut Tasting - Coming Soon!
 date: '2009-03-18T10:55:48+00:00'
-permalink: photos-from-the-national-peanut-boards-peanut-tasting
+slug: photos-from-the-national-peanut-boards-peanut-tasting
 ---
 After writing that I didn't have many pictures from <a href="http://www.cpbgallery.com/2009/03/10/the-national-peanut-boards-peanut-tasting-event-in-nyc/">The NPB's Peanut Tasting Event</a>, a few people kindly contacted me with photos of various products that were served or given out in goodie bags at the event. So sorry for the delay in postings, but I've been busy writing big long posts about said products (complete with pictures!) and they take a big long time to write. They will be up soon - I promise!
 

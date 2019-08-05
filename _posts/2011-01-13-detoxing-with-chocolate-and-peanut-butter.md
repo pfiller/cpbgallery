@@ -2,7 +2,7 @@
 layout: post
 title: Detoxing with Chocolate and Peanut Butter
 date: '2011-01-13T12:20:21+00:00'
-permalink: detoxing-with-chocolate-and-peanut-butter
+slug: detoxing-with-chocolate-and-peanut-butter
 ---
 <a href="http://www.flickr.com/photos/kstar810/5352258740/" title="Honey Peanut Butter by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5210/5352258740_55c45a5540.jpg" width="500" height="433" alt="Honey Peanut Butter" /></a>
 

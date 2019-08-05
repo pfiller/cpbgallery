@@ -2,7 +2,7 @@
 layout: post
 title: Spread Peanut Butter
 date: '2008-02-15T10:05:50+00:00'
-permalink: spread-peanut-butter
+slug: spread-peanut-butter
 ---
 <a href="http://www.spreadtherestaurant.com/" title="Spread" target="_blank">Spread</a> is a restaurant in San Diego, California that serves "nouveau comfort food" and sells it's own brand of flavored peanut butters. C&amp;PB flavors include cookies &amp; cream, dark chocolate chili, dark chocolate espresso &amp; dark chocolate infused with pretzels. 
 

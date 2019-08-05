@@ -2,7 +2,7 @@
 layout: post
 title: 'GNC ProCrunch: Peanut Butter Crunch'
 date: '2008-04-06T08:57:54+00:00'
-permalink: gnc-procrunch-peanut-butter-crunch
+slug: gnc-procrunch-peanut-butter-crunch
 ---
 <a href="http://www.flickr.com/photos/kstar810/2392500640/"><img src="http://farm3.static.flickr.com/2099/2392500640_9344845c63.jpg?v=0" alt="GNC ProCrunch: Peanut Butter Crunch" /></a>
 

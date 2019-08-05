@@ -2,7 +2,7 @@
 layout: post
 title: Oatmeal Pancakes w/ PB Maple Sauce and Chocolate Butter
 date: '2012-01-30T14:30:06+00:00'
-permalink: oatmeal-pancakes-w-pb-maple-sauce-and-chocolate-butter
+slug: oatmeal-pancakes-w-pb-maple-sauce-and-chocolate-butter
 ---
 <a href="http://www.flickr.com/photos/kstar810/6790325287/" title="Oatmeal Pancakes w/Chocolate Butter &amp; PB Maple Sauce by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7019/6790325287_1cf98bcf62.jpg" width="500" height="333" alt="Oatmeal Pancakes w/Chocolate Butter &amp; PB Maple Sauce"></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Crunchy Milk Chocolate PB Layer Cake
 date: '2008-02-29T01:18:24+00:00'
-permalink: crunchy-pb-cake
+slug: crunchy-pb-cake
 ---
 <a href="http://desertculinary.blogspot.com/2005/05/crunchy-milk-chocolatepeanut-butter.html"><img src='images/uploads/2008/03/crunchypbcake2.jpg' alt='crunchy Milk Chocolate PB Layer Cake' class="yellowborder" /></a>
 

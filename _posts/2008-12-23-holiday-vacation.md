@@ -2,7 +2,7 @@
 layout: post
 title: Holiday Vacation
 date: '2008-12-23T18:37:27+00:00'
-permalink: holiday-vacation
+slug: holiday-vacation
 ---
 <img src='images/uploads/2008/12/winter_vacation.gif' alt='Winter Vacation' class="yellowborder"/>
 

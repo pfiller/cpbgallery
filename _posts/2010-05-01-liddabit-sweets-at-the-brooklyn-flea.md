@@ -2,7 +2,7 @@
 layout: post
 title: Liddabit Sweets at The Brooklyn Flea
 date: '2010-05-01T13:31:06+00:00'
-permalink: liddabit-sweets-at-the-brooklyn-flea
+slug: liddabit-sweets-at-the-brooklyn-flea
 ---
 Behold, the leaning tower of chocolate peanut butter bars! Bow down to its glory, mere mortal! And read on to find out where to get your own.
 

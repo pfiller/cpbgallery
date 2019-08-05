@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Monster Brownies
 date: '2010-10-27T09:31:40+00:00'
-permalink: chocolate-peanut-butter-monster-brownies
+slug: chocolate-peanut-butter-monster-brownies
 ---
 <a href="http://www.flickr.com/photos/kstar810/5112315523/" title="Halloween Brownie Monster by kstar810, on Flickr"><img src="http://farm5.static.flickr.com/4132/5112315523_4e1eaffdb3.jpg" width="500" height="333" alt="Halloween Brownie Monster" /></a>
 

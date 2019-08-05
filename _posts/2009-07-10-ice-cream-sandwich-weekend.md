@@ -2,7 +2,7 @@
 layout: post
 title: Ice Cream Sandwich Weekend
 date: '2009-07-10T13:26:24+00:00'
-permalink: ice-cream-sandwich-weekend
+slug: ice-cream-sandwich-weekend
 ---
 <img src='images/uploads/2009/07/sandwich_weekend1.gif' alt='Ice Cream Sandwich Weekend' class="yellowborder" />
 

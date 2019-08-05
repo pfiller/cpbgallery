@@ -2,7 +2,7 @@
 layout: post
 title: Red Eye Rice Treats
 date: '2008-03-03T00:05:03+00:00'
-permalink: red-eye-rice-treats
+slug: red-eye-rice-treats
 ---
 <a href="http://www.flickr.com/photos/blushinmuffin/2216912064/"><img src='images/uploads/2008/03/redeye.jpg' alt='red eye' /></a>
 

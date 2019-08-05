@@ -2,7 +2,7 @@
 layout: post
 title: Peanut-Banana Espresso Smoothie
 date: '2011-01-23T10:31:56+00:00'
-permalink: peanut-banana-espresso-smoothie
+slug: peanut-banana-espresso-smoothie
 ---
 <a href="http://www.flickr.com/photos/kstar810/5381026030/" title="Peanut-Banana Espresso Smoothie by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5004/5381026030_3b9b32ff2e.jpg" width="500" height="375" alt="Peanut-Banana Espresso Smoothie" /></a>
 

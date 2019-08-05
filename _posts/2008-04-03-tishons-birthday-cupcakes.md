@@ -2,7 +2,7 @@
 layout: post
 title: Tishon's birthday cupcakes
 date: '2008-04-03T00:05:40+00:00'
-permalink: tishons-birthday-cupcakes
+slug: tishons-birthday-cupcakes
 ---
 <a href="http://www.flickr.com/photos/kstar810/1396656807/in/set-72157603817944040/"><img src="http://farm2.static.flickr.com/1429/1396656807_fbd118efdc.jpg?v=0" alt="tishon's birthday cupcakes" /></a>
 

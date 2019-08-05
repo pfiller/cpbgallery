@@ -2,7 +2,7 @@
 layout: post
 title: Zingerman's Original Zzang Bar Review
 date: '2008-08-06T11:05:01+00:00'
-permalink: zingermans-original-zzang-bar-review
+slug: zingermans-original-zzang-bar-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/2721469812/"><img src="http://farm4.static.flickr.com/3231/2721469812_c19b658db1.jpg?v=0" alt="zzang bar" /></a>
 

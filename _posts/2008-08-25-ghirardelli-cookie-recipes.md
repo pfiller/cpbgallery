@@ -2,7 +2,7 @@
 layout: post
 title: Ghirardelli Cookie Recipes
 date: '2008-08-25T08:22:18+00:00'
-permalink: ghirardelli-cookie-recipes
+slug: ghirardelli-cookie-recipes
 ---
 <a href="http://flickr.com/photos/kstar810/2794175841/"><img src="http://farm4.static.flickr.com/3096/2794175841_f4b7760b79.jpg?v=0" alt="Chocolate Chip Cookie" /></a>
 

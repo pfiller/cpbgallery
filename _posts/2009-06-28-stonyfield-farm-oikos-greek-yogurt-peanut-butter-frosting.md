@@ -2,7 +2,7 @@
 layout: post
 title: Stonyfield Farm Oikos Greek Yogurt Peanut Butter Frosting
 date: '2009-06-28T10:55:30+00:00'
-permalink: stonyfield-farm-oikos-greek-yogurt-peanut-butter-frosting
+slug: stonyfield-farm-oikos-greek-yogurt-peanut-butter-frosting
 ---
 <a href="http://www.flickr.com/photos/kstar810/3667351031/"><img src="http://farm3.static.flickr.com/2432/3667351031_8cb2f46de4.jpg?v=0" alt="Oikos Greek Yogurt" /></a>
 

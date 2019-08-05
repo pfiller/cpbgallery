@@ -2,7 +2,7 @@
 layout: post
 title: Easter Candy
 date: '2008-03-23T08:10:27+00:00'
-permalink: easter-candy
+slug: easter-candy
 ---
 <img src='images/uploads/2008/03/easter_eggs1.gif' alt='Easter Candy' class="yellowborder" />
 

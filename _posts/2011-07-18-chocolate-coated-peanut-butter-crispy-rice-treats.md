@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate-Coated Peanut Butter Crispy Rice Treats
 date: '2011-07-18T07:00:51+00:00'
-permalink: chocolate-coated-peanut-butter-crispy-rice-treats
+slug: chocolate-coated-peanut-butter-crispy-rice-treats
 ---
 <a href="http://www.flickr.com/photos/kstar810/5905446769/" title="Peanut Butter Crispy Rice Treats by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5317/5905446769_57499437f4.jpg" width="500" height="333" alt="Peanut Butter Crispy Rice Treats"></a>
 

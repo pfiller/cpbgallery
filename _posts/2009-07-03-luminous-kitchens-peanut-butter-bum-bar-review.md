@@ -2,7 +2,7 @@
 layout: post
 title: Luminous Kitchen's Peanut Butter Bum Bar Review
 date: '2009-07-03T09:53:11+00:00'
-permalink: luminous-kitchens-peanut-butter-bum-bar-review
+slug: luminous-kitchens-peanut-butter-bum-bar-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/3576497038/"><img src="http://farm4.static.flickr.com/3398/3576497038_902dc3deab.jpg?v=0" alt="Peanut Butter Bum Bar" /></a>
 

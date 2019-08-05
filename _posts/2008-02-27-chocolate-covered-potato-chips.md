@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Covered... Potato Chips?
 date: '2008-02-27T05:35:05+00:00'
-permalink: chocolate-covered-potato-chips
+slug: chocolate-covered-potato-chips
 ---
 <a href="http://www.flickr.com/photos/kstar810/376443558/in/set-72157603817944040/"><img src='images/uploads/2008/02/pb_chip.jpg' alt='pbchip' /></a>
 

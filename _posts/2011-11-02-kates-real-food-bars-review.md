@@ -2,7 +2,7 @@
 layout: post
 title: Kate's Real Food Bars Review
 date: '2011-11-02T10:15:20+00:00'
-permalink: kates-real-food-bars-review
+slug: kates-real-food-bars-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/6305889414/" title="Kate's Real Food, Real Energy Bars by kstar810, on Flickr"><img src="http://farm7.static.flickr.com/6054/6305889414_c440d837da.jpg" width="500" height="333" alt="Kate's Real Food, Real Energy Bars"></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Space Monster Ice Cream
 date: '2011-08-10T08:42:54+00:00'
-permalink: space-monster-ice-cream
+slug: space-monster-ice-cream
 ---
 <a href="http://www.flickr.com/photos/kstar810/6029050826/" title="Space Monster Ice Cream by kstar810, on Flickr"><img src="http://farm7.static.flickr.com/6082/6029050826_7a67c0223d.jpg" width="500" height="333" alt="Space Monster Ice Cream"></a>
 

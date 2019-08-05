@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Brick Toast with Chocolate Syrup
 date: '2008-03-26T00:05:18+00:00'
-permalink: peanut-butter-brick-toast-with-chocolate-syrup
+slug: peanut-butter-brick-toast-with-chocolate-syrup
 ---
 <a href="http://www.flickr.com/photos/aiyah/2348917012/"><img src='images/uploads/2008/03/pb_sqfrenchtoast.jpg' alt='pb french toast' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Another (Better?) Chicago Sweets Tour
 date: '2010-08-26T11:50:28+00:00'
-permalink: another-better-chicago-sweets-tour
+slug: another-better-chicago-sweets-tour
 ---
 Three weeks in the Chicagoland area sounded like a long time and yet it flew by. We saw lots and ate lots on our trip. We had one last weekend in the city before leaving the area and tried to make the most of it.
 

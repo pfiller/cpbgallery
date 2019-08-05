@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Opera Cake & Happy Face Peanut Butter Pancakes
 date: '2010-08-25T13:07:02+00:00'
-permalink: chocolate-opera-cake-happy-face-peanut-butter-pancakes
+slug: chocolate-opera-cake-happy-face-peanut-butter-pancakes
 ---
 <a href="http://www.flickr.com/photos/kstar810/4901940828/" title="Chocolate Opera Birthday Cake by kstar810, on Flickr"><img src="http://farm5.static.flickr.com/4075/4901940828_180bbd57f6.jpg" width="500" height="333" alt="Chocolate Opera Birthday Cake" /></a>
 

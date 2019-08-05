@@ -2,7 +2,7 @@
 layout: post
 title: 'Peanut butter m&m trail mix '
 date: '2008-02-19T12:39:23+00:00'
-permalink: peanut-butter-mm-trail-mix
+slug: peanut-butter-mm-trail-mix
 ---
 <a href="http://www.flickr.com/photos/kstar810/2278103912/"><img src="http://farm3.static.flickr.com/2051/2278103912_b21ff0282c.jpg?v=0" alt="peanut butter m&m trail mix" /></a>
 

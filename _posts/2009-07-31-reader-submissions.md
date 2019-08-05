@@ -2,7 +2,7 @@
 layout: post
 title: Reader Submissions
 date: '2009-07-31T15:23:49+00:00'
-permalink: reader-submissions
+slug: reader-submissions
 ---
 <img src='images/uploads/2009/07/telepathy1.gif' alt='Telepathy' />
 

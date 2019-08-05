@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Crepes (Tropical, PB&J, Fluffernutter & PB Samoa)
 date: '2011-02-28T12:44:51+00:00'
-permalink: peanut-butter-crepes-tropical-pbj-fluffernutter-pb-samoa
+slug: peanut-butter-crepes-tropical-pbj-fluffernutter-pb-samoa
 ---
 <a href="http://www.flickr.com/photos/kstar810/5484407022/" title="Peanut Butter Crepes by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5212/5484407022_81c16e4ca7.jpg" width="500" height="290" alt="Peanut Butter Crepes" /></a>
 

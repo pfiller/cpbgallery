@@ -2,7 +2,7 @@
 layout: post
 title: Banana Dark Chocolate Stuffed French Toast
 date: '2008-02-17T16:36:58+00:00'
-permalink: banana-dark-chocolate-stuffed-french-toast
+slug: banana-dark-chocolate-stuffed-french-toast
 ---
 <a href="http://www.flickr.com/photos/kstar810/2276690619/in/photostream/"><img src="http://farm3.static.flickr.com/2342/2276690619_a8b1e24687.jpg?v=0" alt="banana dark chocolate stuffed french toast" /></a>
 

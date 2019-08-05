@@ -2,7 +2,7 @@
 layout: post
 title: King's Trading Post Party Store Review
 date: '2008-08-02T00:05:10+00:00'
-permalink: kings-trading-post-party-store-review
+slug: kings-trading-post-party-store-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/2714591956/"><img src='images/uploads/2008/08/kings_trading_post.jpg' alt='King’s Trading Post' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Martha Stewart's Brownie and Peanut Butter Ice Cream Sandwiches
 date: '2008-06-27T12:02:44+00:00'
-permalink: martha-stewarts-brownie-and-peanut-butter-ice-cream-sandwiches
+slug: martha-stewarts-brownie-and-peanut-butter-ice-cream-sandwiches
 ---
 <a href="http://www.marthastewart.com/recipe/brownie-and-peanut-butter-ice-cream-sandwiches"><img src='images/uploads/2008/06/martha_sandwiches1.jpg' alt='Martha Stewart’s Brownie and Peanut Butter Ice Cream Sandwiches' /></a>
 

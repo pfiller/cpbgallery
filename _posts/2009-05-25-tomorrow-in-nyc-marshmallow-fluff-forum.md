@@ -2,7 +2,7 @@
 layout: post
 title: 'Tomorrow in NYC: Marshmallow Fluff Forum'
 date: '2009-05-25T13:15:17+00:00'
-permalink: tomorrow-in-nyc-marshmallow-fluff-forum
+slug: tomorrow-in-nyc-marshmallow-fluff-forum
 ---
 <img src='images/uploads/2009/05/fluffy_forum.jpg' alt='Fluff Forum' class="yellowborder" />
 

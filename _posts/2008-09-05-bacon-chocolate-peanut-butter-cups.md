@@ -2,7 +2,7 @@
 layout: post
 title: Bacon Chocolate Peanut Butter Cups
 date: '2008-09-05T10:18:58+00:00'
-permalink: bacon-chocolate-peanut-butter-cups
+slug: bacon-chocolate-peanut-butter-cups
 ---
 <a href="http://www.flickr.com/photos/exoskeletoncabaret/2827329336/"><img src='images/uploads/2008/09/bacon_peanut_butter_cup1.jpg' alt='Bacon Chocolate Peanut Butter Cup' /></a>
 

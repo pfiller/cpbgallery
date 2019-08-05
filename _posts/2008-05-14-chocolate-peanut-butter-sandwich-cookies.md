@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Sandwich Cookies
 date: '2008-05-14T22:10:22+00:00'
-permalink: chocolate-peanut-butter-sandwich-cookies
+slug: chocolate-peanut-butter-sandwich-cookies
 ---
 <a href="http://flickr.com/photos/kstar810/2493079145/in/photostream/"><img src="http://farm3.static.flickr.com/2036/2493079145_57abc4165c.jpg?v=0" alt="Chocolate Peanut Butter Sandwich Cookies" /></a>
 

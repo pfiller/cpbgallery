@@ -2,7 +2,7 @@
 layout: post
 title: Wegman's Creamy Peanut Butter & Farrell Fruit's Raspberry Jam
 date: '2011-09-29T11:53:05+00:00'
-permalink: wegmans-creamy-peanut-butter-farrell-fruits-raspberry-jam
+slug: wegmans-creamy-peanut-butter-farrell-fruits-raspberry-jam
 ---
 <a href="http://www.flickr.com/photos/kstar810/6192025641/" title="Peanut Butter &amp; Jelly by kstar810, on Flickr"><img src="http://farm7.static.flickr.com/6168/6192025641_588d7e0cb6.jpg" width="500" height="333" alt="Peanut Butter &amp; Jelly"></a>
 

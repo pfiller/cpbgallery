@@ -2,7 +2,7 @@
 layout: post
 title: Two new Peanut Butter & Co Peanut Butters!
 date: '2008-04-02T00:27:14+00:00'
-permalink: two-new-peanut-butter-co-peanut-butters
+slug: two-new-peanut-butter-co-peanut-butters
 ---
 <a href="http://www.flickr.com/photos/kstar810/2382065994/"><img src="http://farm4.static.flickr.com/3079/2382065994_f03b5b5bcd.jpg?v=0" alt="maple and bees knees peanut butter" /></a>
 

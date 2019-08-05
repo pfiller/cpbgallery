@@ -2,7 +2,7 @@
 layout: post
 title: 'Atlanta Cupcake Tour, Part 3 of 7: The Atlanta Cupcake Factory'
 date: '2008-10-25T17:53:07+00:00'
-permalink: atlanta-cupcake-tour-part-3-of-7-the-atlanta-cupcake-factory
+slug: atlanta-cupcake-tour-part-3-of-7-the-atlanta-cupcake-factory
 ---
 <a href="http://www.flickr.com/photos/kstar810/2940163146/in/set-72157608008574439/"><img src="http://farm4.static.flickr.com/3038/2940163146_d2a97718ed.jpg?v=0" alt="Atlanta Cupcake Factory" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Jenny Loves Chocolate and Peanut Butter. Sorry, Forrest.
 date: '2009-09-02T09:15:49+00:00'
-permalink: jenny-loves-chocolate-and-peanut-butter-sorry-forrest
+slug: jenny-loves-chocolate-and-peanut-butter-sorry-forrest
 ---
 <img src='images/uploads/2009/09/forrest_gump_jenny.jpg' alt='forrest gump' class="yellowborder" />
 

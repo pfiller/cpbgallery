@@ -2,7 +2,7 @@
 layout: post
 title: thinkGreen Peanut Butter Chocolate Bar Review
 date: '2008-03-15T00:05:10+00:00'
-permalink: thinkgreen-peanut-butter-chocolate-bar
+slug: thinkgreen-peanut-butter-chocolate-bar
 ---
 <img src='images/uploads/2008/03/think_green1.jpg' alt='thinkgreen' class= "yellowborder" />
 

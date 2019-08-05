@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Cookie Treats
 date: '2009-05-23T09:56:40+00:00'
-permalink: chocolate-peanut-butter-cookie-treats
+slug: chocolate-peanut-butter-cookie-treats
 ---
 <a href="http://www.flickr.com/photos/kstar810/3556734616/"><img src="http://farm3.static.flickr.com/2444/3556734616_c38c0276a0.jpg?v=0" alt="Chocolate Peanut Butter Cookie Treat" /></a>
 

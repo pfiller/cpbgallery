@@ -2,7 +2,7 @@
 layout: post
 title: A-Rod Wins at Brooklyn Kitchen's 3rd Annual Cupcake Cookoff
 date: '2009-05-12T13:17:13+00:00'
-permalink: a-rod-wins-at-brooklyn-kitchens-3rd-annual-cupcake-cookoff
+slug: a-rod-wins-at-brooklyn-kitchens-3rd-annual-cupcake-cookoff
 ---
 <a href="http://www.flickr.com/photos/kainproductions/3523604907/"><img src="http://farm4.static.flickr.com/3394/3523604907_e60551306a.jpg?v=1242096771" alt="A-Rod Cupcakes" /></a>
 

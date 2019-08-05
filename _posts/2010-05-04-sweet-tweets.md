@@ -2,7 +2,7 @@
 layout: post
 title: Sweet Tweets
 date: '2010-05-04T09:00:40+00:00'
-permalink: sweet-tweets
+slug: sweet-tweets
 ---
 <img src='images/uploads/2010/05/cpbgallery_twitter4.png' alt='cpbgallery twitter' />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Nanaimo Bar
 date: '2008-03-14T00:05:43+00:00'
-permalink: peanut-butter-nanaimo-bar
+slug: peanut-butter-nanaimo-bar
 ---
 <a href="http://www.flickr.com/photos/maojlehman/2119006896/"><img src='images/uploads/2008/03/nanaimo.jpg' alt='nanaimo' /></a>
 

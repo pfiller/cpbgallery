@@ -2,7 +2,7 @@
 layout: post
 title: CPB Bagels from The Bagel Store in Williamsburg
 date: '2010-05-23T12:49:54+00:00'
-permalink: cpb-bagels-from-the-bagel-store-in-williamsburg
+slug: cpb-bagels-from-the-bagel-store-in-williamsburg
 ---
 <a href="http://www.flickr.com/photos/kstar810/4632026930/"><img src="http://farm5.static.flickr.com/4035/4632026930_0a587ef930.jpg" alt="Chocolate Peanut Butter Bagels" /></a>
 

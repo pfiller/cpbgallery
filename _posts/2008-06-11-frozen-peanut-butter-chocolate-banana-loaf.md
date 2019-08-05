@@ -2,7 +2,7 @@
 layout: post
 title: Frozen Peanut Butter Chocolate Banana Loaf
 date: '2008-06-11T00:47:39+00:00'
-permalink: frozen-peanut-butter-chocolate-banana-loaf
+slug: frozen-peanut-butter-chocolate-banana-loaf
 ---
 <img src='images/uploads/2008/06/brrr.gif' alt='Frozen Peanut Butter Chocolate Banana Loaf' />
 

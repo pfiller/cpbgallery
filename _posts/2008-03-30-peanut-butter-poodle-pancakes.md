@@ -2,7 +2,7 @@
 layout: post
 title: Rachel Ray's Peanut Butter Poodle Pancakes
 date: '2008-03-30T00:05:33+00:00'
-permalink: peanut-butter-poodle-pancakes
+slug: peanut-butter-poodle-pancakes
 ---
 <img src='images/uploads/2008/03/poodle_pancakes.jpg' alt='poodle pancakes' class ="yellowborder"/>
 

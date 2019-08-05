@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate & Peanut Butter Sandwich Cookies from 'wichcraft
 date: '2010-04-15T09:00:57+00:00'
-permalink: chocolate-peanut-butter-sandwich-cookies-from-wichcraft
+slug: chocolate-peanut-butter-sandwich-cookies-from-wichcraft
 ---
 <a href="http://www.flickr.com/photos/kstar810/4519296686/in/photostream"><img src="http://farm5.static.flickr.com/4010/4519296686_7102f062fd.jpg" alt="Chocolate & Peanut Butter Sandwich Cookies from 'wichcraft" /></a>
 

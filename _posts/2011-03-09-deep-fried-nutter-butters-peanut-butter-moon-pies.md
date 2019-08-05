@@ -2,7 +2,7 @@
 layout: post
 title: Deep-Fried Nutter Butters & Peanut Butter Moon Pies
 date: '2011-03-09T18:10:43+00:00'
-permalink: deep-fried-nutter-butters-peanut-butter-moon-pies
+slug: deep-fried-nutter-butters-peanut-butter-moon-pies
 ---
 From the moment we bought our tickets to Texas, our cousin Alex forewarned us that we'd be eating some gator. He took us to Port Arthur's version of Mardi Gras where we found food stands with signs like this:
 

@@ -2,9 +2,9 @@
 layout: post
 title: Chocolate Soup with Fresh Cut Marshmallows
 date: '2011-05-16T22:24:26+00:00'
-permalink: chocolate-soup-with-fresh-cut-marshmallows
+slug: chocolate-soup-with-fresh-cut-marshmallows
 ---
-<a href="images/uploads/2011/05/hot_chocolate_soup.jpg"><img src="images/uploads/2011/05/hot_chocolate_soup.jpg" alt="" title="hot_chocolate_soup" width="500" height="350" class="alignnone size-full wp-image-2174" /></a>
+<a href="/images/uploads/2011/05/hot_chocolate_soup.jpg"><img src="/images/uploads/2011/05/hot_chocolate_soup.jpg" alt="" title="hot_chocolate_soup" width="500" height="350" class="alignnone size-full wp-image-2174" /></a>
 
 I hate the winter. I'm pretty sure there are only three things that make it tolerable:
 1) It's an excuse to drink hot chocolate. Lots and lots of hot chocolate.

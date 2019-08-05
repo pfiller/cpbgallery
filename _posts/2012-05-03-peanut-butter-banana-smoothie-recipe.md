@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Banana Smoothie Recipe
 date: '2012-05-03T10:35:27+00:00'
-permalink: peanut-butter-banana-smoothie-recipe
+slug: peanut-butter-banana-smoothie-recipe
 ---
 <a href="http://www.flickr.com/photos/kstar810/6992840878/" title="Peanut Butter Banana Smoothie by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7089/6992840878_f69c7741c5.jpg" width="500" height="333" alt="Peanut Butter Banana Smoothie"></a>
 

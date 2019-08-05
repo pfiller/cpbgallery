@@ -2,7 +2,7 @@
 layout: post
 title: 'Atlanta Cupcake Tour, Part 1 of 7: The Highland Bakery'
 date: '2008-10-21T22:43:16+00:00'
-permalink: atlanta-cupcake-tour-part-1-of-7-the-highland-bakery
+slug: atlanta-cupcake-tour-part-1-of-7-the-highland-bakery
 ---
 <a href="http://flickr.com/photos/kstar810/2935358722/in/set-72157608008574439/"><img src="http://farm4.static.flickr.com/3182/2935358722_c22e9333f3.jpg?v=0" alt="Highland Bakery" /></a>
 

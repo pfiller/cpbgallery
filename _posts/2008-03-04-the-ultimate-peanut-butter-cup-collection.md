@@ -2,7 +2,7 @@
 layout: post
 title: The Ultimate Peanut Butter Cup Collection
 date: '2008-03-04T00:05:13+00:00'
-permalink: the-ultimate-peanut-butter-cup-collection
+slug: the-ultimate-peanut-butter-cup-collection
 ---
 <a href="http://www.flickr.com/photos/princess_of_llyr/2084251451/"><img src="http://farm3.static.flickr.com/2268/2084251451_8856129d84.jpg?v=0" alt="peanut butter cup collection" /></a>
 

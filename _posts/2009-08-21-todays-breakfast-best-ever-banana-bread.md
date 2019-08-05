@@ -2,7 +2,7 @@
 layout: post
 title: 'Today''s Breakfast: Best Ever Banana Bread'
 date: '2009-08-21T09:00:44+00:00'
-permalink: todays-breakfast-best-ever-banana-bread
+slug: todays-breakfast-best-ever-banana-bread
 ---
 <a href="http://www.flickr.com/photos/kstar810/3837756975/in/photostream/"><img src="http://farm4.static.flickr.com/3578/3837756975_e3953b372e.jpg" alt="best ever banana bread" /></a>
 

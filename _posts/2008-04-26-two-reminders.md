@@ -2,7 +2,7 @@
 layout: post
 title: Two reminders
 date: '2008-04-26T08:26:44+00:00'
-permalink: two-reminders
+slug: two-reminders
 ---
 <a href="http://flickr.com/photos/kstar810/2443004956/"><img src="http://farm4.static.flickr.com/3185/2443004956_392fc4224c.jpg?v=0" alt="sesame bagel with chocolate peanut butter cream cheese spread" /></a>
 

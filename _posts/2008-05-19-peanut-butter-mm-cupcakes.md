@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate & Vanilla Buttercream Icings
 date: '2008-05-19T00:05:36+00:00'
-permalink: peanut-butter-mm-cupcakes
+slug: peanut-butter-mm-cupcakes
 ---
 <a href="http://flickr.com/photos/kstar810/2504194236/"><img src="http://farm4.static.flickr.com/3029/2504194236_30045f799d.jpg?v=0" alt="Peanut Butter M&M Cupcakes"/></a>
 

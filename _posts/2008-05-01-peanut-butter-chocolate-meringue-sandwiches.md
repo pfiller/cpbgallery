@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Chocolate Meringue Sandwiches
 date: '2008-05-01T00:05:34+00:00'
-permalink: peanut-butter-chocolate-meringue-sandwiches
+slug: peanut-butter-chocolate-meringue-sandwiches
 ---
 <img src='images/uploads/2008/04/pb_meringue.jpg' alt='Peanut Butter Chocolate Meringue Sandwiches' />
 

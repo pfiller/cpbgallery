@@ -2,7 +2,7 @@
 layout: post
 title: Choco-Peanut Butter Banana Breakfast Strudel
 date: '2009-01-11T23:25:33+00:00'
-permalink: choco-peanut-butter-banana-breakfast-strudel
+slug: choco-peanut-butter-banana-breakfast-strudel
 ---
 <a href="http://www.pillsbury.com/Recipes/ShowRecipe.aspx?rid=44995"><img src='images/uploads/2009/01/cpb_strudel.jpg' alt='Choco-Peanut Butter Banana Breakfast Strudel' /></a>
 

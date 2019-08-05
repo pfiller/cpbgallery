@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Terrine with Roasted Peanuts
 date: '2009-09-01T09:37:03+00:00'
-permalink: chocolate-peanut-butter-terrine-with-roasted-peanuts
+slug: chocolate-peanut-butter-terrine-with-roasted-peanuts
 ---
 <a href="http://www.epicurious.com/recipes/food/views/Chocolate-Peanut-Butter-Terrine-with-Sugared-Peanuts-354429"><img src='images/uploads/2009/08/chocolate_pb_terrine2.jpg' alt='Chocolate Peanut Butter Terrine with Roasted Peanuts' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Madelaine's Chocolate Duets
 date: '2010-04-09T09:00:57+00:00'
-permalink: madelaines-chocolate-duets
+slug: madelaines-chocolate-duets
 ---
 <a href="http://www.duetsny.com/"><img src='images/uploads/2010/04/madelaine_duets_packaging.jpg' alt='Madelaine Chocolate Duets Packaging' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Fourth of July Chocolate Peanut Butter Fondue
 date: '2008-07-04T00:05:08+00:00'
-permalink: fourth-of-july-chocolate-peanut-butter-smores-fondue
+slug: fourth-of-july-chocolate-peanut-butter-smores-fondue
 ---
 <img src='images/uploads/2008/07/fondue.gif' alt='Fondue' />
 

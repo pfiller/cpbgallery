@@ -2,7 +2,7 @@
 layout: post
 title: The Crispery Peanut Butter Crispy Bar
 date: '2008-05-06T00:05:40+00:00'
-permalink: the-crispery-peanut-butter-crispy-bar
+slug: the-crispery-peanut-butter-crispy-bar
 ---
 <img src='images/uploads/2008/05/crispery_041.jpg' alt='The Crispery Peanut Butter Crispy Bar' class="yellowborder" />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Top 5 Chocolate Peanut Butter Milkshake List - Amended
 date: '2008-06-12T08:42:04+00:00'
-permalink: top-5-milkshake-list-amended
+slug: top-5-milkshake-list-amended
 ---
 <a href="http://www.flickr.com/photos/kstar810/2572996096/"><img src="http://farm4.static.flickr.com/3070/2572996096_a9f910e83d.jpg?v=0" alt="Van Dyke's Ridgewood NJ" /></a>
 

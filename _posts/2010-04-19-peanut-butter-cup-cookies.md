@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Cup Cookies
 date: '2010-04-19T09:00:00+00:00'
-permalink: peanut-butter-cup-cookies
+slug: peanut-butter-cup-cookies
 ---
 <a href="http://www.flickr.com/photos/kstar810/4528642853/"><img src="http://farm5.static.flickr.com/4031/4528642853_2f96e561fa.jpg" alt="Peanut Butter Cup Cookies" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Banana Cake
 date: '2011-05-15T13:10:45+00:00'
-permalink: chocolate-peanut-butter-banana-cake
+slug: chocolate-peanut-butter-banana-cake
 ---
 <a href="http://www.flickr.com/photos/kstar810/5722958090/" title="Chocolate Ganache and Peanut Butter Banana Cake by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5105/5722958090_68c490e300.jpg" width="500" height="333" alt="Chocolate Ganache and Peanut Butter Banana Cake"></a>
 

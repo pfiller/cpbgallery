@@ -2,7 +2,7 @@
 layout: post
 title: Valentine's Day Chocolates
 date: '2009-02-06T11:51:56+00:00'
-permalink: valentines-day-chocolates
+slug: valentines-day-chocolates
 ---
 <a href="https://www.askinosie.com/p-75-davao-77-85g3-oz.aspx"><img src='images/uploads/2009/02/askinosie_valentine.jpg' alt='Askinosie Davao' /></a>
 

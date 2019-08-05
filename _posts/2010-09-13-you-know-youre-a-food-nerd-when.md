@@ -2,7 +2,7 @@
 layout: post
 title: You Know You're a Food Nerd When...
 date: '2010-09-13T10:03:03+00:00'
-permalink: you-know-youre-a-food-nerd-when
+slug: you-know-youre-a-food-nerd-when
 ---
 A recent discussion about food nerd status prompted me to think about all of the times I've nerded-out in the name of food. If you find that your experiences have been comparable to mine, congrats - you are without a doubt, a food nerd!
 

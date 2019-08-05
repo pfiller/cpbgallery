@@ -2,7 +2,7 @@
 layout: post
 title: Dale Jr’s Big Mo’ Bar & Champion Cheesecake Cupcakes
 date: '2008-05-03T00:05:02+00:00'
-permalink: dale-jr%e2%80%99s-big-mo%e2%80%99-champion-cheesecake-cupcakes
+slug: dale-jr%e2%80%99s-big-mo%e2%80%99-champion-cheesecake-cupcakes
 ---
 <a href="http://www.flickr.com/photos/kstar810/2414388364/"><img src="http://farm3.static.flickr.com/2355/2414388364_5984ffe9e7.jpg?v=0" alt="Dale Jr's Big Mo' " /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Szechwan Carrot Soup (with Peanut Butter!)
 date: '2010-02-09T08:34:49+00:00'
-permalink: szechwan-carrot-soup-with-peanut-butter
+slug: szechwan-carrot-soup-with-peanut-butter
 ---
 <a href="http://www.flickr.com/photos/kstar810/4332818430/"><img src="http://farm5.static.flickr.com/4035/4332818430_8fde9d64c2.jpg" alt="Szechwan Carrot Soup" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: White Chocolate Butterscotch Blondies
 date: '2008-02-26T01:00:08+00:00'
-permalink: white-chocolate-peanut-butter-butterscotch-blondies
+slug: white-chocolate-peanut-butter-butterscotch-blondies
 ---
 <a href="http://www.flickr.com/photos/kstar810/2285185829/"><img src="http://farm4.static.flickr.com/3074/2285185829_fe1368aa22.jpg?v=0" alt="white choc pb blondies" /></a>
 

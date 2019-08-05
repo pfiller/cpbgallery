@@ -2,7 +2,7 @@
 layout: post
 title: Specialty's Peanut Butter Chocolate Cookie
 date: '2009-08-07T17:28:11+00:00'
-permalink: specialtys-peanut-butter-chocolate-cookie
+slug: specialtys-peanut-butter-chocolate-cookie
 ---
 <a href="http://www.flickr.com/photos/kstar810/3796010973/"><img src="http://farm3.static.flickr.com/2544/3796010973_a93fd8d3b4.jpg" alt="Specialty's Cookie" /></a>
 

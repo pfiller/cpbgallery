@@ -2,9 +2,9 @@
 layout: post
 title: LÄRABAR Giveaway Winner + More Giveaways!
 date: '2010-12-08T13:30:17+00:00'
-permalink: larabar-giveaway-winner-more-giveaways
+slug: larabar-giveaway-winner-more-giveaways
 ---
-<a href="images/uploads/2010/12/larabar_giveaway_graphic.jpg"><img src="images/uploads/2010/12/larabar_giveaway_graphic.jpg" alt="" title="larabar_giveaway_graphic" width="500" height="350" class="alignnone size-full wp-image-1169" /></a>
+<a href="/images/uploads/2010/12/larabar_giveaway_graphic.jpg"><img src="/images/uploads/2010/12/larabar_giveaway_graphic.jpg" alt="" title="larabar_giveaway_graphic" width="500" height="350" class="alignnone size-full wp-image-1169" /></a>
 
 Wow, you kids sure like your <a href="http://www.larabar.com/home">LÄRABARs</a>! After a strong showing in blog participation, we have a winner. Taste Tester even wrote some kind of javascript randomizer to help me pick, haha. We are serious about this stuff, folks. We don't mess around when it comes to chocolate and peanut butter. :-P
 

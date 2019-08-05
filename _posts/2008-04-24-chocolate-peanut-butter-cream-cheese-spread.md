@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Cream Cheese Spread
 date: '2008-04-24T07:09:43+00:00'
-permalink: chocolate-peanut-butter-cream-cheese-spread
+slug: chocolate-peanut-butter-cream-cheese-spread
 ---
 <a href="http://farm4.static.flickr.com/3009/2438231438_2ba55d8c71.jpg?v=0"><img src="http://farm4.static.flickr.com/3009/2438231438_2ba55d8c71.jpg?v=0" alt="chocolate peanut butter cream cheese spread" /></a>
 

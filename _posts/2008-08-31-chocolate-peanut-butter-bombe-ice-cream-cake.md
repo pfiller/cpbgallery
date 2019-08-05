@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Bombe Ice Cream Cake
 date: '2008-08-31T09:14:40+00:00'
-permalink: chocolate-peanut-butter-bombe-ice-cream-cake
+slug: chocolate-peanut-butter-bombe-ice-cream-cake
 ---
 <img src='images/uploads/2008/08/peanut_butter_bombe.gif' alt='Peanut Butter Bombe' class="yellowborder" />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Magnolia Bakery's Peanut Butter Heath Bar Blondie Recipe
 date: '2008-09-20T16:31:14+00:00'
-permalink: magnolia-bakerys-peanut-butter-heath-bar-blondie-recipe
+slug: magnolia-bakerys-peanut-butter-heath-bar-blondie-recipe
 ---
 <a href="http://flickr.com/photos/kstar810/2856410415/"><img src="http://farm4.static.flickr.com/3070/2856410415_c7cc02596e.jpg?v=0" alt="Magnolia Bakery" /></a>
 

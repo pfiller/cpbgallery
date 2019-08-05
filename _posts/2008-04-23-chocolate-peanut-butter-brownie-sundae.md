@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Brownie Sundae
 date: '2008-04-23T00:05:36+00:00'
-permalink: chocolate-peanut-butter-brownie-sundae
+slug: chocolate-peanut-butter-brownie-sundae
 ---
 <a href="http://www.flickr.com/photos/labimposter/2416785323/"><img src='images/uploads/2008/04/cpb_brownie_sundae.jpg' alt='Chocolate Peanut Butter Brownie Sundae' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Speaking of Taking Food Photos...
 date: '2008-04-29T00:05:16+00:00'
-permalink: speaking-of-taking-food-photos
+slug: speaking-of-taking-food-photos
 ---
 ...Here's me taking one of a slice at Patsy's Pizza in NYC:
 

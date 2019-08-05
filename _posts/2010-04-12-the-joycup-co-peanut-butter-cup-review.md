@@ -2,7 +2,7 @@
 layout: post
 title: The Joycup Co. Peanut Butter Cup Review
 date: '2010-04-12T09:48:34+00:00'
-permalink: the-joycup-co-peanut-butter-cup-review
+slug: the-joycup-co-peanut-butter-cup-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/4485343211/"><img src="http://farm3.static.flickr.com/2802/4485343211_6c48642ca0.jpg" alt="The Joycup Co" /></a>
 

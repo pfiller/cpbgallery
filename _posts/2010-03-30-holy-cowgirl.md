@@ -2,7 +2,7 @@
 layout: post
 title: Holy Cowgirl!
 date: '2010-03-30T11:11:08+00:00'
-permalink: holy-cowgirl
+slug: holy-cowgirl
 ---
 <a href="http://www.flickr.com/photos/kstar810/4455434813/in/set-72157623674938748/"><img src="http://farm5.static.flickr.com/4052/4455434813_67c3ee5513.jpg" alt="Too Haute Cowgirls" /></a>
 

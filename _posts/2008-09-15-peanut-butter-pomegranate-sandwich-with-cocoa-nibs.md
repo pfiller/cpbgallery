@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Pomegranate Sandwich with Cocoa Nibs
 date: '2008-09-15T22:14:58+00:00'
-permalink: peanut-butter-pomegranate-sandwich-with-cocoa-nibs
+slug: peanut-butter-pomegranate-sandwich-with-cocoa-nibs
 ---
 <a href="http://www.flickr.com/photos/kstar810/2857416363/"><img src="http://farm4.static.flickr.com/3143/2857416363_28a34606bc.jpg?v=0" alt="Pomegranate" /></a>
 

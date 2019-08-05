@@ -2,7 +2,7 @@
 layout: post
 title: Homemade (And Not-So-Awkward) Monkey Doughnuts
 date: '2010-09-23T07:42:40+00:00'
-permalink: homemademonkeydoughnuts
+slug: homemademonkeydoughnuts
 ---
 <a href="http://www.flickr.com/photos/kstar810/5000618693/" title="Banana Doughnuts by kstar810, on Flickr"><img src="http://farm5.static.flickr.com/4146/5000618693_95f7f5ac4b.jpg" width="500" height="337" alt="Banana Doughnuts" /></a>
 

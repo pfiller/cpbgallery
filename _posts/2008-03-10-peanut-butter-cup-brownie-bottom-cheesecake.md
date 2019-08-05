@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Cup Brownie Bottom Cheesecake
 date: '2008-03-10T00:05:08+00:00'
-permalink: peanut-butter-cup-brownie-bottom-cheesecake
+slug: peanut-butter-cup-brownie-bottom-cheesecake
 ---
 <a href="http://www.flickr.com/photos/elfcakes/421215310/"><img src="http://farm1.static.flickr.com/146/421215310_1c81610fca.jpg" alt="pb cup brownie bottom cheesecake" /></a>
 

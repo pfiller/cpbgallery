@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter and Jelly Ebelskivers
 date: '2009-03-02T15:29:49+00:00'
-permalink: peanut-butter-and-jelly-ebelskivers
+slug: peanut-butter-and-jelly-ebelskivers
 ---
 <a href="http://www.flickr.com/photos/kstar810/372113470/in/photostream/"><img src="http://farm1.static.flickr.com/171/372113470_d03d39f390.jpg?v=0" alt="Ebelskiver" /></a>
 

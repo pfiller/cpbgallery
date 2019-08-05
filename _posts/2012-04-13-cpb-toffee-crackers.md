@@ -2,7 +2,7 @@
 layout: post
 title: CPB Toffee "Crack"ers
 date: '2012-04-13T20:28:41+00:00'
-permalink: cpb-toffee-crackers
+slug: cpb-toffee-crackers
 ---
 <a href="http://www.flickr.com/photos/kstar810/7075121503/" title="Chocolate Peanut Toffee Crackers by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7191/7075121503_34bf35809d.jpg" width="500" height="333" alt="Chocolate Peanut Toffee Crackers"></a>
 

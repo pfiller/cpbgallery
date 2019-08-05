@@ -2,7 +2,7 @@
 layout: post
 title: 'Simply Divine Heavenly Brownies: Chocolate Peanut Butter'
 date: '2008-04-12T00:05:06+00:00'
-permalink: simply-divine-heavenly-brownies-chocolate-peanut-butter
+slug: simply-divine-heavenly-brownies-chocolate-peanut-butter
 ---
 <a href="http://www.simplydivinebrownies.com/products.php?f=4"><img src="http://www.simplydivinebrownies.com/resource/flavor/img_3b1eb169.jpg" alt="simply divine brownies" /></a>
 

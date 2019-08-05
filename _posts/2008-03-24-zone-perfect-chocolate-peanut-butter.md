@@ -2,7 +2,7 @@
 layout: post
 title: 'Zone Perfect: Chocolate Peanut Butter Review'
 date: '2008-03-24T00:05:25+00:00'
-permalink: zone-perfect-chocolate-peanut-butter
+slug: zone-perfect-chocolate-peanut-butter
 ---
 <a href="http://flickr.com/photos/kstar810/2356730532/"><img src="http://farm4.static.flickr.com/3134/2356730532_4144c918d5.jpg?v=0" alt="Zone Perfect Bar" /></a>
 

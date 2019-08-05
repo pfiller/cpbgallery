@@ -2,7 +2,7 @@
 layout: post
 title: Visiting Zingerman's in Ann Arbor, Michigan
 date: '2008-08-05T10:48:50+00:00'
-permalink: visiting-zingermans-in-ann-arbor-michigan
+slug: visiting-zingermans-in-ann-arbor-michigan
 ---
 <a href="http://www.flickr.com/photos/kstar810/2704896166/"><img src="http://farm4.static.flickr.com/3233/2704896166_1b5a5565a5.jpg?v=0" alt="Zingermans" /></a>
 

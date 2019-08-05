@@ -2,7 +2,7 @@
 layout: post
 title: My Top Peanut Butter Treats in NYC
 date: '2011-12-06T10:09:29+00:00'
-permalink: top-peanut-butter-treats-in-nyc
+slug: top-peanut-butter-treats-in-nyc
 ---
 While I love that CBS New York took the time to compile <a href="http://newyork.cbslocal.com/top-lists/nycs-5-best-peanut-butter-eats-desserts/#.TtzXJBgoudc.twitter">a list of NYC's Best Peanut Butter Eats</a>, it seemed, in my professional peanut butter-eating opinion, to be missing a lot of the awesome peanut butter delights that NYC has to offer. So after much lip-smacking research and nary a calorie neglected, I made my own list of faves. 
 
@@ -21,7 +21,7 @@ It's really hard for me to pick anything specific here for you to try because ev
 <a href="http://www.mollyscupcakes.com/">Molly's Cupcakes</a>: <strong>The Ron Bennington & Peanut Butter Nutella Cupcakes</strong>
 We literally squealed with glee when our favorite Chicago cupcakery made its way to NYC. I *love* this place. You really can't go wrong with a cupcake at Molly's but if it's peanut butter you seek, you simply must get both of the above flavors. Yes, not one - <em>both</em>. Both are super rich with lots of peanut butter and chocolate goodness. The combo of Nutella and peanut butter in the latter haunts my dreams but Taste Testers favorite, the crazy good Bennington is below. Did I mention that their shop has swings?
 
-<a href="images/uploads/2011/12/mollys_cupcakes.jpg"><img src="images/uploads/2011/12/mollys_cupcakes.jpg" alt="" title="mollys_cupcakes" width="500" height="750" class="alignnone size-full wp-image-2506" /></a>
+<a href="/images/uploads/2011/12/mollys_cupcakes.jpg"><img src="/images/uploads/2011/12/mollys_cupcakes.jpg" alt="" title="mollys_cupcakes" width="500" height="750" class="alignnone size-full wp-image-2506" /></a>
 
 We look excited - but you'd look excited if you were swinging toward this cupcake, wouldn't you? The Ron Bennington is chocolate cake, peanut butter filling and chocolate ganache with a crushed butterscotch topping. Reviewed in greater detail <a href="http://www.cpbgallery.com/2008/07/30/back-with-a-bang-a-review-of-mollys-cupcakes/">here</a>.
 

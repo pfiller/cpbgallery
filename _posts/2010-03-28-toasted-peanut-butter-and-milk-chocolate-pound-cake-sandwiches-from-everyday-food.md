@@ -3,7 +3,7 @@ layout: post
 title: Toasted Peanut Butter and Milk Chocolate Pound Cake Sandwiches from Everyday
   Food
 date: '2010-03-28T10:46:38+00:00'
-permalink: toasted-peanut-butter-and-milk-chocolate-pound-cake-sandwiches-from-everyday-food
+slug: toasted-peanut-butter-and-milk-chocolate-pound-cake-sandwiches-from-everyday-food
 ---
 <a href="http://www.flickr.com/photos/kstar810/4469220547/in/photostream/"><img src="http://farm3.static.flickr.com/2702/4469220547_435f813cb1.jpg" alt="Chocolate Peanut Butter Pound Cake Sandwich" /></a>
 

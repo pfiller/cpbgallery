@@ -2,7 +2,7 @@
 layout: post
 title: Did Pilgrims Eat Chocolate & Peanut Butter?
 date: '2010-11-25T13:43:17+00:00'
-permalink: did-pilgrims-eat-chocolate-peanut-butter
+slug: did-pilgrims-eat-chocolate-peanut-butter
 ---
 <a href="http://www.flickr.com/photos/kstar810/5207168710/" title="Peanut Butter Mini Chip Banana Bread by kstar810, on Flickr"><img src="http://farm5.static.flickr.com/4104/5207168710_7d811516f7.jpg" width="500" height="375" alt="Peanut Butter Mini Chip Banana Bread" /></a>
 

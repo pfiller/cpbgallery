@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Bread
 date: '2009-04-18T09:26:27+00:00'
-permalink: peanut-butter-bread
+slug: peanut-butter-bread
 ---
 <a href="http://www.flickr.com/photos/kstar810/3380472893/"><img src="http://farm4.static.flickr.com/3250/3380472893_33750e6e4f.jpg?v=0" alt="Peanut Butter Bread" /></a>
 

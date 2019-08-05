@@ -2,7 +2,7 @@
 layout: post
 title: Viva Las Vegas!
 date: '2010-02-19T19:16:55+00:00'
-permalink: viva-las-vegas
+slug: viva-las-vegas
 ---
 <a href="http://www.flickr.com/photos/kstar810/4371091868/"><img src="http://farm5.static.flickr.com/4044/4371091868_c36a78c748.jpg" alt="Las Vegas Sign" /></a>
 

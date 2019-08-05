@@ -2,7 +2,7 @@
 layout: post
 title: Crispy Oatmeal Florentines with Peanut Butter-Caramel Filling
 date: '2009-11-04T09:34:10+00:00'
-permalink: crispy-oatmeal-florentines-with-peanut-butter-caramel-filling
+slug: crispy-oatmeal-florentines-with-peanut-butter-caramel-filling
 ---
 <a href="http://www.flickr.com/photos/kstar810/4073176427/"><img src="http://farm3.static.flickr.com/2620/4073176427_8dcfc99ed1.jpg" alt="Crispy Oatmeal Florentines" /></a>
 

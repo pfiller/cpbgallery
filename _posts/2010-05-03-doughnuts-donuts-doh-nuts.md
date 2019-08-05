@@ -2,7 +2,7 @@
 layout: post
 title: Doughnuts! Donuts! Doh! Nuts!
 date: '2010-05-03T09:00:17+00:00'
-permalink: doughnuts-donuts-doh-nuts
+slug: doughnuts-donuts-doh-nuts
 ---
 Pictured: PB&J Doughnut from The Doughnut Plant in NYC:
 

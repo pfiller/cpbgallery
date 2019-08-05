@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Smores Coldstone Ice Cream
 date: '2008-02-24T07:36:23+00:00'
-permalink: peanut-butter-smores-coldstone-ice-cream
+slug: peanut-butter-smores-coldstone-ice-cream
 ---
 <a href="http://www.flickr.com/photos/kstar810/2280966704/"><img src="http://farm4.static.flickr.com/3021/2280966704_89318e0d86.jpg?v=0" alt="peanut butter smores coldstone ice cream" /></a>
 

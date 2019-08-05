@@ -2,7 +2,7 @@
 layout: post
 title: Giveaway! Halloween Comes Early in Nature Valley
 date: '2010-10-21T13:33:25+00:00'
-permalink: giveaway-halloween-comes-early-in-nature-valley
+slug: giveaway-halloween-comes-early-in-nature-valley
 ---
 <a href="http://www.flickr.com/photos/kstar810/4901110451/" title="Nature Valley Granola Thins by kstar810, on Flickr"><img src="http://farm5.static.flickr.com/4138/4901110451_b133758e2c.jpg" width="500" height="333" alt="Nature Valley Granola Thins" /></a>
 

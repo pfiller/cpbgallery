@@ -2,7 +2,7 @@
 layout: post
 title: How to make a totally smashing bagel
 date: '2008-06-02T00:05:11+00:00'
-permalink: how-to-make-a-totally-smashing-bagel
+slug: how-to-make-a-totally-smashing-bagel
 ---
 <a href="http://flickr.com/photos/kstar810/2543114625/"><img src="http://farm4.static.flickr.com/3189/2543114625_45160f1ec8.jpg?v=0" alt="Smashed Chocolate Peanut Butter Bagel" /></a>
 

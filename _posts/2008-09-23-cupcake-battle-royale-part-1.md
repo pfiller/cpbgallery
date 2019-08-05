@@ -2,7 +2,7 @@
 layout: post
 title: Cupcake Battle Royale - Part 1
 date: '2008-09-23T12:05:33+00:00'
-permalink: cupcake-battle-royale-part-1
+slug: cupcake-battle-royale-part-1
 ---
 <a href="http://www.flickr.com/photos/kstar810/2876754211/"><img src="http://farm4.static.flickr.com/3073/2876754211_0d4c1b2931.jpg?v=0" alt="La Dolce Vitas" /></a>
 

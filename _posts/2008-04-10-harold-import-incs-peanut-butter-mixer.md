@@ -2,7 +2,7 @@
 layout: post
 title: Harold Import Inc's Peanut Butter Mixer
 date: '2008-04-10T00:05:37+00:00'
-permalink: harold-import-incs-peanut-butter-mixer
+slug: harold-import-incs-peanut-butter-mixer
 ---
 <img src='images/uploads/2008/04/smuckers2.gif' alt='peanut butter mixer' class="yellowborder" />
 

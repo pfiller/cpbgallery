@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Oreos Review
 date: '2008-08-01T08:01:27+00:00'
-permalink: peanut-butter-oreos-review
+slug: peanut-butter-oreos-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/2721465636/"><img src="http://farm4.static.flickr.com/3244/2721465636_bf256e3fd3.jpg?v=0" alt="peanut butter oreo" /></a>
 

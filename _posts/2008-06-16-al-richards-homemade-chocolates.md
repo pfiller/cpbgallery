@@ -2,7 +2,7 @@
 layout: post
 title: Al Richard's Homemade Chocolates
 date: '2008-06-16T12:15:28+00:00'
-permalink: al-richards-homemade-chocolates
+slug: al-richards-homemade-chocolates
 ---
 <a href="http://www.flickr.com/photos/kstar810/2573484532/"><img src="http://farm4.static.flickr.com/3129/2573484532_0b51ab0067.jpg?v=0" alt="Chocolate Peanut Butter Oreos" /></a>
 

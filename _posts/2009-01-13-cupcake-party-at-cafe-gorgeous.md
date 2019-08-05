@@ -2,7 +2,7 @@
 layout: post
 title: Cupcake Party at Cafe Gorgeous
 date: '2009-01-13T22:21:57+00:00'
-permalink: cupcake-party-at-cafe-gorgeous
+slug: cupcake-party-at-cafe-gorgeous
 ---
 <a href="http://springchook.blogspot.com/2008/12/cupcake-party.html"><img src='images/uploads/2009/01/cupcake_hats.jpg' alt='Cupcake Hats' /></a>
 

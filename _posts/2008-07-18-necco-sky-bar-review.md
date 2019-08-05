@@ -2,7 +2,7 @@
 layout: post
 title: Necco Sky Bar Review
 date: '2008-07-18T09:32:05+00:00'
-permalink: necco-sky-bar-review
+slug: necco-sky-bar-review
 ---
 <a href="http://flickr.com/photos/kstar810/2679911098/"><img src="http://farm4.static.flickr.com/3079/2679911098_b49744fd1e.jpg?v=0" alt="Skybar" /></a>
 

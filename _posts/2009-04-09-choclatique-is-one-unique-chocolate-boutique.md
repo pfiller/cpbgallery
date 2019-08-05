@@ -2,7 +2,7 @@
 layout: post
 title: Choclatique Is One Unique Chocolate Boutique
 date: '2009-04-09T22:29:50+00:00'
-permalink: choclatique-is-one-unique-chocolate-boutique
+slug: choclatique-is-one-unique-chocolate-boutique
 ---
 <img src='images/uploads/2009/04/choclatique_pbj_chocolate.gif' alt='Choclatique Peanut Butter Jelly Truffle' class="yellowborder" />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Wafer Sandwich Cookies with Peanut Butter Cream Cheese Icing
 date: '2008-06-05T00:05:01+00:00'
-permalink: chocolate-wafer-sandwich-cookies-with-peanut-butter-cream-cheese-icing
+slug: chocolate-wafer-sandwich-cookies-with-peanut-butter-cream-cheese-icing
 ---
 <a href="http://www.flickr.com/photos/kstar810/2543956984/"><img src="http://farm3.static.flickr.com/2151/2543956984_1d377785fd.jpg?v=0" alt="Chocolate Wafer Sandwich Cookies" /></a>
 

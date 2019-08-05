@@ -2,7 +2,7 @@
 layout: post
 title: The Cheesecake Factory Cheesecake Flavors
 date: '2008-06-06T00:05:57+00:00'
-permalink: the-cheesecake-factory-cheesecake-flavors
+slug: the-cheesecake-factory-cheesecake-flavors
 ---
 <img src='images/uploads/2008/05/cheesecake_factory.jpg' alt='Cheesecake Factory Flavors' />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Macaron Parlour's Peanut Butter Cup Macarons
 date: '2010-12-18T16:42:39+00:00'
-permalink: macaron-parlors-peanut-butter-cup-macarons
+slug: macaron-parlors-peanut-butter-cup-macarons
 ---
 <a href="http://www.flickr.com/photos/kstar810/5261473962/" title="Peanut Butter Cup Macarons by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5169/5261473962_51a70fb3e3.jpg" width="500" height="325" alt="Peanut Butter Cup Macarons" /></a>
 

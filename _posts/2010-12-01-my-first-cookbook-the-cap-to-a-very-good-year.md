@@ -2,7 +2,7 @@
 layout: post
 title: 'My First Cookbook: The Cap to a Very Good Year!'
 date: '2010-12-01T15:25:31+00:00'
-permalink: my-first-cookbook-the-cap-to-a-very-good-year
+slug: my-first-cookbook-the-cap-to-a-very-good-year
 ---
 <a href="http://www.flickr.com/photos/kstar810/5224408520/" title="Zoku Quick Pops Cookbook by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5242/5224408520_ef3742a2e0.jpg" width="500" height="333" alt="Zoku Quick Pops Cookbook" /></a>
 
@@ -39,7 +39,7 @@ I realize that November isn't quite peak ice pop season (at least not in the chi
 
 Here is a shot a friend took of the display in one of the New York Williams-Sonomas. You can see the book in the bottom left corner. I also designed the boxes for the Storage Case, Tools & Sticks. Pretty Awesome!
 
-<a href="images/uploads/2010/12/williams_sonoma_zoku_display.jpg"><img src="images/uploads/2010/12/williams_sonoma_zoku_display.jpg" alt="" title="williams_sonoma_zoku_display" width="500" height="373" class="alignnone size-full wp-image-1118" /></a>
+<a href="/images/uploads/2010/12/williams_sonoma_zoku_display.jpg"><img src="/images/uploads/2010/12/williams_sonoma_zoku_display.jpg" alt="" title="williams_sonoma_zoku_display" width="500" height="373" class="alignnone size-full wp-image-1118" /></a>
 
 <strong>THANKS!!!</strong>
 And I can’t end this post without a sincere thanks to everyone involved. A big giant super thanks to the <a href="http://www.zokuhome.com/">Zoku</a> team for letting me have such a big hand in this book. Thanks to <a href="http://www.askinosie.com/">Shawn Askinosie</a> for sending me lots of delicious chocolate to experiment with (there is even a tribute recipe in the book called "Askinosie Chocolate Brownie"). Thanks to Taste Tester's wonderful co-workers who were my tasting guinea pigs, and our families and friends for happily testing recipes and eating ice pops.

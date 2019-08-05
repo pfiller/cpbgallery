@@ -2,7 +2,7 @@
 layout: post
 title: Milk Chocolate Oreo Chunk Cookies
 date: '2008-09-11T11:24:57+00:00'
-permalink: milk-chocolate-oreo-chunk-cookies
+slug: milk-chocolate-oreo-chunk-cookies
 ---
 <img src="http://farm4.static.flickr.com/3184/2845036080_c43352f8d9.jpg?v=0" alt="Chocolate Cookies" class="yellowborder" />
 

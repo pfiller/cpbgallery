@@ -2,7 +2,7 @@
 layout: post
 title: Archer Farm's Peanut Butter Fudge Ice Cream
 date: '2010-01-21T09:00:36+00:00'
-permalink: archer-farms-peanut-butter-fudge-ice-cream
+slug: archer-farms-peanut-butter-fudge-ice-cream
 ---
 <a href="http://www.flickr.com/photos/kstar810/4120694051/"><img src="http://farm3.static.flickr.com/2609/4120694051_d5db65a196.jpg" alt="Archer Farm's Peanut Butter Fudge Ice Cream" /</a>
 

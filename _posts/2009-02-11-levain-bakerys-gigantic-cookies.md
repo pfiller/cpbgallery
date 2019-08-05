@@ -2,7 +2,7 @@
 layout: post
 title: Levain Bakery's Gigantic Cookies
 date: '2009-02-11T15:40:43+00:00'
-permalink: levain-bakerys-gigantic-cookies
+slug: levain-bakerys-gigantic-cookies
 ---
 <a href="http://www.flickr.com/photos/kstar810/3223229275/"><img src="http://farm4.static.flickr.com/3126/3223229275_8de203938c.jpg?v=0" alt="Levain Bakery Cookies" /></a>
 

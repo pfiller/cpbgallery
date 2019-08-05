@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Puffs
 date: '2008-04-14T00:05:28+00:00'
-permalink: chocolate-peanut-butter-puffs
+slug: chocolate-peanut-butter-puffs
 ---
 <a href="http://flickr.com/photos/kstar810/2411746957/"><img src='images/uploads/2008/04/puff_02.jpg' alt='Chocolate Peanut Butter Puffs' /></a>
 

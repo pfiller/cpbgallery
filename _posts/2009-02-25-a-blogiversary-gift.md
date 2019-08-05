@@ -2,7 +2,7 @@
 layout: post
 title: A Blogiversary Gift
 date: '2009-02-25T08:47:08+00:00'
-permalink: a-blogiversary-gift
+slug: a-blogiversary-gift
 ---
 <img src='images/uploads/2009/02/blog_awards.jpg' alt='Blog Awards' class="yellowborder"/>
 

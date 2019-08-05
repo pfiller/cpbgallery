@@ -2,7 +2,7 @@
 layout: post
 title: Zingerman's Cherry Chocolate Bread
 date: '2011-08-12T13:19:09+00:00'
-permalink: zingermans-cherry-chocolate-bread
+slug: zingermans-cherry-chocolate-bread
 ---
 <a href="http://www.flickr.com/photos/kstar810/6033680425/" title="Zingerman's Chocolate Cherry Bread by kstar810, on Flickr"><img src="http://farm7.static.flickr.com/6190/6033680425_e3b4d7395b.jpg" width="500" height="333" alt="Zingerman's Chocolate Cherry Bread"></a>
 

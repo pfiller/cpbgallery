@@ -2,7 +2,7 @@
 layout: post
 title: Finding Chocolate & Peanut Butter on/near Long Beach Island - Part One
 date: '2008-08-13T00:05:29+00:00'
-permalink: finding-chocolate-peanut-butter-onnear-long-beach-island
+slug: finding-chocolate-peanut-butter-onnear-long-beach-island
 ---
 <a href="http://flickr.com/photos/kstar810/2756268475/"><img src="http://farm4.static.flickr.com/3097/2756268475_b1535b26e2.jpg?v=0" alt="me" />
 </a>

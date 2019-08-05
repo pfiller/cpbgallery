@@ -2,7 +2,7 @@
 layout: post
 title: Misha's Cupcakes
 date: '2008-07-16T08:24:37+00:00'
-permalink: mishas-cupcakes
+slug: mishas-cupcakes
 ---
 <a href="http://www.flickr.com/photos/kstar810/2668645345/"><img src="http://farm4.static.flickr.com/3110/2668645345_b67da082fb.jpg?v=0" alt="Mischas Cupcakes" />
 </a>

@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Cake With Cream Cheese And Butterfinger Frosting
 date: '2008-03-05T00:05:22+00:00'
-permalink: chocolate-peanut-butter-cake-with-cream-cheese-and-butterfinger-frosting
+slug: chocolate-peanut-butter-cake-with-cream-cheese-and-butterfinger-frosting
 ---
 <a href="http://www.epicurious.com/recipes/food/views/231746"><img src="http://www.epicurious.com/images/recipesmenus/2005/2005_march/231746.jpg" alt="chocolate peanut butter cake with cream cheese butterfinger frosting" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Croissants Nobody Wants
 date: '2008-05-16T00:05:16+00:00'
-permalink: croissants-nobody-wants
+slug: croissants-nobody-wants
 ---
 <img src='images/uploads/2008/05/cpb_croissants_bad.jpg' alt='Bad Chocolate Peanut Butter Croissants' class="yellowborder" />
 

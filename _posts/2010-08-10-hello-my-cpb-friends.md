@@ -2,7 +2,7 @@
 layout: post
 title: Hello My CPB Friends!
 date: '2010-08-10T13:11:42+00:00'
-permalink: hello-my-cpb-friends
+slug: hello-my-cpb-friends
 ---
 <a href="http://www.flickr.com/photos/kstar810/4876731318/"><img src='images/uploads/2010/08/img_1161_sm.jpg' alt='Chocolate Peanut Butter Cupcake' /></a>
 

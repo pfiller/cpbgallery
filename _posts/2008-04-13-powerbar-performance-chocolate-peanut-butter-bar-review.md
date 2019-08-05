@@ -2,7 +2,7 @@
 layout: post
 title: 'PowerBar Performance: Chocolate Peanut Butter Bar Review'
 date: '2008-04-13T00:05:44+00:00'
-permalink: powerbar-performance-chocolate-peanut-butter-bar-review
+slug: powerbar-performance-chocolate-peanut-butter-bar-review
 ---
 <img src='images/uploads/2008/04/powerbar_011.jpg' alt='PowerBar Performance: Chocolate Peanut Butter Bar Review' class="yellowborder" />
 

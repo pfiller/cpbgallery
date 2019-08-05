@@ -2,7 +2,7 @@
 layout: post
 title: White Chocolate Peanut Butter Panini
 date: '2008-02-22T13:34:47+00:00'
-permalink: white-chocolate-peanut-butter-panini
+slug: white-chocolate-peanut-butter-panini
 ---
 <a href="http://www.flickr.com/photos/kstar810/2283876157/in/photostream/"><img src="http://farm3.static.flickr.com/2070/2283876157_b2ea2a5c7d.jpg?v=0" alt="white chocolate peanut butter panini" /></a>
 

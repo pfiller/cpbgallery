@@ -2,7 +2,7 @@
 layout: post
 title: White Chocolate Pretzel Peanut Butter Cookies
 date: '2012-05-24T15:49:20+00:00'
-permalink: white-chocolate-pretzel-peanut-butter-cookies
+slug: white-chocolate-pretzel-peanut-butter-cookies
 ---
 <a href="http://www.flickr.com/photos/kstar810/7263453212/" title="White Chocolate Pretzel Peanut Butter Cookies by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7075/7263453212_dc5dec7c34.jpg" width="500" height="333" alt="White Chocolate Pretzel Peanut Butter Cookies"></a>
 

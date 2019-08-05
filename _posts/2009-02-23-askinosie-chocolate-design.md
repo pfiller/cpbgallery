@@ -2,7 +2,7 @@
 layout: post
 title: Askinosie Chocolate Design
 date: '2009-02-23T11:44:45+00:00'
-permalink: askinosie-chocolate-design
+slug: askinosie-chocolate-design
 ---
 Before I get into this whole great big post, I just wanted to announce that The Chocolate Peanut Butter Gallery just had it's one year blogiversary! Yay! It's been a whole year of chocolate peanut butter and I can't believe how fast it went! I've learned a lot about CPB and met a ton of wonderful chocolate peanut butter lovers along the way. A big thanks to all of you who have stuck with me and apologies for any weight gained in the process. It was worth it though, wasn't it? :)
 

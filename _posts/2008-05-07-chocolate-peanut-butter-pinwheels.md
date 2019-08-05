@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Pinwheels
 date: '2008-05-07T00:49:18+00:00'
-permalink: chocolate-peanut-butter-pinwheels
+slug: chocolate-peanut-butter-pinwheels
 ---
 <a href="http://www.landolakes.com/mealIdeas/ViewRecipe.cfm?RecipeID=11116"><img src='images/uploads/2008/05/land_pinwheel.jpg' alt='Land O Lakes Pinwheels' /></a>
 

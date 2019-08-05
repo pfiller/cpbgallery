@@ -2,7 +2,7 @@
 layout: post
 title: Look + Cook / Meet + Greet
 date: '2010-11-16T18:19:50+00:00'
-permalink: look-cook-meet-greet
+slug: look-cook-meet-greet
 ---
 <a href="http://www.flickr.com/photos/kstar810/5180285465/" title="Me &amp; Rachael Ray by kstar810, on Flickr"><img src="http://farm5.static.flickr.com/4149/5180285465_22af81501b.jpg" width="500" height="411" alt="Me &amp; Rachael Ray" /></a>
 

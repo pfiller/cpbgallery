@@ -2,7 +2,7 @@
 layout: post
 title: Cinnamon Snickers Cookies
 date: '2009-02-10T21:22:13+00:00'
-permalink: cinnamon-snickers-cookies
+slug: cinnamon-snickers-cookies
 ---
 <a href="http://www.flickr.com/photos/kstar810/3266841383/"><img src="http://farm2.static.flickr.com/1112/3266841383_d8eca5c6aa.jpg?v=0" alt="Cinnamon Snickers Cookies" /></a>
 

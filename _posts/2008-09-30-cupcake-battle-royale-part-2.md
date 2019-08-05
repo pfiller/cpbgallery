@@ -2,7 +2,7 @@
 layout: post
 title: Cupcake Battle Royale - Part 2
 date: '2008-09-30T10:41:21+00:00'
-permalink: cupcake-battle-royale-part-2
+slug: cupcake-battle-royale-part-2
 ---
 <a href="http://www.flickr.com/photos/kstar810/2877584942/"><img src="http://farm4.static.flickr.com/3027/2877584942_e121457ef1.jpg?v=0" alt="Chocolate Peanut Butter Cupcake" /></a>
 

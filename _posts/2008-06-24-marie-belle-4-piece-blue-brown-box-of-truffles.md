@@ -2,7 +2,7 @@
 layout: post
 title: Marie Belle 4-Piece Blue & Brown Box of Truffles
 date: '2008-06-24T14:53:34+00:00'
-permalink: marie-belle-4-piece-blue-brown-box-of-truffles
+slug: marie-belle-4-piece-blue-brown-box-of-truffles
 ---
 <a href="http://flickr.com/photos/kstar810/2607372407/"><img src="http://farm4.static.flickr.com/3217/2607372407_6053086229.jpg?v=0" alt="Marie Belle Truffles" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Happy Birthday to me!
 date: '2008-08-10T00:05:28+00:00'
-permalink: happy-birthday-to-me
+slug: happy-birthday-to-me
 ---
 <img src='images/uploads/2008/08/happy_birthday.gif' alt='Happy Birthday Cake' />
 

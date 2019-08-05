@@ -2,7 +2,7 @@
 layout: post
 title: Three Years of CPB = Triple Decker Elvis Sandwich
 date: '2011-02-15T15:05:21+00:00'
-permalink: three-years-of-cpb-triple-decker-elvis-sandwich
+slug: three-years-of-cpb-triple-decker-elvis-sandwich
 ---
 <a title="The Elvis Sandwich by kstar810, on Flickr" href="http://www.flickr.com/photos/kstar810/5448106879/"><img src="http://farm6.static.flickr.com/5179/5448106879_c694af8a75.jpg" alt="The Elvis Sandwich" width="500" height="333" /></a>
 

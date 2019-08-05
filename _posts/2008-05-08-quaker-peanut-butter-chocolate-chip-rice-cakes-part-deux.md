@@ -2,7 +2,7 @@
 layout: post
 title: Quaker Peanut Butter Chocolate Chip Rice Cakes, Part Deux
 date: '2008-05-08T00:05:52+00:00'
-permalink: quaker-peanut-butter-chocolate-chip-rice-cakes-part-deux
+slug: quaker-peanut-butter-chocolate-chip-rice-cakes-part-deux
 ---
 <a href="http://www.flickr.com/photos/kstar810/2461694743/"><img src="http://farm3.static.flickr.com/2197/2461694743_223af76d3e.jpg?v=0" alt="Quaker Peanut Butter Chocolate Chip Rice Cakes" /></a>
 

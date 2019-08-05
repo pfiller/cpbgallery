@@ -2,7 +2,7 @@
 layout: post
 title: Rachel Ray Loves Peanut Butter
 date: '2008-08-21T22:31:33+00:00'
-permalink: rachel-ray-loves-peanut-butter
+slug: rachel-ray-loves-peanut-butter
 ---
 <a href="http://www.rachaelraymag.com/recipes/dessert-recipes/chocolate-peanut-butter-fudge-crunch/article.html"><img src='images/uploads/2008/08/peanutbutterfudgecrunch_400.jpg' alt='Chocolate Peanut Butter Fudge Crunch' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Opera Cake
 date: '2008-05-25T00:05:02+00:00'
-permalink: chocolate-peanut-butter-opera-cake
+slug: chocolate-peanut-butter-opera-cake
 ---
 <img src='images/uploads/2008/05/chocolate_opera_cake.jpg' alt='Chocolate Opera Cake' />
 

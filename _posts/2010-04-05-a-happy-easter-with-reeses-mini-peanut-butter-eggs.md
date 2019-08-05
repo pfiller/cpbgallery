@@ -2,7 +2,7 @@
 layout: post
 title: A Happy Easter with Reese's Mini Peanut Butter Eggs
 date: '2010-04-05T14:02:58+00:00'
-permalink: a-happy-easter-with-reeses-mini-peanut-butter-eggs
+slug: a-happy-easter-with-reeses-mini-peanut-butter-eggs
 ---
 <a href="http://www.flickr.com/photos/kstar810/4493608799/"><img src="http://farm3.static.flickr.com/2678/4493608799_8db5968073.jpg" alt="Reeses Mini Eggs" />
 </a>

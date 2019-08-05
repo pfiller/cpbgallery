@@ -2,7 +2,7 @@
 layout: post
 title: 'Detour''s Oatmeal: Peanut Butter Chocolate Chip Bar Review'
 date: '2008-03-08T00:05:44+00:00'
-permalink: detours-oatmeal-peanut-butter-chocolate-chip-bar
+slug: detours-oatmeal-peanut-butter-chocolate-chip-bar
 ---
 <img src='images/uploads/2008/03/detour_oatmeal.jpg' alt='detour’s Oatmeal: Peanut Butter Chocolate Chip Bar' class= "yellowborder" />
 

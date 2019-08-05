@@ -2,7 +2,7 @@
 layout: post
 title: Vegan Digest
 date: '2008-12-05T00:24:55+00:00'
-permalink: vegan-digest
+slug: vegan-digest
 ---
 <img src='images/uploads/2008/11/cpb_link_of_the_day1.gif' alt='cpb_link_of_the_day1.gif' />
 

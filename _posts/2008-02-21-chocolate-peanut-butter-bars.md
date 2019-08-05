@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Bars
 date: '2008-02-21T19:16:22+00:00'
-permalink: chocolate-peanut-butter-bars
+slug: chocolate-peanut-butter-bars
 ---
 <a href="http://www.flickr.com/photos/kstar810/453925903/in/set-72157603817944040/"><img src="http://farm1.static.flickr.com/171/453925903_5306d3c630.jpg?v=0" alt="chocolate peanut butter bars" /></a>
 

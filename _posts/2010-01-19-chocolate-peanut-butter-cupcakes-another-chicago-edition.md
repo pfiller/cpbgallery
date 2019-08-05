@@ -2,7 +2,7 @@
 layout: post
 title: 'Chocolate Peanut Butter Cupcakes: Another Chicago Edition'
 date: '2010-01-19T14:33:45+00:00'
-permalink: chocolate-peanut-butter-cupcakes-another-chicago-edition
+slug: chocolate-peanut-butter-cupcakes-another-chicago-edition
 ---
 On our latest trip to Chicagoland, Taste Tester and I tried a few new chocolate peanut butter cupcakes in addition to <a href="http://www.cpbgallery.com/2009/06/01/i-♥-chicago/">our standby faves from Molly's</a>.
 

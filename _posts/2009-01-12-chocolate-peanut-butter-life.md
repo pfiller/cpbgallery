@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate, Peanut Butter & Life
 date: '2009-01-12T23:14:03+00:00'
-permalink: chocolate-peanut-butter-life
+slug: chocolate-peanut-butter-life
 ---
 <a href="http://www.amazon.com/Chocolate-Peanut-Butter-Luann-Dunnuck/dp/1599793539/ref=si3_rdr_bb_product"><img src='images/uploads/2009/01/cpb_life.jpg' alt='Chocolate, Peanut Butter, & Life' /></a>
 

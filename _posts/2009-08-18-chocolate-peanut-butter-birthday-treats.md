@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Birthday Treats!
 date: '2009-08-18T11:04:47+00:00'
-permalink: chocolate-peanut-butter-birthday-treats
+slug: chocolate-peanut-butter-birthday-treats
 ---
 <img src='images/uploads/2009/08/birthday_icecream.gif' alt='Birthday Ice cream' />
 

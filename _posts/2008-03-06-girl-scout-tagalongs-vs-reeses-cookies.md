@@ -2,7 +2,7 @@
 layout: post
 title: Girl Scout Tagalongs vs. Reeses Cookies
 date: '2008-03-06T00:05:39+00:00'
-permalink: girl-scout-tagalongs-vs-reeses-cookies
+slug: girl-scout-tagalongs-vs-reeses-cookies
 ---
 <img src='images/uploads/2008/03/tagalongs_02.jpg' alt='tagalongs02' class= "yellowborder"/>
 

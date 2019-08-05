@@ -2,7 +2,7 @@
 layout: post
 title: Marni's Peanut Butter Chocolate Chip Bars
 date: '2009-11-10T16:52:48+00:00'
-permalink: marnis-peanut-butter-chocolate-chip-bars
+slug: marnis-peanut-butter-chocolate-chip-bars
 ---
 <a href="http://www.flickr.com/photos/kstar810/4032366783/"><img src="http://farm4.static.flickr.com/3209/4032366783_30064d73e2.jpg" alt="peanut butter chocolate chip bar" /></a>
 

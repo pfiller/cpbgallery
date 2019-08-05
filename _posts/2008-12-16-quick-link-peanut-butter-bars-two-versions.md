@@ -2,7 +2,7 @@
 layout: post
 title: 'Quick Link: Peanut Butter Bars (Two Versions)'
 date: '2008-12-16T11:35:03+00:00'
-permalink: quick-link-peanut-butter-bars-two-versions
+slug: quick-link-peanut-butter-bars-two-versions
 ---
 Hey everyone! I know I’ve totally been slacking, but don’t worry I’ve been thinking about you and trying to break away from overspending on holiday shopping to write a post. Things are a little too busy at the moment to write my usual long photo-heavy posts, so rather than stop writing completely, I am going to link to delicious recipes I find elsewhere so you can still get your peanut butter fix and find fun CPB holiday recipes! I promise to write a big long post as soon as I get the chance, though I might need a Christmas miracle!
 

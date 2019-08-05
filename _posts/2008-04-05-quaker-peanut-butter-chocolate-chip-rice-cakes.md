@@ -2,7 +2,7 @@
 layout: post
 title: Quaker Peanut Butter Chocolate Chip Rice Cakes
 date: '2008-04-05T00:53:27+00:00'
-permalink: quaker-peanut-butter-chocolate-chip-rice-cakes
+slug: quaker-peanut-butter-chocolate-chip-rice-cakes
 ---
 <img src='images/uploads/2008/04/quaker.jpg' alt='quaker peanut butter chocolate chip rice cakes' class="yellowborder" />
 

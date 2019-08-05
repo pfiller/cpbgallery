@@ -2,7 +2,7 @@
 layout: post
 title: Rachel Ray's Bottom of the Peanut Butter Jar Recipe Video
 date: '2008-06-22T13:16:56+00:00'
-permalink: rachel-rays-bottom-of-the-peanut-butter-jar-recipe-video
+slug: rachel-rays-bottom-of-the-peanut-butter-jar-recipe-video
 ---
 <a href="http://www.rachaelrayshow.com/show/segments/view/bottom-of-the-peanut-butter-jar/"><img src='images/uploads/2008/06/rachel_ray_sauce.jpg' alt='Rachel Ray Sauce' /></a>
 

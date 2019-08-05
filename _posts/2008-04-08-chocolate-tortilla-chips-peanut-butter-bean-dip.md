@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Tortilla Chips & Peanut Butter Bean Dip
 date: '2008-04-08T00:22:52+00:00'
-permalink: chocolate-tortilla-chips-peanut-butter-bean-dip
+slug: chocolate-tortilla-chips-peanut-butter-bean-dip
 ---
 <a href="http://www.flickr.com/photos/kstar810/2397105857/"><img src="http://farm4.static.flickr.com/3066/2397105857_dfa342d9cb.jpg?v=0" alt="chocolate tortilla chips and peanut butter bean dip" /></a>
 

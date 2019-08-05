@@ -2,7 +2,7 @@
 layout: post
 title: Banana Peanut Butter Oatmeal Muffins
 date: '2011-01-20T14:19:01+00:00'
-permalink: banana-peanut-butter-oatmeal-muffins
+slug: banana-peanut-butter-oatmeal-muffins
 ---
 <a href="http://www.flickr.com/photos/kstar810/5372748603/" title="Banana Peanut Butter Oatmeal Muffins by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5283/5372748603_302490120d.jpg" width="500" height="333" alt="Banana Peanut Butter Oatmeal Muffins" /></a>
 
@@ -32,6 +32,6 @@ Satisfied that I wasn't trying to pull a fast one on him, he happily gobbled the
 
 NO MUFFIN FOR YOU!
 
-<a href="images/uploads/2011/01/seinfeld_s7e61.jpg"><img src="images/uploads/2011/01/seinfeld_s7e61.jpg" alt="" title="seinfeld_s7e6" width="486" height="416" class="alignnone size-full wp-image-1420" /></a>
+<a href="/images/uploads/2011/01/seinfeld_s7e61.jpg"><img src="/images/uploads/2011/01/seinfeld_s7e61.jpg" alt="" title="seinfeld_s7e6" width="486" height="416" class="alignnone size-full wp-image-1420" /></a>
 
 Kidding, we can still be friends! Get the recipe from <a href="http://traceysculinaryadventures.blogspot.com/2010/06/banana-peanut-butter-oatmeal-muffins.html">Tracey's Culinary Adventures</a>.

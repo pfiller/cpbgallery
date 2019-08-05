@@ -2,7 +2,7 @@
 layout: post
 title: Holiday Loot
 date: '2010-01-04T10:44:46+00:00'
-permalink: holiday-loot
+slug: holiday-loot
 ---
 <a href="http://www.flickr.com/photos/kstar810/4206547892/"><img src="http://farm5.static.flickr.com/4012/4206547892_aa0faf98db.jpg" alt="Saratoga Peanut Butter" /></a>
 

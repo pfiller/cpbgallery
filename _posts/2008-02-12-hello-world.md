@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate + Peanut Butter = Yum
 date: '2008-02-12T18:14:44+00:00'
-permalink: hello-world
+slug: hello-world
 ---
 <img src='images/uploads/2008/02/cpb_clovesp.gif' alt='clovesp' class="yellowborder"/>
 

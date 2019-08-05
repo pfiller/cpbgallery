@@ -2,7 +2,7 @@
 layout: post
 title: Nigella Lawson's Chocolate Peanut Butter Fudge Sundae
 date: '2008-03-21T00:05:38+00:00'
-permalink: nigella-lawsons-chocolate-peanut-butter-fudge-sundae
+slug: nigella-lawsons-chocolate-peanut-butter-fudge-sundae
 ---
 <img src='images/uploads/2008/03/nigella_lawson1.jpg' alt='Nigella Lawson’s Chocolate Peanut Butter Fudge Sundae' class="yellowborder" />
 

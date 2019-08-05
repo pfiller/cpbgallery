@@ -2,7 +2,7 @@
 layout: post
 title: 'Las Vegas Part 2: Ethel''s Chocolates'
 date: '2010-02-25T12:16:42+00:00'
-permalink: las-vegas-part-2-ethels-chocolates
+slug: las-vegas-part-2-ethels-chocolates
 ---
 <a href="http://www.flickr.com/photos/kstar810/4370334415/"><img src="http://farm3.static.flickr.com/2708/4370334415_31d177686e.jpg" alt="Ethel's Chocolates" /></a>
 

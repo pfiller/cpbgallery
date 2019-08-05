@@ -2,7 +2,7 @@
 layout: post
 title: A Chocolatey Proposal
 date: '2009-10-26T12:29:21+00:00'
-permalink: a-chocolatey-proposal
+slug: a-chocolatey-proposal
 ---
 <a href="http://www.flickr.com/photos/kstar810/4024771064/in/set-72157622490760121/"><img src="http://farm3.static.flickr.com/2797/4024771064_894486f4c2.jpg" alt="proposal" /></a>
 

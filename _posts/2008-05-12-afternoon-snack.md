@@ -2,7 +2,7 @@
 layout: post
 title: Afternoon Snack
 date: '2008-05-12T00:05:34+00:00'
-permalink: afternoon-snack
+slug: afternoon-snack
 ---
 <a href="http://www.flickr.com/photos/kstar810/2479176778/in/set-72157604972232191/"><img src="http://farm4.static.flickr.com/3259/2479176778_b8e5c05006.jpg?v=0" alt="Afternoon Snack" /></a>
 

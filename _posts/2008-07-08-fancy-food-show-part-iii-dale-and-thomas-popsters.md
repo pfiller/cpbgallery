@@ -2,7 +2,7 @@
 layout: post
 title: 'Fancy Food Show, Part III: Dale and Thomas Popsters'
 date: '2008-07-08T14:31:07+00:00'
-permalink: fancy-food-show-part-iii-dale-and-thomas-popsters
+slug: fancy-food-show-part-iii-dale-and-thomas-popsters
 ---
 <a href="http://www.daleandthomaspopcorn.com/"><img src='images/uploads/2008/07/dale_and_thomas.jpg' alt='Dale and Thomas' /></a>
 

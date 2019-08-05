@@ -2,7 +2,7 @@
 layout: post
 title: Taste Buds Intense Valencia Peanut Milk Chocolate Granola Cookie
 date: '2008-06-07T10:03:06+00:00'
-permalink: taste-buds-intense-valencia-peanut-milk-chocolate-granola-cookie
+slug: taste-buds-intense-valencia-peanut-milk-chocolate-granola-cookie
 ---
 <img src='images/uploads/2008/06/taste_buds.jpg' alt='Taste Buds Intense Valencia Peanut Milk Chocolate Granola Cookie' class="yellowborder" />
 

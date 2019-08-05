@@ -2,7 +2,7 @@
 layout: post
 title: Baked's Peanut Butter Brownie Review
 date: '2008-10-07T19:13:36+00:00'
-permalink: bakeds-peanut-butter-brownie-review
+slug: bakeds-peanut-butter-brownie-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/2920057375/"><img src="http://farm4.static.flickr.com/3042/2920057375_029a9e504c.jpg?v=0" alt="Baked Peanut Butter Brownie" /></a>
 

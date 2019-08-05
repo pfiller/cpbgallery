@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter & Co's Holiday Recipe Contest
 date: '2008-11-11T09:00:53+00:00'
-permalink: peanut-butter-cos-holiday-recipe-contest
+slug: peanut-butter-cos-holiday-recipe-contest
 ---
 <img src='images/uploads/2008/11/pb_co_contest.gif' alt='Peanut Butter and Co Contest' class="yellowborder" />
 

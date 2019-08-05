@@ -2,7 +2,7 @@
 layout: post
 title: Finding Chocolate & Peanut Butter on/near Long Beach Island - Part Deux
 date: '2008-08-17T08:02:40+00:00'
-permalink: finding-chocolate-peanut-butter-onnear-long-beach-island-part-deux
+slug: finding-chocolate-peanut-butter-onnear-long-beach-island-part-deux
 ---
 <a href="http://flickr.com/photos/kstar810/2769892267/"><img src="http://farm4.static.flickr.com/3049/2769892267_1473d41ea1.jpg?v=0" alt="Chocolate Fair" /></a>
 

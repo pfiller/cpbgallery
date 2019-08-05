@@ -2,7 +2,7 @@
 layout: post
 title: Mrs. Prindable's Caramel Apple (Continued)
 date: '2008-06-03T07:50:31+00:00'
-permalink: mrs-prindables-caramel-apple-continued
+slug: mrs-prindables-caramel-apple-continued
 ---
 <a href="http://www.flickr.com/photos/kstar810/2543939820/"><img src="http://farm4.static.flickr.com/3075/2543939820_faa4d7cb55.jpg?v=0" alt="Mrs. Prindable's Caramel Apple" /></a>
 

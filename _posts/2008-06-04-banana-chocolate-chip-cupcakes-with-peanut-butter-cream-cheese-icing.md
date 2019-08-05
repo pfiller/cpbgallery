@@ -2,7 +2,7 @@
 layout: post
 title: Banana Chocolate Chip Cupcakes with Peanut Butter Cream Cheese Icing
 date: '2008-06-04T00:05:32+00:00'
-permalink: banana-chocolate-chip-cupcakes-with-peanut-butter-cream-cheese-icing
+slug: banana-chocolate-chip-cupcakes-with-peanut-butter-cream-cheese-icing
 ---
 <a href="http://www.flickr.com/photos/kstar810/2543972518/"><img src="http://farm3.static.flickr.com/2138/2543972518_cf38d5427f.jpg?v=0" alt="Banana Chocolate Chip Cupcakes" /></a>
 

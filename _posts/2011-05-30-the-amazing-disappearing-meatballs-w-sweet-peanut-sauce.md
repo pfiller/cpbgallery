@@ -2,9 +2,9 @@
 layout: post
 title: The Amazing Disappearing Meatballs w/ Sweet Peanut Sauce
 date: '2011-05-30T11:51:32+00:00'
-permalink: the-amazing-disappearing-meatballs-w-sweet-peanut-sauce
+slug: the-amazing-disappearing-meatballs-w-sweet-peanut-sauce
 ---
-<a href="images/uploads/2011/05/IMG_23941.jpg"><img src="images/uploads/2011/05/IMG_23941.jpg" alt="" title="IMG_2394" width="500" height="365" class="alignnone size-full wp-image-2231" /></a>
+<a href="/images/uploads/2011/05/IMG_23941.jpg"><img src="/images/uploads/2011/05/IMG_23941.jpg" alt="" title="IMG_2394" width="500" height="365" class="alignnone size-full wp-image-2231" /></a>
 
 I swear that I made meatballs. I'm not hallucinating - I promise that they were in existence at some point. I brought them to a party, and they were there one second and gone the next. Now, it's possible that this party was attended by a bunch of <a href="http://www.youtube.com/watch?v=zhnYPecc1YE&NR=1">stealthy magicians</a>, but I'm betting the disappearance actually happened because the meatballs were pretty darn tasty.
 

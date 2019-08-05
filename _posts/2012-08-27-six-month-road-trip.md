@@ -2,7 +2,7 @@
 layout: post
 title: Six Month Road Trip
 date: '2012-08-27T18:52:38+00:00'
-permalink: six-month-road-trip
+slug: six-month-road-trip
 ---
 <a href="http://www.flickr.com/photos/kstar810/7873954924/" title="me and P w/the Presidents by kstar810, on Flickr"><img src="http://farm9.staticflickr.com/8437/7873954924_9c37ef0c19.jpg" width="500" height="375" alt="me and P w/the Presidents"></a>
 
@@ -50,7 +50,7 @@ Tillamook Forest Center (Oregon): Me with Smokey the Bear. Is it embarrassing th
 
 Portland, OR: Taste Tester and I dining on a lovely vegan lunch (photo cred: <a href="http://thebakingbird.wordpress.com/">The Baking Bird</a>! - more on her in a sec). We pretty much ate constantly in Portland, so this seems like an appropriate pic for our time there.
 
-<a href="images/uploads/2012/08/IMG_4348.png"><img src="images/uploads/2012/08/IMG_4348.png" alt="" title="IMG_4348" width="608" height="606" class="alignnone size-full wp-image-2868" /></a>
+<a href="/images/uploads/2012/08/IMG_4348.png"><img src="/images/uploads/2012/08/IMG_4348.png" alt="" title="IMG_4348" width="608" height="606" class="alignnone size-full wp-image-2868" /></a>
 
 And now, onto the food!
 

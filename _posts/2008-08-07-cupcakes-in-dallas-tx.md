@@ -2,7 +2,7 @@
 layout: post
 title: Cupcakes in Dallas, TX
 date: '2008-08-07T09:25:23+00:00'
-permalink: cupcakes-in-dallas-tx
+slug: cupcakes-in-dallas-tx
 ---
 <a href="http://www.sprinklescupcakes.com/index.html"><img src='images/uploads/2008/08/sprinkles_cupcake_mix.jpg' alt='Sprinkles Cupcake Mix' /></a>
 

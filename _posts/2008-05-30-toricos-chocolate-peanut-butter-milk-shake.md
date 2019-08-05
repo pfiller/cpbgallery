@@ -2,7 +2,7 @@
 layout: post
 title: Torico's Chocolate Peanut Butter Milk Shake
 date: '2008-05-30T00:09:13+00:00'
-permalink: toricos-chocolate-peanut-butter-milk-shake
+slug: toricos-chocolate-peanut-butter-milk-shake
 ---
 <img src='images/uploads/2008/05/torico.jpg' alt='Torico' class="yellowborder" />
 

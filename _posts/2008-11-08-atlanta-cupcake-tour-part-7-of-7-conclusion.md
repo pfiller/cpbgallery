@@ -2,7 +2,7 @@
 layout: post
 title: 'Atlanta Cupcake Tour, Part 7 of 7: Conclusion'
 date: '2008-11-08T00:38:39+00:00'
-permalink: atlanta-cupcake-tour-part-7-of-7-conclusion
+slug: atlanta-cupcake-tour-part-7-of-7-conclusion
 ---
 <img src='images/uploads/2008/11/atlanta_cupcakes.gif' alt='Atlanta Cupcakes' class="yellowborder" />
 

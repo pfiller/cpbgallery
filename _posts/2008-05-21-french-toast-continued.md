@@ -2,7 +2,7 @@
 layout: post
 title: French Toast (continued)
 date: '2008-05-21T00:05:13+00:00'
-permalink: french-toast-continued
+slug: french-toast-continued
 ---
 <a href="http://www.flickr.com/photos/kstar810/2482737597/"><img src="http://farm4.static.flickr.com/3172/2482737597_3680608516.jpg?v=0" alt="Brioche French Toast" /></a>
 

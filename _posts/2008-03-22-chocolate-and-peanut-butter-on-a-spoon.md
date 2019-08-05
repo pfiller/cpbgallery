@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate and Peanut Butter on a Spoon
 date: '2008-03-22T07:33:24+00:00'
-permalink: chocolate-and-peanut-butter-on-a-spoon
+slug: chocolate-and-peanut-butter-on-a-spoon
 ---
 <a href="http://www.flickr.com/photos/rachelles/2348615161/"><img src="http://farm3.static.flickr.com/2144/2348615161_f1920b5372.jpg?v=0" alt="chocolate and peanut butter spoon" /></a>
 

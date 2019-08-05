@@ -2,7 +2,7 @@
 layout: post
 title: The All-American Yogurt Parfait
 date: '2011-06-08T14:04:16+00:00'
-permalink: the-all-american-yogurt-parfait
+slug: the-all-american-yogurt-parfait
 ---
 <a href="http://www.flickr.com/photos/kstar810/5812009753/" title="American Parfait by kstar810, on Flickr"><img src="http://farm3.static.flickr.com/2282/5812009753_3e53030e9f.jpg" width="333" height="500" alt="American Parfait"></a>
 

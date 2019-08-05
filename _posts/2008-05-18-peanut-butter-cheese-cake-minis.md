@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Cheese Cake Minis
 date: '2008-05-18T08:05:43+00:00'
-permalink: peanut-butter-cheese-cake-minis
+slug: peanut-butter-cheese-cake-minis
 ---
 <img src='images/uploads/2008/05/cupcake_xray.gif' alt='Cupcake Xray' />
 

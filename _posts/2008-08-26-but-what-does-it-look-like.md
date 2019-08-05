@@ -2,7 +2,7 @@
 layout: post
 title: But What Does It Look Like?!
 date: '2008-08-26T07:48:46+00:00'
-permalink: but-what-does-it-look-like
+slug: but-what-does-it-look-like
 ---
 <img src='images/uploads/2008/08/mystery_dessert.gif' alt='mystery dessert' class="yellowborder" />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Not your mama's oatmeal
 date: '2008-03-03T00:05:30+00:00'
-permalink: not-your-mamas-oatmeal
+slug: not-your-mamas-oatmeal
 ---
 <a href="http://www.flickr.com/photos/kstar810/2285981152/"><img src="http://farm4.static.flickr.com/3239/2285981152_4ef2d9565b.jpg?v=0" alt="chocolate peanut butter banana oatmeal" /></a>
 

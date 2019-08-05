@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Cheesecake Pops
 date: '2008-05-27T08:38:22+00:00'
-permalink: chocolate-peanut-butter-cheesecake-pops
+slug: chocolate-peanut-butter-cheesecake-pops
 ---
 <a href="http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_36438,00.html"><img src='images/uploads/2008/05/cheesecake_pops.gif' alt='Cheesecake Pops' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Happy Thanksgiving!
 date: '2009-11-26T11:20:40+00:00'
-permalink: happy-thanksgiving
+slug: happy-thanksgiving
 ---
 <a href="http://www.flickr.com/photos/kstar810/4126978026/in/set-72157622661943892/"><img src="http://farm3.static.flickr.com/2574/4126978026_cb97942b55.jpg" alt="turkey cookie" /></a>
 

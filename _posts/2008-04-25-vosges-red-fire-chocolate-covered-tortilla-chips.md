@@ -2,7 +2,7 @@
 layout: post
 title: Vosges Red Fire Chocolate-Covered Tortilla Chips
 date: '2008-04-25T10:01:09+00:00'
-permalink: vosges-red-fire-chocolate-covered-tortilla-chips
+slug: vosges-red-fire-chocolate-covered-tortilla-chips
 ---
 <a href="http://www.flickr.com/photos/travelingrhinos/1451440890/"><img src='images/uploads/2008/04/vosges_tortilla.jpg' alt='Vosges Red Fire Chocolate-Covered Tortilla Chips' /></a>
 

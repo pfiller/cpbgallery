@@ -2,7 +2,7 @@
 layout: post
 title: Mini Peanut Butter Cup-cake
 date: '2008-06-28T12:31:00+00:00'
-permalink: mini-peanut-butter-cup-cake
+slug: mini-peanut-butter-cup-cake
 ---
 <img src='images/uploads/2008/06/mini_pb_cupcake.jpg' alt='Mini Peanut Butter Cupcake' class="yellowborder" />
 

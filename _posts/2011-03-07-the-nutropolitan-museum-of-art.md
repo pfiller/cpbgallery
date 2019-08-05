@@ -2,7 +2,7 @@
 layout: post
 title: The Nutropolitan Museum of Art
 date: '2011-03-07T18:32:43+00:00'
-permalink: the-nutropolitan-museum-of-art
+slug: the-nutropolitan-museum-of-art
 ---
 <a href="http://www.flickr.com/photos/kstar810/5506909228/" title="The Nutropolitan Museum of Art by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5177/5506909228_c5c6832c5d.jpg" width="500" height="333" alt="The Nutropolitan Museum of Art" /></a>
 

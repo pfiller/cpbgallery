@@ -2,7 +2,7 @@
 layout: post
 title: 'Solomon''s Gourmet Cookies: Chocolate Peanut Butter Chip'
 date: '2008-05-22T00:05:09+00:00'
-permalink: solomons-gourmet-cookies-chocolate-peanut-butter-chip
+slug: solomons-gourmet-cookies-chocolate-peanut-butter-chip
 ---
 <img src='images/uploads/2008/05/solomons.jpg' alt='Solomons Gourmet Cookies' class="yellowborder"/>
 

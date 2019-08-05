@@ -2,7 +2,7 @@
 layout: post
 title: 'Balance Bar Review: Chocolate Peanut Butter vs. Honey Peanut'
 date: '2008-04-21T00:05:27+00:00'
-permalink: balance-bar-review-chocolate-peanut-butter-vs-honey-peanut
+slug: balance-bar-review-chocolate-peanut-butter-vs-honey-peanut
 ---
 Would you rather eat:
 

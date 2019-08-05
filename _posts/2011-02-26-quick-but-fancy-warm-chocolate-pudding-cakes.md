@@ -2,7 +2,7 @@
 layout: post
 title: Quick (But Fancy) Warm Chocolate Pudding Cakes
 date: '2011-02-26T14:31:11+00:00'
-permalink: quick-but-fancy-warm-chocolate-pudding-cakes
+slug: quick-but-fancy-warm-chocolate-pudding-cakes
 ---
 <a title="Warm Chocolate Pudding Cakes with Caramel Sauce by kstar810, on Flickr" href="http://www.flickr.com/photos/kstar810/5479112594/"><img src="http://farm6.static.flickr.com/5213/5479112594_1791045c75.jpg" alt="Warm Chocolate Pudding Cakes with Caramel Sauce" width="500" height="333" /></a>
 

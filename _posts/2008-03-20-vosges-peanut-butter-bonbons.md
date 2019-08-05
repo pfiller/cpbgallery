@@ -2,7 +2,7 @@
 layout: post
 title: Vosges Peanut Butter Bonbons Review
 date: '2008-03-20T00:05:00+00:00'
-permalink: vosges-peanut-butter-bonbons
+slug: vosges-peanut-butter-bonbons
 ---
 <a href="http://flickr.com/photos/kstar810/2344813678/"><img src='images/uploads/2008/03/vosges_01.jpg' alt='Vosges Peanut Butter Bonbons' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Nigella's Banana Muffins Meet CPB
 date: '2009-09-10T12:05:25+00:00'
-permalink: nigellas-banana-muffins-wcpb
+slug: nigellas-banana-muffins-wcpb
 ---
 <a href="http://www.flickr.com/photos/kstar810/3904331447/"><img src="http://farm3.static.flickr.com/2554/3904331447_9084d227f7.jpg" alt="banana muffins" /></a>
 

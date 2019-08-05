@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Banana Pancakes
 date: '2010-05-08T12:00:38+00:00'
-permalink: peanut-butter-banana-pancakes
+slug: peanut-butter-banana-pancakes
 ---
 <a href="http://www.flickr.com/photos/kstar810/4589328426/"><img src="http://farm5.static.flickr.com/4015/4589328426_5b22fd340e.jpg" alt="Banana Pancakes" /></a>
 

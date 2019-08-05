@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Biscotti w/ Chocolate Chunks & Cocoa Nibs
 date: '2009-11-19T09:00:14+00:00'
-permalink: peanut-butter-biscotti-w-chocolate-chunks-cocoa-nibs
+slug: peanut-butter-biscotti-w-chocolate-chunks-cocoa-nibs
 ---
 <a href="http://www.flickr.com/photos/kstar810/4100474227/"><img src="http://farm3.static.flickr.com/2539/4100474227_300c0547b3.jpg" alt="Peanut Butter Biscotti" /></a>
 

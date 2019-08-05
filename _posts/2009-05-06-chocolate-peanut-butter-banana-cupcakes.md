@@ -2,7 +2,7 @@
 layout: post
 title: Quick & Easy Chocolate Peanut Butter Banana Cupcakes
 date: '2009-05-06T15:29:15+00:00'
-permalink: chocolate-peanut-butter-banana-cupcakes
+slug: chocolate-peanut-butter-banana-cupcakes
 ---
 <a href="http://www.flickr.com/photos/kstar810/3474523700/"><img src="http://farm4.static.flickr.com/3618/3474523700_69dc05b954.jpg?v=0" alt="Chocolate Peanut Butter Banana Cupcakes" /></a>
 

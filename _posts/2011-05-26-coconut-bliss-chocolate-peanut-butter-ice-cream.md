@@ -2,7 +2,7 @@
 layout: post
 title: Coconut Bliss Chocolate Peanut Butter Ice Cream
 date: '2011-05-26T14:20:34+00:00'
-permalink: coconut-bliss-chocolate-peanut-butter-ice-cream
+slug: coconut-bliss-chocolate-peanut-butter-ice-cream
 ---
 <a href="http://www.flickr.com/photos/kstar810/5761921381/" title="Coconut Bliss Chocolate Peanut Butter Ice Cream by kstar810, on Flickr"><img src="http://farm4.static.flickr.com/3278/5761921381_43a91a6c0b.jpg" width="500" height="333" alt="Coconut Bliss Chocolate Peanut Butter Ice Cream"></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Kitchn Shout-out
 date: '2009-05-27T15:07:24+00:00'
-permalink: the-kitchn-shout-out
+slug: the-kitchn-shout-out
 ---
 <img src='images/uploads/2009/05/cpb_shoutout2.gif' alt='shoutout banner' />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Cupcakes Get Political
 date: '2008-11-04T21:17:17+00:00'
-permalink: cupcakes-get-political
+slug: cupcakes-get-political
 ---
 <a href="http://gothamist.com/2008/11/04/obama_beating_out_mccain_in_cupcake.php"><img src='images/uploads/2008/11/crumbs_vote.jpg' alt='Crumbs Voting' /></a>
 

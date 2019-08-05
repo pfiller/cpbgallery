@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Hazelnut Brownies
 date: '2008-04-07T00:05:39+00:00'
-permalink: peanut-butter-hazelnut-brownies
+slug: peanut-butter-hazelnut-brownies
 ---
 <img src='images/uploads/2008/04/hazelnut_01.gif' alt='Peanut Butter Hazelnut Brownies' class="yellowborder" />
 

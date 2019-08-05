@@ -2,7 +2,7 @@
 layout: post
 title: Scrumptious PB&J Teddy Cake
 date: '2008-02-28T01:02:10+00:00'
-permalink: scrumptious-pbj-teddy-cake
+slug: scrumptious-pbj-teddy-cake
 ---
 <img src="http://www.cpbgallery.com/images/cpb_toocute.gif" alt="too cute to eat" class="yellowborder"/>
 

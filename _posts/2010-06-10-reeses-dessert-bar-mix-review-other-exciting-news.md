@@ -2,7 +2,7 @@
 layout: post
 title: Reese's Dessert Bar Mix Review & Other Exciting News
 date: '2010-06-10T14:13:00+00:00'
-permalink: reeses-dessert-bar-mix-review-other-exciting-news
+slug: reeses-dessert-bar-mix-review-other-exciting-news
 ---
 <a href="http://www.flickr.com/photos/kstar810/4688101577/"><img src="http://farm5.static.flickr.com/4039/4688101577_5112103c8f.jpg" alt="Reese's Dessert Bar Mix" /></a>
 

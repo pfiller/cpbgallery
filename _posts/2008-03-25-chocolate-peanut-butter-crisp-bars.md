@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Crisp Bars
 date: '2008-03-25T08:44:42+00:00'
-permalink: chocolate-peanut-butter-crisp-bars
+slug: chocolate-peanut-butter-crisp-bars
 ---
 <img src='images/uploads/2008/03/potato.jpg' alt='potato_chips' />
 

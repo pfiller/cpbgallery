@@ -2,7 +2,7 @@
 layout: post
 title: Melt in Your Mouth Peanut Butter Cookie Press Sandwiches
 date: '2009-12-21T11:07:31+00:00'
-permalink: melt-in-your-mouth-peanut-butter-cookie-press-sandwiches
+slug: melt-in-your-mouth-peanut-butter-cookie-press-sandwiches
 ---
 <a href="http://www.flickr.com/photos/kstar810/4121469680/"><img src="http://farm3.static.flickr.com/2582/4121469680_e8cd0bb1bd.jpg" alt="Cookie Press Peanut Butter Sandwiches" /></a>
 

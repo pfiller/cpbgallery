@@ -2,7 +2,7 @@
 layout: post
 title: Take 5 Cookie Recipe
 date: '2008-08-08T12:56:41+00:00'
-permalink: take-5-cookie-recipe
+slug: take-5-cookie-recipe
 ---
 <img src='images/uploads/2008/08/take_five_cookie.gif' alt='Take Five Cookie' class="yellowborder" />
 

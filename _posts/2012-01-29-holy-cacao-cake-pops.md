@@ -2,7 +2,7 @@
 layout: post
 title: Holy Cacao Cake Pops
 date: '2012-01-29T09:00:52+00:00'
-permalink: holy-cacao-cake-pops
+slug: holy-cacao-cake-pops
 ---
 <a href="http://www.flickr.com/photos/kstar810/6778680283/" title="Holy Cacao Cake Pops by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7149/6778680283_106dc21b78.jpg" width="500" height="375" alt="Holy Cacao Cake Pops"></a>
 

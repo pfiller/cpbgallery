@@ -2,7 +2,7 @@
 layout: post
 title: 'Fancy Food Show, Part I: Askinosie Chocolate'
 date: '2008-07-02T23:04:27+00:00'
-permalink: fancy-food-show-part-i-askinosie-chocolate
+slug: fancy-food-show-part-i-askinosie-chocolate
 ---
 <a href="http://flickr.com/photos/kstar810/2632025029/"><img src="http://farm4.static.flickr.com/3012/2632025029_1d3a7b52a5.jpg?v=0" alt="Askinosie Chocolate" /></a>
 

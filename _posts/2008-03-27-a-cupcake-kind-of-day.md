@@ -2,7 +2,7 @@
 layout: post
 title: A Cupcake Kind of Day
 date: '2008-03-27T00:05:28+00:00'
-permalink: a-cupcake-kind-of-day
+slug: a-cupcake-kind-of-day
 ---
 <a href="http://www.flickr.com/photos/ciana13/2362318869/"><img src='images/uploads/2008/03/pb_choc_cupcake.jpg' alt='peanut butter chocolate cupcake' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Monkey with Banana and Chocolate Chips
 date: '2008-06-23T00:05:08+00:00'
-permalink: peanut-butter-monkey
+slug: peanut-butter-monkey
 ---
 <a href="http://flickr.com/photos/24813922@N04/2594759920/"><img src="http://farm4.static.flickr.com/3137/2594759920_4443302536.jpg?v=1214016617" alt="Peanut Butter Monkey" /></a>
 

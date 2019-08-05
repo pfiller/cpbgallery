@@ -2,7 +2,7 @@
 layout: post
 title: 'Review: Erin Baker''s Peanut Butter and Double Chocolate Chunk Granolas'
 date: '2008-05-04T00:05:42+00:00'
-permalink: review-erin-bakers-peanut-butter-and-double-chocolate-chunk-granolas
+slug: review-erin-bakers-peanut-butter-and-double-chocolate-chunk-granolas
 ---
 <a href="http://flickr.com/photos/kstar810/2461495153/"><img src="http://farm3.static.flickr.com/2265/2461495153_42bc0ccd8a.jpg?v=0" alt="Erin Baker's Granola" /></a>
 

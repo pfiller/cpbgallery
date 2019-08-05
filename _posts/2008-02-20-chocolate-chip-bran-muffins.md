@@ -2,7 +2,7 @@
 layout: post
 title: Great with a glass of milk...
 date: '2008-02-20T21:08:57+00:00'
-permalink: chocolate-chip-bran-muffins
+slug: chocolate-chip-bran-muffins
 ---
 <a href="http://www.flickr.com/photos/kstar810/2278764984/"><img src="http://farm3.static.flickr.com/2283/2278764984_4f593f962c.jpg?v=0" alt="chocolate chip bran muffins" /></a>
 

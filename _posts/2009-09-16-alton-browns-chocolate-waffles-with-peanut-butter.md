@@ -2,7 +2,7 @@
 layout: post
 title: Alton Brown's Chocolate Waffles with Peanut Butter
 date: '2009-09-16T12:45:10+00:00'
-permalink: alton-browns-chocolate-waffles-with-peanut-butter
+slug: alton-browns-chocolate-waffles-with-peanut-butter
 ---
 <a href="http://www.flickr.com/photos/kstar810/3925639867/in/photostream/"><img src="http://farm3.static.flickr.com/2498/3925639867_e6e577a8c4.jpg" alt="chocolate waffles" /></a>
 

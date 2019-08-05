@@ -2,7 +2,7 @@
 layout: post
 title: 'Reader Submission: What Kind of Peanut Butter Eater Are You?'
 date: '2010-02-05T12:21:49+00:00'
-permalink: reader-submission-what-kind-of-peanut-butter-eater-are-you
+slug: reader-submission-what-kind-of-peanut-butter-eater-are-you
 ---
 <a href="http://www.flickr.com/photos/kstar810/4332079039/"><img src='images/uploads/2010/02/peanut_butter_spoon.jpg' alt='Peanut Butter Person' /></a>
 

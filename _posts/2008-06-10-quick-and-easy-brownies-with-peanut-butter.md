@@ -2,7 +2,7 @@
 layout: post
 title: 'Quick and Easy Brownies with Peanut Butter '
 date: '2008-06-10T00:05:14+00:00'
-permalink: quick-and-easy-brownies-with-peanut-butter
+slug: quick-and-easy-brownies-with-peanut-butter
 ---
 <a href="http://flickr.com/photos/kstar810/2566157214/"><img src="http://farm4.static.flickr.com/3158/2566157214_b9917e467b.jpg?v=0" alt="Brownie with Peanut Butter Ganache" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: 80's Reese's Peanut Butter Cups Commercials
 date: '2008-06-17T00:05:50+00:00'
-permalink: 80s-reeses-peanut-butter-cups-commercials
+slug: 80s-reeses-peanut-butter-cups-commercials
 ---
 <a href="http://www.youtube.com/watch?v=5B8PyRBTs-k"><img src='images/uploads/2008/06/reeses_pb_cups.jpg' alt='Reeses PB Cups Commercials' /></a>
 

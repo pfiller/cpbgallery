@@ -2,7 +2,7 @@
 layout: post
 title: Bread Alone's (Smashed) Chocolate Peanut Butter Muffin
 date: '2008-09-09T08:02:02+00:00'
-permalink: bread-alones-smashed-chocolate-peanut-butter-muffin
+slug: bread-alones-smashed-chocolate-peanut-butter-muffin
 ---
 <img src='images/uploads/2008/09/choc_pb_muffin.jpg' alt='Bread Alone Muffin' class="yellowborder" />
 

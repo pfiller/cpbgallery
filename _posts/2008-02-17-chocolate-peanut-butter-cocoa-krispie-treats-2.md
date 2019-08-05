@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Cocoa Krispie Treats
 date: '2008-02-17T19:30:04+00:00'
-permalink: chocolate-peanut-butter-cocoa-krispie-treats-2
+slug: chocolate-peanut-butter-cocoa-krispie-treats-2
 ---
 <a href="http://www.flickr.com/photos/kstar810/2207520007/in/set-72157603817944040/"><img src="http://farm3.static.flickr.com/2305/2207520007_6f54d3e7db.jpg?v=0" alt="chocolate peanut butter cocoa krispie treats" /></a>
 

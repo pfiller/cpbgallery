@@ -2,7 +2,7 @@
 layout: post
 title: 'Pro Bar: Koka Moka Review'
 date: '2008-02-27T01:05:25+00:00'
-permalink: pro-bar-koka-moka
+slug: pro-bar-koka-moka
 ---
 <a href="http://www.flickr.com/photos/kstar810/2290430420/"><img src="http://farm4.static.flickr.com/3115/2290430420_5a983332e1.jpg?v=0" alt="pro bar" /></a>
 

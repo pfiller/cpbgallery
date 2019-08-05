@@ -2,7 +2,7 @@
 layout: post
 title: Feelin' lovey dovey with my 'Chubby Hubby'
 date: '2009-08-20T09:00:51+00:00'
-permalink: feelin-lovey-dovey-with-my-chubby-hubby
+slug: feelin-lovey-dovey-with-my-chubby-hubby
 ---
 <a href="http://www.flickr.com/photos/aboyce18/3834687931/"><img src='images/uploads/2009/08/picture-13.png' alt='chubby hubby' /></a>
 

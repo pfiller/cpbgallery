@@ -2,7 +2,7 @@
 layout: post
 title: No-Bake Peanut Butter S'mores Treats
 date: '2008-04-17T00:42:23+00:00'
-permalink: no-bake-peanut-butter-smores-treats
+slug: no-bake-peanut-butter-smores-treats
 ---
 <a href="http://www.flickr.com/photos/kstar810/2419681725/"><img src="http://farm4.static.flickr.com/3162/2419681725_a44e5787b4.jpg?v=0" alt="No-Bake Peanut Butter S'mores Treats" /></a>
 

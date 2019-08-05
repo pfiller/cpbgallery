@@ -2,7 +2,7 @@
 layout: post
 title: Weekend Treats Sightings in NYC
 date: '2009-04-13T16:15:32+00:00'
-permalink: weekend-treats-sightings-in-nyc
+slug: weekend-treats-sightings-in-nyc
 ---
 <a href="http://www.flickr.com/photos/kstar810/3439431562/"><img src="http://farm4.static.flickr.com/3569/3439431562_015bd873b5.jpg?v=0" alt="Treats Truck Business Card" /></a>
 

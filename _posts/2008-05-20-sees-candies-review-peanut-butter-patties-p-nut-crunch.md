@@ -2,7 +2,7 @@
 layout: post
 title: 'See''s Candies Review: Peanut Butter Patties & P-Nut Crunch'
 date: '2008-05-20T00:05:07+00:00'
-permalink: sees-candies-review-peanut-butter-patties-p-nut-crunch
+slug: sees-candies-review-peanut-butter-patties-p-nut-crunch
 ---
 <a href="http://www.flickr.com/photos/kstar810/2344181862/"><img src="http://farm3.static.flickr.com/2189/2344181862_6247d6ccfa.jpg?v=0" alt="See's Candies" /></a>
 

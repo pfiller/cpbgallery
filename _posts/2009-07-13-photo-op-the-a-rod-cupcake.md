@@ -2,7 +2,7 @@
 layout: post
 title: 'Photo Op: The A-Rod Cupcake'
 date: '2009-07-13T09:00:17+00:00'
-permalink: photo-op-the-a-rod-cupcake
+slug: photo-op-the-a-rod-cupcake
 ---
 <a href="http://www.flickr.com/photos/kstar810/3667353075/"><img src="http://farm3.static.flickr.com/2477/3667353075_bdbb43f0d7.jpg?v=0" alt="A-Rod Cupcake" /></a>
 

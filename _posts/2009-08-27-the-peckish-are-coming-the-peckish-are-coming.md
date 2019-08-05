@@ -2,7 +2,7 @@
 layout: post
 title: The Peckish Are Coming! The Peckish Are Coming!
 date: '2009-08-27T07:05:41+00:00'
-permalink: the-peckish-are-coming-the-peckish-are-coming
+slug: the-peckish-are-coming-the-peckish-are-coming
 ---
 It's amazing how Boston is only a three hour drive away and yet I've only been there a few times in my life. Taste Tester and I visited this past weekend and had a great time. There are lots of fun things to do there like:
 

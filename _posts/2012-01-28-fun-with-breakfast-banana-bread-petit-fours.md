@@ -2,7 +2,7 @@
 layout: post
 title: 'Fun with Breakfast: Banana Bread Petit Fours'
 date: '2012-01-28T12:42:38+00:00'
-permalink: fun-with-breakfast-banana-bread-petit-fours
+slug: fun-with-breakfast-banana-bread-petit-fours
 ---
 <a href="http://www.flickr.com/photos/kstar810/6776294449/" title="Banana Bread Petit Fours by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7011/6776294449_ed2e11525f.jpg" width="500" height="333" alt="Banana Bread Petit Fours"></a>
 

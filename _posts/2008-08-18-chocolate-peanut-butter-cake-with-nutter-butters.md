@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Cake with Nutter Butters
 date: '2008-08-18T08:20:09+00:00'
-permalink: chocolate-peanut-butter-cake-with-nutter-butters
+slug: chocolate-peanut-butter-cake-with-nutter-butters
 ---
 <img src="http://farm4.static.flickr.com/3039/2772351598_c51471c577.jpg?v=0" alt="Chocolate Peanut Butter Cake" class="yellowborder" />
 

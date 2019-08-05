@@ -2,7 +2,7 @@
 layout: post
 title: Crazy Chocolate Peanut Butter Combinations
 date: '2008-04-09T00:05:18+00:00'
-permalink: chocolate-peanut-butter-craziness
+slug: chocolate-peanut-butter-craziness
 ---
 <img src='images/uploads/2008/04/cpb_octopus1.gif' alt='chocolate peanut butter octopus' />
 

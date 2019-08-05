@@ -2,7 +2,7 @@
 layout: post
 title: Chewy Chocolate Cookies with Mini Peanut Butter Cups Recipe
 date: '2008-08-04T08:03:53+00:00'
-permalink: chewy-chocolate-cookies-with-mini-peanut-butter-cups-recipe
+slug: chewy-chocolate-cookies-with-mini-peanut-butter-cups-recipe
 ---
 <a href="http://www.flickr.com/photos/kstar810/2729299506/"><img src="http://farm4.static.flickr.com/3008/2729299506_8955988c6b.jpg?v=0" alt="Chewy Chocolate Cookies" /></a>
 

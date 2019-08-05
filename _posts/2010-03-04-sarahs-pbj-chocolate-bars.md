@@ -2,7 +2,7 @@
 layout: post
 title: Sarah's PB&J Chocolate Bars
 date: '2010-03-04T08:59:22+00:00'
-permalink: sarahs-pbj-chocolate-bars
+slug: sarahs-pbj-chocolate-bars
 ---
 <a href="http://www.flickr.com/photos/kstar810/4376243164/"><img src="http://farm5.static.flickr.com/4009/4376243164_4e7b389e30.jpg" alt="Sarah's PB&J Chocolate Bars" /></a>
 

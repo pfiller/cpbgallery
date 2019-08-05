@@ -2,7 +2,7 @@
 layout: post
 title: 'Atlanta Cupcake Tour, Part 5 of 7: The Outwrite Bookstore & Coffeehouse'
 date: '2008-10-28T00:05:57+00:00'
-permalink: atlanta-cupcake-tour-part-5-of-7-the-outwrite-bookstore-coffeehouse
+slug: atlanta-cupcake-tour-part-5-of-7-the-outwrite-bookstore-coffeehouse
 ---
 <a href="http://www.flickr.com/photos/kstar810/2940262788/"><img src="http://farm4.static.flickr.com/3239/2940262788_428820cb32.jpg?v=0" alt="Joshua John's Cupcake" /></a>
 

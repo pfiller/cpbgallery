@@ -2,7 +2,7 @@
 layout: post
 title: No Bake Chocolate Peanut Butter Bars
 date: '2008-07-11T07:52:00+00:00'
-permalink: no-bake-chocolate-peanut-butter-bars
+slug: no-bake-chocolate-peanut-butter-bars
 ---
 <a href="http://flickr.com/photos/kstar810/2658511524/"><img src="http://farm4.static.flickr.com/3249/2658511524_43449e14e5.jpg?v=0" alt="No Bake Chocolate Peanut Butter Bars" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Perfect Fall Snack
 date: '2009-09-24T17:58:33+00:00'
-permalink: the-perfect-fall-snack
+slug: the-perfect-fall-snack
 ---
 <a href="http://www.flickr.com/photos/kstar810/3944853337/in/photostream/"><img src="http://farm3.static.flickr.com/2470/3944853337_66079a4118.jpg" alt="gala apple" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter and Chocolate Sprinkles Sandwich
 date: '2008-09-21T20:57:15+00:00'
-permalink: peanut-butter-and-chocolate-sprinkles-sandwich
+slug: peanut-butter-and-chocolate-sprinkles-sandwich
 ---
 <a href="http://www.flickr.com/photos/jbmichelle/2832076392/"><img src='images/uploads/2008/09/peanut_butter_sprinkle.jpg' alt='peanut butter sprinkle' /></a>
 

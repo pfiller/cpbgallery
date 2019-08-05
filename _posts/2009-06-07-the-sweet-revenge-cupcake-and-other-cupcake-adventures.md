@@ -2,7 +2,7 @@
 layout: post
 title: Sweet Revenge and Other Cupcake Adventures
 date: '2009-06-07T21:01:04+00:00'
-permalink: the-sweet-revenge-cupcake-and-other-cupcake-adventures
+slug: the-sweet-revenge-cupcake-and-other-cupcake-adventures
 ---
 <a href="http://www.flickr.com/photos/kstar810/3603485544/"><img src="http://farm3.static.flickr.com/2192/3603485544_124ce867fb.jpg?v=0" alt="Sweet Revenge" /></a>
 

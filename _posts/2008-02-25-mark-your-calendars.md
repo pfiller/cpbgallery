@@ -2,7 +2,7 @@
 layout: post
 title: Mark your calendars
 date: '2008-02-25T01:13:11+00:00'
-permalink: mark-your-calendars
+slug: mark-your-calendars
 ---
 <img src='images/uploads/2008/02/cpb_calendar.gif' alt='calendar' class="yellowborder"/>
 

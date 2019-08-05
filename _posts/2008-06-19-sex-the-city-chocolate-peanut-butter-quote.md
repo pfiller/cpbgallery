@@ -2,7 +2,7 @@
 layout: post
 title: Sex & The City Chocolate Peanut Butter Quote
 date: '2008-06-19T14:59:26+00:00'
-permalink: sex-the-city-chocolate-peanut-butter-quote
+slug: sex-the-city-chocolate-peanut-butter-quote
 ---
 <img src='images/uploads/2008/06/aidan.jpg' alt='Aidan Carrie' class="yellowborder"/>
 

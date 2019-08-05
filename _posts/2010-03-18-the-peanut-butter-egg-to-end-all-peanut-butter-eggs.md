@@ -2,7 +2,7 @@
 layout: post
 title: The Peanut Butter Egg To End All Peanut Butter Eggs
 date: '2010-03-18T09:00:59+00:00'
-permalink: the-peanut-butter-egg-to-end-all-peanut-butter-eggs
+slug: the-peanut-butter-egg-to-end-all-peanut-butter-eggs
 ---
 <a href="http://www.flickr.com/photos/kstar810/4439085713/"><img src="http://farm5.static.flickr.com/4047/4439085713_15db128646.jpg" alt="Giant Reese's Peanut Butter Egg" /></a>
 

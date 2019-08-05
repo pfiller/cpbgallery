@@ -2,9 +2,9 @@
 layout: post
 title: Hi, My Name is Kristina and I'm… a Vegetarian?
 date: '2012-01-09T09:00:03+00:00'
-permalink: hi-my-name-is-kristina-and-im%e2%80%a6-a-vegetarian
+slug: hi-my-name-is-kristina-and-im%e2%80%a6-a-vegetarian
 ---
-<a href="images/uploads/2012/01/vegetarian.jpg"><img src="images/uploads/2012/01/vegetarian.jpg" alt="" title="vegetarian" width="500" height="350" class="alignnone size-full wp-image-2568" /></a>
+<a href="/images/uploads/2012/01/vegetarian.jpg"><img src="/images/uploads/2012/01/vegetarian.jpg" alt="" title="vegetarian" width="500" height="350" class="alignnone size-full wp-image-2568" /></a>
 
 I was starting to get tired of the "bacon in everything" trend (no offense, Elvis) but never thought I'd be one to call myself a full-blown vegetarian. I still don't totally believe it. It's something I've long thought about doing, but never thought I could do. Turns out, it's pretty easy!
 

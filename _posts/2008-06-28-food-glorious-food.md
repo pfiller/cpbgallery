@@ -2,7 +2,7 @@
 layout: post
 title: Food, Glorious Food
 date: '2008-06-28T14:04:49+00:00'
-permalink: food-glorious-food
+slug: food-glorious-food
 ---
 <img src='images/uploads/2008/06/yay1.gif' alt='yay' />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Happy Birthday Taste Tester!
 date: '2008-08-12T00:05:15+00:00'
-permalink: happy-birthday-taste-tester
+slug: happy-birthday-taste-tester
 ---
 <img src='images/uploads/2008/08/happy_birthday_02.gif' alt='Happy Birthday Taste Tester' class="yellowborder" />
 

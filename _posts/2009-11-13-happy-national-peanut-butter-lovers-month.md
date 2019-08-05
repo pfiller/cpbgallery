@@ -2,7 +2,7 @@
 layout: post
 title: Happy National Peanut Butter Lovers Month!
 date: '2009-11-13T00:09:13+00:00'
-permalink: happy-national-peanut-butter-lovers-month
+slug: happy-national-peanut-butter-lovers-month
 ---
 <img src='images/uploads/2009/11/peanut_butter_lovers_month1.gif' alt='National Peanut Butter Lover’s Month' class="yellowborder" />
 

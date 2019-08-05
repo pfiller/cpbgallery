@@ -2,7 +2,7 @@
 layout: post
 title: The Great Peanut Butter Exhibition
 date: '2008-04-15T00:05:43+00:00'
-permalink: the-great-peanut-butter-exhibition
+slug: the-great-peanut-butter-exhibition
 ---
 <img src='images/uploads/2008/04/pb_exhibition.gif' alt='The Great Peanut Butter Exhibition' class="yellowborder" />
 

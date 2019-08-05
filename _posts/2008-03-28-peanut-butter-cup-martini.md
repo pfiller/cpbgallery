@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Cup Martini
 date: '2008-03-28T00:05:55+00:00'
-permalink: peanut-butter-cup-martini
+slug: peanut-butter-cup-martini
 ---
 <a href="http://www.polishedpalate.com/events/cocktails/castries.html"><img src='images/uploads/2008/03/peanut_butter_martini.jpg' alt='peanut butter cup martini' /></a>
 

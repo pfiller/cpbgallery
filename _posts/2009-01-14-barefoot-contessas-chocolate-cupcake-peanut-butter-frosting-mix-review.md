@@ -2,7 +2,7 @@
 layout: post
 title: Barefoot Contessa's Chocolate Cupcake & Peanut Butter Frosting Mix Review
 date: '2009-01-14T21:00:41+00:00'
-permalink: barefoot-contessas-chocolate-cupcake-peanut-butter-frosting-mix-review
+slug: barefoot-contessas-chocolate-cupcake-peanut-butter-frosting-mix-review
 ---
 <a href="http://www.flickr.com/photos/kstar810/3180901100/"><img src="http://farm4.static.flickr.com/3331/3180901100_21f0bfab92.jpg?v=0" alt="Barefoot Contessa" /></a>
 

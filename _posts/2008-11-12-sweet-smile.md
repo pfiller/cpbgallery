@@ -2,7 +2,7 @@
 layout: post
 title: Sweet Smile
 date: '2008-11-12T22:50:51+00:00'
-permalink: sweet-smile
+slug: sweet-smile
 ---
 <a href="http://www.flickr.com/photos/ginapina/2989489730/"><img src='images/uploads/2008/11/smiling_cupcake.jpg' alt='Smiling Cupcake' /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Linktastic Roundup '
 date: '2009-07-16T14:26:25+00:00'
-permalink: linktastic-roundup
+slug: linktastic-roundup
 ---
 Well something must have been in the air this week because chocolate and peanut butter made appearances all over the web! Check out these great finds. And thanks to <a href="http://www.thekitchn.com/thekitchn/team">Faith</a> at <a href="http://www.thekitchn.com/">The Kitchn</a> and Taste Tester for keeping me in the loop!
 

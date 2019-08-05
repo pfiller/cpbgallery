@@ -2,7 +2,7 @@
 layout: post
 title: Best Birthday Gift Ever
 date: '2012-08-23T16:30:32+00:00'
-permalink: best-birthday-gift-ever
+slug: best-birthday-gift-ever
 ---
 <a href="http://www.flickr.com/photos/kstar810/7846116914/" title="UK Chocolate Collection by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7265/7846116914_3abcf166fe.jpg" width="500" height="404" alt="UK Chocolate Collection"></a>
 

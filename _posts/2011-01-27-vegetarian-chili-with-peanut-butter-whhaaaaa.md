@@ -2,7 +2,7 @@
 layout: post
 title: Vegetarian Chili with Peanut Butter (Whhaaaaa??)
 date: '2011-01-27T16:02:38+00:00'
-permalink: vegetarian-chili-with-peanut-butter-whhaaaaa
+slug: vegetarian-chili-with-peanut-butter-whhaaaaa
 ---
 <a href="http://www.flickr.com/photos/kstar810/5393009095/" title="Vegetarian Chili with Peanut Butter by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5131/5393009095_151f227a0d.jpg" width="500" height="333" alt="Vegetarian Chili with Peanut Butter" /></a>
 

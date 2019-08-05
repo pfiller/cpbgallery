@@ -2,7 +2,7 @@
 layout: post
 title: Not Having Air Conditioning Blows
 date: '2008-06-15T13:36:41+00:00'
-permalink: not-having-air-conditioning-blows
+slug: not-having-air-conditioning-blows
 ---
 <img src='images/uploads/2008/06/lame.gif' alt='Lame' class="yellowborder" />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Puppy Chow
 date: '2008-07-06T12:52:49+00:00'
-permalink: chocolate-peanut-butter-puppy-chow
+slug: chocolate-peanut-butter-puppy-chow
 ---
 <a href="http://flickr.com/photos/kstar810/2642839912/"><img src="http://farm4.static.flickr.com/3106/2642839912_2168b7106e.jpg?v=0" alt="Puppy Chow" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Time to tagalong
 date: '2008-02-23T06:06:17+00:00'
-permalink: time-to-tagalong
+slug: time-to-tagalong
 ---
 <a href="http://www.flickr.com/photos/thatlunagirl/2198295477/in/set-72157603609850335/"><img src="http://farm3.static.flickr.com/2342/2198295477_55db2519a4.jpg?v=0" alt="tagalongs" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Vegan Oreo Peanut Butter Truffles
 date: '2008-04-16T00:05:08+00:00'
-permalink: vegan-oreo-peanut-butter-truffles
+slug: vegan-oreo-peanut-butter-truffles
 ---
 <a href="http://www.flickr.com/photos/pilliebee/2411222632/"><img src="http://farm3.static.flickr.com/2109/2411222632_9649f7d3be.jpg?v=0" alt="vegan oreo peanut butter truffle" /></a>
 

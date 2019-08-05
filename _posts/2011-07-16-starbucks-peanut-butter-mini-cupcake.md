@@ -2,7 +2,7 @@
 layout: post
 title: Starbuck's Peanut Butter Mini Cupcake
 date: '2011-07-16T07:50:00+00:00'
-permalink: starbucks-peanut-butter-mini-cupcake
+slug: starbucks-peanut-butter-mini-cupcake
 ---
 <a href="http://www.flickr.com/photos/kstar810/5930963558/" title="Starbucks Peanut Butter Mini Cupcake by kstar810, on Flickr"><img src="http://farm7.static.flickr.com/6011/5930963558_f2cd60f9bd.jpg" width="500" height="333" alt="Starbucks Peanut Butter Mini Cupcake"></a>
 

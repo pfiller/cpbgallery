@@ -2,7 +2,7 @@
 layout: post
 title: More Chicago Cupcakeries
 date: '2008-07-31T06:20:26+00:00'
-permalink: more-chicago-cupcakeries
+slug: more-chicago-cupcakeries
 ---
 <a href="http://www.thebleedingheartbakery.com/index.php"><img src="http://farm3.static.flickr.com/2144/2406929374_0ae4555d97.jpg?v=1207968020" alt="Chocolate Peanut Butter Cupcake" /></a>
 

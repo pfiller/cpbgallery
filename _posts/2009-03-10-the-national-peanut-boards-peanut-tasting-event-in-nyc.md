@@ -2,7 +2,7 @@
 layout: post
 title: The National Peanut Board's Peanut Tasting Event in NYC
 date: '2009-03-10T17:09:27+00:00'
-permalink: the-national-peanut-boards-peanut-tasting-event-in-nyc
+slug: the-national-peanut-boards-peanut-tasting-event-in-nyc
 ---
 <a href="http://www.nationalpeanutboard.org/index.php"><img src='images/uploads/2009/03/national_peanut_board_021.jpg' alt='National Peanut Board Event' /></a>
 

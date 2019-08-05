@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Peanut Butter Pots De Crème
 date: '2012-05-11T16:35:26+00:00'
-permalink: chocolate-peanut-butter-pots-de-creme
+slug: chocolate-peanut-butter-pots-de-creme
 ---
 <a href="http://www.flickr.com/photos/kstar810/7178271340/" title="Chocolate Peanut Butter Pots De Crème by kstar810, on Flickr"><img src="http://farm8.staticflickr.com/7078/7178271340_b3b046497f.jpg" width="500" height="333" alt="Chocolate Peanut Butter Pots De Crème"></a>
 

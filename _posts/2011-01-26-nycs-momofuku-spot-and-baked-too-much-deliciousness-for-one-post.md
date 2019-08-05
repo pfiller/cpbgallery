@@ -2,7 +2,7 @@
 layout: post
 title: NYC's Momofuku, Spot and Baked... Too Much Deliciousness For One Post?
 date: '2011-01-26T15:01:12+00:00'
-permalink: nycs-momofuku-spot-and-baked-too-much-deliciousness-for-one-post
+slug: nycs-momofuku-spot-and-baked-too-much-deliciousness-for-one-post
 ---
 <a href="http://www.flickr.com/photos/kstar810/5383027748/" title="Goodies! by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5088/5383027748_cce8d36e05.jpg" width="500" height="374" alt="Goodies!" /></a>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate & Peanut Butter Lip Glosses
 date: '2008-05-17T07:32:45+00:00'
-permalink: chocolate-peanut-butter-lip-glosses
+slug: chocolate-peanut-butter-lip-glosses
 ---
 <a href="http://www.flickr.com/photos/kstar810/2482739917/"><img src="http://farm4.static.flickr.com/3012/2482739917_c0464ec8ab.jpg?v=0" alt="Sharffen Berger Lip Gloss" /></a>
 

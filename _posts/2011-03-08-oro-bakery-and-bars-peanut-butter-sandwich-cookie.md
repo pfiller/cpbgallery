@@ -2,7 +2,7 @@
 layout: post
 title: Oro Bakery and Bar's Peanut Butter Sandwich Cookie
 date: '2011-03-08T19:00:34+00:00'
-permalink: oro-bakery-and-bars-peanut-butter-sandwich-cookie
+slug: oro-bakery-and-bars-peanut-butter-sandwich-cookie
 ---
 <a href="http://www.flickr.com/photos/kstar810/5509968583/" title="Peanut Butter Sandwich Cookie by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5098/5509968583_4eae953fe0.jpg" width="500" height="333" alt="Peanut Butter Sandwich Cookie" /></a>
 

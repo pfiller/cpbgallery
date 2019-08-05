@@ -2,7 +2,7 @@
 layout: post
 title: Nutella + Peanut Butter
 date: '2008-04-22T00:05:32+00:00'
-permalink: nutella-peanut-butter
+slug: nutella-peanut-butter
 ---
 <a href="http://www.flickr.com/photos/helloinfinite/2415614557/"><img src='images/uploads/2008/04/toast_nutella.jpg' alt='Toast with nutella and peanut butter' /></a>
 

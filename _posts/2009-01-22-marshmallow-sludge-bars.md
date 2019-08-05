@@ -2,7 +2,7 @@
 layout: post
 title: Marshmallow Sludge Bars
 date: '2009-01-22T09:12:11+00:00'
-permalink: marshmallow-sludge-bars
+slug: marshmallow-sludge-bars
 ---
 <a href="http://www.flickr.com/photos/kstar810/3214466476/"><img src="http://farm4.static.flickr.com/3497/3214466476_59b91ee076.jpg?v=0" alt="Marshmallow Sludge Bars" /></a>
 

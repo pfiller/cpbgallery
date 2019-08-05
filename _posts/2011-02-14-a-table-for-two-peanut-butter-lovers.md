@@ -2,7 +2,7 @@
 layout: post
 title: A Table For Two Peanut Butter Lovers
 date: '2011-02-14T11:53:11+00:00'
-permalink: a-table-for-two-peanut-butter-lovers
+slug: a-table-for-two-peanut-butter-lovers
 ---
 Our day was simple, full of sweets.
 It made me smile; it hurt my cheeks.
@@ -12,7 +12,7 @@ It made me smile; it hurt my cheeks.
 Red tables with straws and plastic spoons,
 We felt like kids- or maybe two loons. :)
 
-<a href="images/uploads/2011/02/patrick.jpg"><img src="images/uploads/2011/02/patrick.jpg" alt="" title="patrick" width="500" height="350" class="alignnone size-full wp-image-1587" /></a>
+<a href="/images/uploads/2011/02/patrick.jpg"><img src="/images/uploads/2011/02/patrick.jpg" alt="" title="patrick" width="500" height="350" class="alignnone size-full wp-image-1587" /></a>
 
 A divine array of sandwiches on snowy white bread,
 All complete with our favorite peanut buttery spread.

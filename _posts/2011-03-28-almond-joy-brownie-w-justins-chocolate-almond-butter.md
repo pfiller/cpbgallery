@@ -2,9 +2,9 @@
 layout: post
 title: Almond Joy Brownie (w/ Justin's Chocolate Almond Butter)
 date: '2011-03-28T13:13:13+00:00'
-permalink: almond-joy-brownie-w-justins-chocolate-almond-butter
+slug: almond-joy-brownie-w-justins-chocolate-almond-butter
 ---
-<a href="http://www.flickr.com/photos/kstar810/5561268023/"><img src="images/uploads/2011/03/almond_joy_brownie.jpg" alt="" title="almond_joy_brownie" width="500" height="350" class="alignnone size-full wp-image-2050" /></a>
+<a href="http://www.flickr.com/photos/kstar810/5561268023/"><img src="/images/uploads/2011/03/almond_joy_brownie.jpg" alt="" title="almond_joy_brownie" width="500" height="350" class="alignnone size-full wp-image-2050" /></a>
 
 If it's one person I have to thank for my sweets addition, it's gotta be my Dad. One of his favorite candy bars was the Almond Joy - I really can't look at one without thinking of him. 
 

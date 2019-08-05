@@ -2,7 +2,7 @@
 layout: post
 title: Creamy Peanut Butter Sandwich Cookies w/ Izzybelle Chocolate Sauce
 date: '2009-04-24T07:35:15+00:00'
-permalink: creamy-peanut-butter-sandwich-cookies-w-izzybelle-chocolate-sauce
+slug: creamy-peanut-butter-sandwich-cookies-w-izzybelle-chocolate-sauce
 ---
 <a href="http://www.flickr.com/photos/kstar810/3465676200/"><img src="http://farm4.static.flickr.com/3641/3465676200_5bcb7b4757.jpg?v=0" alt="Peanut Butter Sandwich Cookies" /></a>
 

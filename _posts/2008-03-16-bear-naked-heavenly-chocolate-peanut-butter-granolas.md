@@ -2,7 +2,7 @@
 layout: post
 title: Bear Naked Heavenly Chocolate & Peanut Butter Granolas Review
 date: '2008-03-16T00:05:22+00:00'
-permalink: bear-naked-heavenly-chocolate-peanut-butter-granolas
+slug: bear-naked-heavenly-chocolate-peanut-butter-granolas
 ---
 <img src='images/uploads/2008/03/bearnaked_cpb.jpg' alt='bear naked granola' class="yellowborder" />
 

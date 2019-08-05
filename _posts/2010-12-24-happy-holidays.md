@@ -2,7 +2,7 @@
 layout: post
 title: Happy Holidays!
 date: '2010-12-24T13:35:43+00:00'
-permalink: happy-holidays
+slug: happy-holidays
 ---
 <a href="http://www.flickr.com/photos/kstar810/5288453130/" title="Christmas Cookies by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5208/5288453130_96435a89a6.jpg" width="500" height="333" alt="Christmas Cookies" /></a>
 

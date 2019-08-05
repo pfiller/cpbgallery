@@ -2,9 +2,9 @@
 layout: post
 title: Wilderness Poets' Oregon Hazelnut Hempspread
 date: '2012-10-10T11:27:56+00:00'
-permalink: wilderness-poets-oregon-hazelnut-hempspread
+slug: wilderness-poets-oregon-hazelnut-hempspread
 ---
-<a href="images/uploads/2012/10/8073080323_8666117528.jpg"><img src="images/uploads/2012/10/8073080323_8666117528.jpg" alt="" title="8073080323_8666117528" width="500" height="333" class="alignnone size-full wp-image-2936" /></a>
+<a href="/images/uploads/2012/10/8073080323_8666117528.jpg"><img src="/images/uploads/2012/10/8073080323_8666117528.jpg" alt="" title="8073080323_8666117528" width="500" height="333" class="alignnone size-full wp-image-2936" /></a>
 
 There are certain foods in the world with names that work against them. Ugly fruit sounds like Mother Nature's reject, gravlax sounds like an evil creature from Lord of the Rings, and hemp sounds about as tasty as an old burlap sack.
 

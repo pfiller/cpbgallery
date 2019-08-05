@@ -2,7 +2,7 @@
 layout: post
 title: Spying Cake on the NJ Shore
 date: '2009-06-27T11:00:32+00:00'
-permalink: spying-cake-on-the-nj-shore
+slug: spying-cake-on-the-nj-shore
 ---
 <a href="http://www.flickr.com/photos/cakespy/3614571464/"><img src="http://farm4.static.flickr.com/3625/3614571464_6312aa0e84.jpg?v=1244655543" alt="Scone Pony" /></a>
 

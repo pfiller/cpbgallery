@@ -2,7 +2,7 @@
 layout: post
 title: The PM Brownie
 date: '2011-05-01T17:21:53+00:00'
-permalink: the-pm-brownie
+slug: the-pm-brownie
 ---
 <a href="http://www.flickr.com/photos/kstar810/5676561903/" title="The PM Brownie by kstar810, on Flickr"><img src="http://farm6.static.flickr.com/5187/5676561903_b6cae01a2e.jpg" width="500" height="333" alt="The PM Brownie"></a>
 

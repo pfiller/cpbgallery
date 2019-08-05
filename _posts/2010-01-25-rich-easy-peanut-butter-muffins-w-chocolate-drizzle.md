@@ -2,7 +2,7 @@
 layout: post
 title: Rich & Easy Peanut Butter Muffins w/ Chocolate Drizzle
 date: '2010-01-25T10:42:54+00:00'
-permalink: rich-easy-peanut-butter-muffins-w-chocolate-drizzle
+slug: rich-easy-peanut-butter-muffins-w-chocolate-drizzle
 ---
 <a href="http://www.flickr.com/photos/kstar810/4302553844/"><img src="http://farm5.static.flickr.com/4056/4302553844_afa0f529e3.jpg" alt="Peanut Butter Muffins" /></a>
 

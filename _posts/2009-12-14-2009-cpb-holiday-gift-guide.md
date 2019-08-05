@@ -2,7 +2,7 @@
 layout: post
 title: 2009 CPB Holiday Gift Guide
 date: '2009-12-14T19:14:36+00:00'
-permalink: 2009-cpb-holiday-gift-guide
+slug: 2009-cpb-holiday-gift-guide
 ---
 I was hoping to get this gift guide up a little sooner, but thankfully you still have some time to order your gifts and have them sent off for the holidays! (At least if it's too late, you can always bookmark this page and save it for Valentine's Day.)
 

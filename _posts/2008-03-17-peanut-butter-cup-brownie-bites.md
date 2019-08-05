@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Cup Brownie Bites
 date: '2008-03-17T00:05:31+00:00'
-permalink: peanut-butter-cup-brownie-bites
+slug: peanut-butter-cup-brownie-bites
 ---
 <a href="http://www.flickr.com/photos/mivi/2334173027/"><img src='images/uploads/2008/03/pbbrowniecups.jpg' alt='pb brownie cups' /></a>
 

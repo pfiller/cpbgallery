@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Butter Waffle Toast
 date: '2009-10-07T09:32:46+00:00'
-permalink: peanut-butter-waffle-toast
+slug: peanut-butter-waffle-toast
 ---
 <a href="http://www.flickr.com/photos/kstar810/3956374955/"><img src='images/uploads/2009/10/pb_waffle_toast.jpg' alt='Peanut Butter Waffle Toast' /></a>
 

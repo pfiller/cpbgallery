@@ -2,7 +2,7 @@
 layout: post
 title: The Fancy Food Show in NYC
 date: '2008-06-29T22:13:42+00:00'
-permalink: the-fancy-food-show-in-nyc
+slug: the-fancy-food-show-in-nyc
 ---
 <img src='images/uploads/2008/06/fancy.gif' alt='Fancy Food Show' class="yellowborder" />
 
