@@ -15,7 +15,7 @@ A:hover { color:#A34800; text-decoration: underline; }
 
 div#content_box { width: 885px; text-align: left; margin:0 auto; padding: 40px 0 0; overflow: hidden; 	background: transparent url('/images/cpb_topborder.png') top center repeat-x; }
 
-#content { width: 500px; margin: 0 auto; }
+#content { width: 500px; margin: 0 auto; font-size: 1.2em; line-height: 1.5em; }
 
 h1, h2, h3, h4 { margin-top: 0; }
 
@@ -34,10 +34,9 @@ h1, h2, h3, h4 { margin-top: 0; }
 
 .entry-title { font-size: 1.5em; margin: 0 0 5px 0; }
 
-.entry { margin: 25px 0 25px 0; font-size: 1.2em; line-height: 1.5em; }
-.entry A IMG, .entry IMG.yellowborder { border: 5px solid #FFA544; }
+A IMG, IMG.yellowborder { border: 5px solid #FFA544; }
 
-.entry A { font-weight:bold; }
+A { font-weight:bold; }
 
 .add-comment label { float: left; width: 120px; font: 1.2em Constantia, Calibri, Helvetica, Georgia, serif; line-height: 1.2em; }
 
