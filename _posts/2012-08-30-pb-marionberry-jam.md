@@ -3,6 +3,7 @@ layout: post
 title: PB & Marionberry Jam
 date: '2012-08-30T22:39:51+00:00'
 slug: pb-marionberry-jam
+featureimage: http://farm9.staticflickr.com/8182/7885378902_429d335a2b.jpg
 ---
 <a href="http://www.flickr.com/photos/kstar810/7885378902/" title="PB &amp; Marionberry Jam by kstar810, on Flickr"><img src="http://farm9.staticflickr.com/8182/7885378902_429d335a2b.jpg" width="333" height="500" alt="PB &amp; Marionberry Jam"></a>
 

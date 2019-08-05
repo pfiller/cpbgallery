@@ -3,6 +3,7 @@ layout: post
 title: Peanut Butter Boy is REAL!
 date: '2013-04-25T16:05:07+00:00'
 slug: peanut-butter-boy-is-real
+featureimage: http://farm9.staticflickr.com/8115/8681849910_69ee9c7612.jpg
 ---
 <a href="http://www.flickr.com/photos/kstar810/8681849910/" title="Peanut Butter Boy by kstar810, on Flickr"><img src="http://farm9.staticflickr.com/8115/8681849910_69ee9c7612.jpg" width="500" height="334" alt="Peanut Butter Boy"></a>
 

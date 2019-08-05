@@ -3,6 +3,7 @@ layout: post
 title: Peanut Butter Comfort by Averie Sunshine
 date: '2014-02-16T15:32:00+00:00'
 slug: peanut-butter-comforts-by-averie-sunshine
+featureimage: /images/uploads/2014/02/IMG_8997_sm.jpg
 ---
 <a href="/images/uploads/2014/02/IMG_8997_sm.jpg"><img src="/images/uploads/2014/02/IMG_8997_sm.jpg" alt="IMG_8997_sm" width="500" height="333" class="alignnone size-full wp-image-3029" /></a>
 

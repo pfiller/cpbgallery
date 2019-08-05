@@ -25,6 +25,8 @@ h3 { font-size: 2em; margin: 1.5em 0 .5em;}
 
 .recipe { background: #fcf8eb; border: 0.1em dotted #643D1E; padding: 20px; }
 
+.homeblock { margin-bottom: 30px; }
+
 .supercontainer {
 	margin-left: auto; margin-right: auto;
 	background-color:#FDF7E1;

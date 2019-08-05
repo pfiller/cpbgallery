@@ -3,6 +3,7 @@ layout: post
 title: Xocolatl De David Chocolate Review
 date: '2012-09-21T15:12:45+00:00'
 slug: xocolatl-de-david-chcoolate-review
+featureimage: http://farm9.staticflickr.com/8042/8009878163_6af13a8b46.jpg
 ---
 <a href="http://www.flickr.com/photos/kstar810/8009878163/" title="Xocolatl de David by kstar810, on Flickr"><img src="http://farm9.staticflickr.com/8042/8009878163_6af13a8b46.jpg" width="500" height="333" alt="Xocolatl de David"></a>
 

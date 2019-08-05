@@ -3,6 +3,7 @@ layout: post
 title: Have You Been WOWED By Vegan Food?
 date: '2012-06-19T12:58:39+00:00'
 slug: have-you-been-wowed-by-vegan-food
+featureimage: /images/uploads/2012/06/photo1.jpg
 ---
 <a href="/images/uploads/2012/06/photo1.jpg"><img src="/images/uploads/2012/06/photo1.jpg" alt="" title="photo" width="500" height="365" class="alignnone size-full wp-image-2795" /></a>
 

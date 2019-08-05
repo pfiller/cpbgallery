@@ -3,6 +3,7 @@ layout: post
 title: Six Month Road Trip
 date: '2012-08-27T18:52:38+00:00'
 slug: six-month-road-trip
+featureimage: http://farm9.staticflickr.com/8437/7873954924_9c37ef0c19.jpg
 ---
 <a href="http://www.flickr.com/photos/kstar810/7873954924/" title="me and P w/the Presidents by kstar810, on Flickr"><img src="http://farm9.staticflickr.com/8437/7873954924_9c37ef0c19.jpg" width="500" height="375" alt="me and P w/the Presidents"></a>
 

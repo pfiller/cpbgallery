@@ -3,6 +3,7 @@ layout: post
 title: Wilderness Poets' Oregon Hazelnut Hempspread
 date: '2012-10-10T11:27:56+00:00'
 slug: wilderness-poets-oregon-hazelnut-hempspread
+featureimage: /images/uploads/2012/10/8073080323_8666117528.jpg
 ---
 <a href="/images/uploads/2012/10/8073080323_8666117528.jpg"><img src="/images/uploads/2012/10/8073080323_8666117528.jpg" alt="" title="8073080323_8666117528" width="500" height="333" class="alignnone size-full wp-image-2936" /></a>
 
