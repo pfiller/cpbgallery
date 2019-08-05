@@ -32,10 +32,7 @@ h1, h2, h3, h4 { margin-top: 0; }
 .archive-entry h4 { margin-bottom: 0; }
 .archive-entry:last-child { border-bottom: none; }
 
-
-.hentry { border-bottom: 2px solid #FFA544; margin-bottom: 40px; }
-.hentry .entry-title { font-size: 1.5em; margin: 0 0 5px 0; }
-.hentry .meta { margin: 0px; }
+.entry-title { font-size: 1.5em; margin: 0 0 5px 0; }
 
 .entry { margin: 25px 0 25px 0; font-size: 1.2em; line-height: 1.5em; }
 .entry A IMG, .entry IMG.yellowborder { border: 5px solid #FFA544; }
@@ -190,7 +187,7 @@ div.post-navigation { border-bottom: 2px solid #FFA544; margin: 1em 0 2.3em; pad
 .post-navigation .previous, .post-navigation .next  { text-align: left; float: left; font-size: 1.1em; display: block; width:50%; }
 .post-navigation .next { float:right; text-align:right; }
 
-div.see-archives { font-size: 12px; border-bottom: 2px solid #FFA544; margin: -25px 0 2.3em; padding-bottom:1em; }
+div.see-archives { font-size: 12px; border-top: 2px solid #FFA544; margin:1em 0 2.3em; padding-top:1em; }
 
 
 
