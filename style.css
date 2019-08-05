@@ -23,6 +23,9 @@ h3 { font-size: 2em; margin: 1.5em 0 .5em;}
 .entry-title { font-size: 1.5em; margin: 0 0 5px 0; }
 .see-archives { font-size: 12px; border-top: 2px solid #FFA544; margin:1em 0 2.3em; padding-top:1em; }
 
+.postlist li { margin-bottom: 5px; }
+.postlist li.archive-year { list-style: none; font-size: 2em; margin: 1.5em 0 10px; }
+
 .recipe { background: #fcf8eb; border: 0.1em dotted #643D1E; padding: 20px; }
 
 .homeblock { margin-bottom: 30px; }
