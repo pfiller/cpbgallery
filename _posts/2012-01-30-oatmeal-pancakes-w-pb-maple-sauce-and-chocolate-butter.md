@@ -8,7 +8,7 @@ slug: oatmeal-pancakes-w-pb-maple-sauce-and-chocolate-butter
 
 We are nearing the end of a month spent in Austin, TX. I have loved it, though working in someone else's kitchen has definitely been an experiment. My kitchen at home is almost as small as you can get- but it is fully stocked with just about every kitchen gadget as well as a pretty full pantry. I both feared and looked forward to leaving it behind.
 
-When we arrived in our temporary apartment (acquired on <a href="http://www.airbnb.com/">airbnb.com</a>), we quickly headed over to inspect the kitchen. There were about 4 spices: curry powder, red pepper flake, cumin and cinnamon (some of my faves) and some pretty sad looking pans. There was a collection of wooden spoons and a spatula, but no whisk and no hand mixer.
+When we arrived in our temporary apartment (acquired on [airbnb.com](http://www.airbnb.com/)), we quickly headed over to inspect the kitchen. There were about 4 spices: curry powder, red pepper flake, cumin and cinnamon (some of my faves) and some pretty sad looking pans. There was a collection of wooden spoons and a spatula, but no whisk and no hand mixer.
 
 No need to panic - I'll just have bitchin' forearms from all the manual mixing by the end of this trip, right? Perhaps I'll realize my new career as an arm-wrestling champ. Yes!
 
@@ -30,34 +30,32 @@ But now that the trip is almost over, the real question is: can this much peanut
 
 Eep.
 
-Recipe after the break!
-
 <!--more-->
 
 <div class="recipe">
-<strong>Oatmeal Pancakes w/ PB Maple Sauce and Chocolate Butter</strong>
-Yields 4 servings
-
-<strong>Ingredients</strong>
-<a href="http://www.rachaelraymag.com/Recipes/rachael-ray-magazine-recipe-search/breakfast-brunch-recipes/oatmeal-raisin-pancakes">Oatmeal Pancakes</a> (omit the raisins)
-
-1/4 cup natural peanut butter (I used Justin's)
-3 Tbsp maple syrup
-1 Tbsp honey
-2 Tbsp lukewarm water
-
-1/2 stick salted butter, softened (you can use unsalted if you prefer a sweeter butter, but I needed the salty to balance the sweet peanut butter sauce)
-1 Tbsp + 1 tsp <a href="http://www.askinosie.com/p-107-hey-hey-hazelnut-chocolate-hazelnut-spread.aspx">Askinosie Chocolate Hazelnut Spread</a>
-1 Tbsp + 1 tsp light brown sugar
-
-2 bananas, chopped
-
-<strong>Directions</strong>
-<strong>1. Preheat your oven to 200°.</strong> Keep the prepared pancakes warm in the oven while you prepare your toppings.
-
-<strong>2. For the Peanut Butter Maple Sauce,</strong> mix the peanut butter, maple syrup, honey and water until blended.
-
-<strong>3. For the Chocolate Butter,</strong> mix the butter, chocolate hazelnut spread and sugar. Note: If you don't have a microwave, the patience to wait for butter to soften, or a whisk, chop the butter into small pieces. Stick a fork under a stream of hot water, dry it off quickly with a hand towel and mash the butter pieces. Add the chocolate hazelnut spread and sugar and mix until blended.
-
+<strong>Oatmeal Pancakes w/ PB Maple Sauce and Chocolate Butter</strong><br>
+Yields 4 servings<br>
+<br>
+<strong>Ingredients</strong><br>
+<a href="http://www.rachaelraymag.com/Recipes/rachael-ray-magazine-recipe-search/breakfast-brunch-recipes/oatmeal-raisin-pancakes">Oatmeal Pancakes</a> (omit the raisins)<br>
+<br>
+1/4 cup natural peanut butter (I used Justin's)<br>
+3 Tbsp maple syrup<br>
+1 Tbsp honey<br>
+2 Tbsp lukewarm water<br>
+<br>
+1/2 stick salted butter, softened (you can use unsalted if you prefer a sweeter butter, but I needed the salty to balance the sweet peanut butter sauce)<br>
+1 Tbsp + 1 tsp <a href="http://www.askinosie.com/p-107-hey-hey-hazelnut-chocolate-hazelnut-spread.aspx">Askinosie Chocolate Hazelnut Spread</a><br>
+1 Tbsp + 1 tsp light brown sugar<br>
+<br>
+2 bananas, chopped<br>
+<br>
+<strong>Directions</strong><br>
+<strong>1. Preheat your oven to 200°.</strong> Keep the prepared pancakes warm in the oven while you prepare your toppings.<br>
+<br>
+<strong>2. For the Peanut Butter Maple Sauce,</strong> mix the peanut butter, maple syrup, honey and water until blended.<br>
+<br>
+<strong>3. For the Chocolate Butter,</strong> mix the butter, chocolate hazelnut spread and sugar. Note: If you don't have a microwave, the patience to wait for butter to soften, or a whisk, chop the butter into small pieces. Stick a fork under a stream of hot water, dry it off quickly with a hand towel and mash the butter pieces. Add the chocolate hazelnut spread and sugar and mix until blended.<br>
+<br>
 <strong>4. To serve,</strong> top the warmed pancakes with a smear of the Peanut Butter Maple Sauce, a dollop of the Chocolate Butter and some sliced bananas. Enjoy!
 </div>

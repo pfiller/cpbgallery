@@ -16,21 +16,21 @@ Making peanut butter balls is a little bit of a time consuming process, however 
 
 <!--more-->
 
-<strong>Chocolate Dipped Peanut Butter Balls</strong>
+<strong>Chocolate Dipped Peanut Butter Balls</strong>  
 by Ellen Spencer
 
-<strong>Ingredients for peanut butter balls</strong>
-2 cups (480 ml) creamy peanut butter
-1/4 cup (57 g) unsalted butter
-1/4 tsp salt (optional)
-1/2 tsp pure vanilla extract
+<strong>Ingredients for peanut butter balls</strong>  
+2 cups (480 ml) creamy peanut butter  
+1/4 cup (57 g) unsalted butter  
+1/4 tsp salt (optional)  
+1/2 tsp pure vanilla extract  
 2 1/2 cups (250 g) confectioner's or icing sugar
 
-<strong>Ingredients for chocolate coating</strong>
-9 oz (260 g) semisweet or bittersweet chocolate
+<strong>Ingredients for chocolate coating</strong>  
+9 oz (260 g) semisweet or bittersweet chocolate  
 1 Tbsp (15 g) shortening
 
-<strong>Garnish</strong>
+<strong>Garnish</strong>  
 finely chopped peanuts (optional)
 
 <strong>Directions</strong>

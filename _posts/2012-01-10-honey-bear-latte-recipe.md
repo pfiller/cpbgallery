@@ -10,27 +10,27 @@ One of my favorite things about going to cafés is seeing what interesting and u
 
 This latte contains some of my favorite things: chocolate hazelnut spread, peanut butter, honey and soymilk. I call it the Honey Bear. Maybe because I love it so much, it deserved a pet name? Or maybe because chocolate and peanut butter are brown like bears? …who eat honey? I don't know what I'm saying anymore, but there's lots of greatness to this drink:
 
-&#8226; <strong>It packs some protein</strong> from soymilk, peanut butter and hazelnuts.
-&#8226; <strong>It's sweetened naturally</strong> with honey, a great match for pb.
-&#8226; <strong>It's not too heavy</strong>, satisfying your sweet tooth without weighing you down.
-&#8226; <strong>It will keep you going</strong> with extra espresso and filling protein.
+- <strong>It packs some protein</strong> from soymilk, peanut butter and hazelnuts.
+- <strong>It's sweetened naturally</strong> with honey, a great match for pb.
+- <strong>It's not too heavy</strong>, satisfying your sweet tooth without weighing you down.
+- <strong>It will keep you going</strong> with extra espresso and filling protein.
 
 I have been trying to perfect fancy latte drinks for a little while now. My favorite drink changes regularly, but this is the flavor of the week. Recipe after the break. Enjoy!
 
 <!--more-->
 
-<strong>Honey Bear Latte</strong>
-Yields 1, just for you!
-<strong><em>Special equipment: espresso-maker and milk frother</em>*</strong>
+<strong>Honey Bear Latte</strong>  
+Yields 1, just for you!  
+**_Special equipment: espresso-maker and milk frother_***
 
-<strong>Ingredients</strong>
-2 shots of espresso (prepared via <a href="http://aerobie.com/products/aeropress.htm">aeropress</a> but I assume any method would work)
-1 Tbsp honey
-1 1/2 tsp <a href="http://justinsnutbutter.com/products.php">Justin's Classic Peanut Butter</a>
-1 1/2 tsp <a href="http://www.askinosie.com/p-107-hey-hey-hazelnut-chocolate-hazelnut-spread.aspx">Askinosie Chocolate Hazelnut Spread</a>**
+<strong>Ingredients</strong>  
+2 shots of espresso (prepared via <a href="http://aerobie.com/products/aeropress.htm">aeropress</a> but I assume any method would work)  
+1 Tbsp honey  
+1 1/2 tsp <a href="http://justinsnutbutter.com/products.php">Justin's Classic Peanut Butter</a>  
+1 1/2 tsp <a href="http://www.askinosie.com/p-107-hey-hey-hazelnut-chocolate-hazelnut-spread.aspx">Askinosie Chocolate Hazelnut Spread</a>**  
 1/2 cup unsweetened soymilk, steamed (not boiled)
 
-<strong>Directions</strong>
+<strong>Directions</strong>  
 1. In your mug, combine espresso, honey, peanut butter and chocolate spread. Froth (or whisk) until thoroughly blended.
 
 2. Froth your steamed soymilk and pour over top. Enjoy while warm. 

@@ -65,9 +65,9 @@ If you are planning a visit, here are a few other edible recommendations:
 
 It's been really fun to travel the country and eat our way through cities like Durham. The hardest part about it is choosing what to eat during the short period of time we're in each place.
 
-<em>"Which flavors should I get??"
+_"Which flavors should I get??"_
 
-"Why not buy them all?"</em>
+_"Why not buy them all?"_
 
 I take it back. He gets me.
 

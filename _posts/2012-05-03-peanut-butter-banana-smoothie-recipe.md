@@ -36,13 +36,13 @@ Enjoy!
 
 <!--more-->
 
-<strong>Peanut Butter Banana Smoothie</strong>
+**Peanut Butter Banana Smoothie**  
 Yields 1 large serving or 2 small
 
-1 frozen chopped banana
-2/3 cup 2% milk
-2 Tbsp + 1 tsp smooth peanut butter (we've been using Planter's but use whatever tickles your fancy)
-1 Tbsp honey
-1/8-1/4 tsp ground cinnamon (to taste)
+1 frozen chopped banana  
+2/3 cup 2% milk  
+2 Tbsp + 1 tsp smooth peanut butter (we've been using Planter's but use whatever tickles your fancy)  
+1 Tbsp honey  
+1/8-1/4 tsp ground cinnamon (to taste)  
 
 Add all ingredients to a blender and puree until smooth, about 30 seconds. Pour and enjoy!
