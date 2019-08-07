@@ -15,10 +15,9 @@ If you've noticed a bit of a slowness in posts, it's because I've been frustrati
 However, I received the latest <a href="http://ilovepeanutbutter.com/pbisgoodforyou?mc_cid=035aa6fa88&mc_eid=14ab3123ba">Peanut Butter & Co Newsletter</a> with the subject, "Peanut Butter is Good for You." Knowing that peanut butter is a great source of protein, I didn't expect to be surprised with new information. However, the body of the letter it went into detail:
 
 
-<blockquote>&#8226; Peanuts have more energy-boosting protein than any other nut so you become satisfied quicker and keep going longer whether you’re working, studying, or exercising. Okay, knew that one.
-&#8226; With over 30 vitamins and nutrients such as folic acid, vitamin E, niacin, phosphorous, and magnesium, it is no surprise that peanuts are a Super Food. Huh - not too shabby.
-&#8226; Peanuts beat broccoli, carrots, and green tea in the antioxidant count. Wow - nice.</blockquote>
-
+- Peanuts have more energy-boosting protein than any other nut so you become satisfied quicker and keep going longer whether you’re working, studying, or exercising. Okay, knew that one.
+- With over 30 vitamins and nutrients such as folic acid, vitamin E, niacin, phosphorous, and magnesium, it is no surprise that peanuts are a Super Food. Huh - not too shabby.
+- Peanuts beat broccoli, carrots, and green tea in the antioxidant count. Wow - nice.
 
 
 On a related note, I picked up the latest issue of <a href="http://www.marthastewart.com/everyday">Everyday Food</a> which conveniently had an article titled "Stay Well All Winter" (Jan/Feb 2011 - p. 60). It informed me that, "In addition to being good for your heart, soluble fiber can help you recover quickly from an illness. Get your fill from unpeeled apples (the peel contains most of the fiber)." 
@@ -38,17 +37,16 @@ For more tasty raw chocolate, check out my previous post on <a href="http://www.
 <strong>More Healthy CPB</strong>
 I have also been downing <a href="http://www.odwalla.com/index.jsp">Odwalla</a> and <a href="http://www.nakedjuice.com/">Naked</a> drinks like it's my job. They are packed full with fruits, veggies and vitamins and Odwalla even has a Chocolate Protein shake that's full of essential amino acids, vitamins and minerals. If you want to add a little something extra, try tossing it in a blender with a little peanut butter. Yum!
 
-Check out my simple Bottom of the Jar Honey Peanut Butter recipe after the break. And if you're sick too, I hope these eats help you feel better soon!
+Check out my simple Bottom of the Jar Honey Peanut Butter. And if you're sick too, I hope these eats help you feel better soon!
 
-<!--more-->
 <div class="recipe">
-<strong>Bottom of the Jar Honey Peanut Butter</strong>
-<em>Yields 1/3 cup (or enough for two apple peanut butter breakfasts)</em>
-
-<strong>Ingredients</strong>
-1 jar of natural peanut butter with about 1/4 cup of peanut butter left in it (I used <a href="http://yopeanut.com/catalog/product_info.php?products_id=372&osCsid=e644d0590ca0b053f0aebe222d10b544">Saratoga's Organic Plain Jane Creamy</a>)
-1 1/2 Tbsp honey (or to taste)
-
-<strong>Directions</strong>
+<strong>Bottom of the Jar Honey Peanut Butter</strong><br>
+<em>Yields 1/3 cup (or enough for two apple peanut butter breakfasts)</em><br>
+<br>
+<strong>Ingredients</strong><br>
+1 jar of natural peanut butter with about 1/4 cup of peanut butter left in it (I used <a href="http://yopeanut.com/catalog/product_info.php?products_id=372&osCsid=e644d0590ca0b053f0aebe222d10b544">Saratoga's Organic Plain Jane Creamy</a>)<br>
+1 1/2 Tbsp honey (or to taste)<br>
+<br>
+<strong>Directions</strong><br>
 Add the honey to the peanut butter jar and stir until combined. Serve with your favorite type of apple. I took the photos with a Gala, but it wasn't that tasty of an apple so later switched to a Granny Smith.
 </div>

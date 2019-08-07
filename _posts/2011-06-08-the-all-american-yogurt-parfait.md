@@ -28,21 +28,19 @@ Oh and I almost forgot… there's one more American thing about this:
 
 <a href="http://www.flickr.com/photos/kstar810/5812010197/" title="American Parfait by kstar810, on Flickr"><img src="http://farm4.static.flickr.com/3411/5812010197_dc863ab415.jpg" width="365" height="500" alt="American Parfait"></a>
 
-Recipe after the break. Enjoy!
-
-<!--more-->
+Enjoy!
 
 <div class="recipe">
-<strong>All-American Yogurt Parfait</strong>
-Yields 1 serving
-
-<strong>Ingredients</strong>
-1 (6 oz) container organic low fat vanilla yogurt, divided
-2 Tbsp PB&Co's <a href="http://ilovepeanutbutter.com/index.php/peanut-butter-1/thebeesknees.html">The Bee's Knees Honey Peanut Butter</a>, divided
-1/3 cup canned apple pie filling, chopped if it's in large chunks and divided
-
-<strong>Directions</strong>
-Fill a clear serving glass with 1 Tbsp of the peanut butter, half of the apple pie filling and half of the yogurt. Repeat and serve chilled!
-
+<strong>All-American Yogurt Parfait</strong><br>
+Yields 1 serving<br>
+<br>
+<strong>Ingredients</strong><br>
+1 (6 oz) container organic low fat vanilla yogurt, divided<br>
+2 Tbsp PB&Co's <a href="http://ilovepeanutbutter.com/index.php/peanut-butter-1/thebeesknees.html">The Bee's Knees Honey Peanut Butter</a>, divided<br>
+1/3 cup canned apple pie filling, chopped if it's in large chunks and divided<br>
+<br>
+<strong>Directions</strong><br>
+Fill a clear serving glass with 1 Tbsp of the peanut butter, half of the apple pie filling and half of the yogurt. Repeat and serve chilled!<br>
+<br>
 The best part about putting the peanut butter in the glass first is re-discovering it as you near the bottom of the glass. Feels like you unearthed a buried treasure!
 </div>

@@ -22,24 +22,24 @@ Recipe after the break. Enjoy!
 <!--more-->
 
 <div class="recipe">
-<strong>Chocolate Soup with Fresh Cut Marshmallows</strong>
-<em>from L'Artisan du Chocolat, London, England
-modified from <a href="http://www.amazon.com/Hot-Chocolate-Michael-Turback/dp/1580087086/ref=sr_1_1?s=books&ie=UTF8&qid=1305596661&sr=1-1">Hot Chocolate</a></em>
-Yields 2 Demitasse Servings
-
-1/2 cup whole milk
-1/4 cup 2% milk
-1/4 cup heavy cream
-2 1/2 Tbsp firmly packed brown sugar
-pinch of salt
-dash of pure vanilla extract
-1 oz <a href="http://www.askinosie.com/p-73-davao-dark-milk-chocolate-bar-sea-salt.aspx">Askinosie Davao Dark Milk Chocolate</a>
-3 oz <a href="http://www.askinosie.com/p-75-77-davao-dark-chocolate-bar.aspx">Askinosie 77% Davao Dark Chocolate</a>
-homemade marshmallows, cut into bite-size pieces, for garnish
-
-<strong>Notes:</strong>
-- The original recipe called for 3/4 whole milk and no 2%, but I decided to lighten it up a little. It is still *plenty* rich!
-- If you don't have these particular varieties of fabulous chocolates on-hand, any high quality bittersweet would do.
-
+<strong>Chocolate Soup with Fresh Cut Marshmallows</strong><br>
+<em>from L'Artisan du Chocolat, London, England<br>
+modified from <a href="http://www.amazon.com/Hot-Chocolate-Michael-Turback/dp/1580087086/ref=sr_1_1?s=books&ie=UTF8&qid=1305596661&sr=1-1">Hot Chocolate</a></em><br>
+Yields 2 Demitasse Servings<br>
+<br>
+1/2 cup whole milk<br>
+1/4 cup 2% milk<br>
+1/4 cup heavy cream<br>
+2 1/2 Tbsp firmly packed brown sugar<br>
+pinch of salt<br>
+dash of pure vanilla extract<br>
+1 oz <a href="http://www.askinosie.com/p-73-davao-dark-milk-chocolate-bar-sea-salt.aspx">Askinosie Davao Dark Milk Chocolate</a><br>
+3 oz <a href="http://www.askinosie.com/p-75-77-davao-dark-chocolate-bar.aspx">Askinosie 77% Davao Dark Chocolate</a><br>
+homemade marshmallows, cut into bite-size pieces, for garnish<br>
+<br>
+<strong>Notes:</strong><br>
+- The original recipe called for 3/4 whole milk and no 2%, but I decided to lighten it up a little. It is still *plenty* rich!<br>
+- If you don't have these particular varieties of fabulous chocolates on-hand, any high quality bittersweet would do.<br>
+<br>
 In a small saucepan over medium-low heat, combine the milk, cream, brown sugar, salt, and vanilla and heat until it measures about 176°F on a candy thermometer. Put the chocolate into a small bowl. When the milk has reached the proper temperature, carefully pour 1/4 cup of the hot milk into the chocolate. Stir constantly, using small circular moves in the center (as you would for a mayonnaise), until it forms a shiny paste. Pour the paste back into the remaining hot milk mixture and stir until thoroughly blended. Let it cool uncovered. Pour through a fine-mesh sieve into a clean saucepan and gently reheat over low heat. Pour into souffle cups and garnish with freshly cut, homemade marshmallows. Eat with a spoon!
 </div>

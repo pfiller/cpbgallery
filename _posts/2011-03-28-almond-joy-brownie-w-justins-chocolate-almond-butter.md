@@ -14,21 +14,19 @@ I'm not going to lie to you, this is a damned good brownie. It's the kind of bro
 
 This brownie is dedicated to my Dad. Thanks for passing on the sweetness!
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>Almond Joy Brownie</strong>
-Yields 1 big fat tasty brownie (larger than the one pictured - I could only handle a piece)
-
-<strong>Ingredients</strong>
-1/2 tsp coconut oil
-1 Tbsp vanilla almond milk
-1/3 cup shredded sweetened coconut
+<div class="recipe">
+<strong>Almond Joy Brownie</strong><br>
+Yields 1 big fat tasty brownie (larger than the one pictured - I could only handle a piece)<br>
+<br>
+<strong>Ingredients</strong><br>
+1/2 tsp coconut oil<br>
+1 Tbsp vanilla almond milk<br>
+1/3 cup shredded sweetened coconut<br>
 1-1.15 oz packet <a href="http://www.justinsnutbutter.com/products.php">Justin's Chocolate Almond Butter</a>
-sliced almonds, for garnish
-1 big fat, deep dark chocolate brownie, chilled if desired (I used <a href="http://www.buttersbrownies.com/index.php?page=shop.product_details&flypage=flypage-flavors&product_id=43&category_id=2&option=com_virtuemart&Itemid=61">Mary Louise Butter's Sane Jane</a>)
-
-<strong>Directions</strong>
-1. Mix the coconut oil, milk and coconut together until combined.
+sliced almonds, for garnish<br>
+1 big fat, deep dark chocolate brownie, chilled if desired (I used <a href="http://www.buttersbrownies.com/index.php?page=shop.product_details&flypage=flypage-flavors&product_id=43&category_id=2&option=com_virtuemart&Itemid=61">Mary Louise Butter's Sane Jane</a>)<br>
+<br>
+<strong>Directions</strong><br>
+1. Mix the coconut oil, milk and coconut together until combined.<br>
 2. Spread the chocolate almond butter on the brownie. Top with the coconut mixture and garnish with almonds.
+</div>

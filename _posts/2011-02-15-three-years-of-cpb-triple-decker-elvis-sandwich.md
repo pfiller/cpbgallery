@@ -34,29 +34,25 @@ So, three years in, if you're a true fan of peanut butter, I encourage you to gi
 
 Thank you all for sharing three wonderful chocolate and peanut butter-filled years with me! I'm all shook up. :)
 
-Recipe after the break.
-
-<!--more-->
-<div class="recipe"><strong>The Elvis Triple-Decker</strong>
-<em>modified from <a href="http://ilovepeanutbutter.com/index.php/gear/pbcocookbook.html">The Peanut Butter &amp; Co Cookbook</a>
-Yields 1 ridiculous sandwich that would make The King proud</em>
-
-<strong>Ingredients</strong>
-unsalted butter, softened
-3 slices country white bread
-4 Tbsp crunchy peanut butter
-1 large ripe banana
-3 slices hickory-smoked bacon, cooked and cut crosswise in half
-a drizzle of honey (maybe 1 1/2 Tbsp, all told)
-
-1. Preheat a grill pan or griddle over medium heat.
-
-2. Coat both sides of one slice of bread lightly with butter and grill on both sides until golden brown and crispy. Set aside.
-
-3. Spread the butter on one side of each remaining slice of bread. Spread the peanut butter on the other side.
-
-4. Cut the banana in half crosswise, and then slice it lengthwise 4 times to make 8 thin pieces. Place the banana slices on top of the peanut butter on each slice of bread. Top with bacon slices and then drizzle the honey on top of the bacon. Top one of the prepared bread slices with the plain toasted slice of bread and then top with the other prepared bread slice, butter side up.
-
+<div class="recipe"><strong>The Elvis Triple-Decker</strong><br>
+<em>modified from <a href="http://ilovepeanutbutter.com/index.php/gear/pbcocookbook.html">The Peanut Butter &amp; Co Cookbook</a><br>
+Yields 1 ridiculous sandwich that would make The King proud</em><br>
+<br>
+<strong>Ingredients</strong><br>
+unsalted butter, softened<br>
+3 slices country white bread<br>
+4 Tbsp crunchy peanut butter<br>
+1 large ripe banana<br>
+3 slices hickory-smoked bacon, cooked and cut crosswise in half<br>
+a drizzle of honey (maybe 1 1/2 Tbsp, all told)<br>
+<br>
+1. Preheat a grill pan or griddle over medium heat.<br>
+<br>
+2. Coat both sides of one slice of bread lightly with butter and grill on both sides until golden brown and crispy. Set aside.<br>
+<br>
+3. Spread the butter on one side of each remaining slice of bread. Spread the peanut butter on the other side.<br>
+<br>
+4. Cut the banana in half crosswise, and then slice it lengthwise 4 times to make 8 thin pieces. Place the banana slices on top of the peanut butter on each slice of bread. Top with bacon slices and then drizzle the honey on top of the bacon. Top one of the prepared bread slices with the plain toasted slice of bread and then top with the other prepared bread slice, butter side up.<br>
+<br>
 5. Place the sandwich on the grill pan. Cook the sandwich for about 3 minutes on each side, until golden brown and crispy. Remove to a cutting board, slice in half, and serve immediately. Then eat in front of other, less daring people to weird them out. It's fun!
-
 </div>

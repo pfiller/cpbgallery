@@ -22,33 +22,31 @@ On a bit of a tangent, there are two things that I really enjoy about bringing f
 
 <em>[This advice brought to you by The Shameless Peanut Butter Gorgers of America]</em>
 
-Recipe after the break. Enjoy!
-
-<!--more-->
+Enjoy!
 
 <div class="recipe">
-<strong>The Amazing Disappearing Meatballs with Sweet Peanut Sauce</strong>
-<em>modified from <a href="http://www.rachaelraymag.com/recipes/rachael-ray-magazine-recipe-search/fast-recipes/chicken-meatballs-with-sweet-peanut-sauce">Everyday with Rachael Ray</a></em>
-
-<strong>Ingredients</strong>
-1 lb. lean ground turkey
-1/2 cup chopped cilantro, plus more for garnish
-1/4 cup fresh breadcrumbs 
-1/4 cup grated onion 
-2 cloves garlic, grated 
-1 tsp salt 
-1/2 tsp pepper 
-2 tbsp vegetable oil 
-1/4 cup peanut butter (I used <a href="http://ilovepeanutbutter.com/index.php/peanut-butter-1/oldfashionedsmooth.html">PB&Co's Old Fashioned Smooth</a>)
-2 Tbsp soy sauce 
-3 Tbsp sugar 
-3 Tbsp sesame oil
-1 big spoonful Hoisin sauce (about 1-2 Tbsp, to taste)
-2 squirts Sririacha (about 2 tsp, to taste)
-sprinkle red pepper flake
-
-<strong>Directions</strong>
-Mix turkey, cilantro, breadcrumbs, onion, garlic, salt and pepper; roll into 1-tbsp. balls. In medium skillet, heat oil over medium heat. Add meatballs and cook through, 6 to 8 minutes.
-
+<strong>The Amazing Disappearing Meatballs with Sweet Peanut Sauce</strong><br>
+<em>modified from <a href="http://www.rachaelraymag.com/recipes/rachael-ray-magazine-recipe-search/fast-recipes/chicken-meatballs-with-sweet-peanut-sauce">Everyday with Rachael Ray</a></em><br>
+<br>
+<strong>Ingredients</strong><br>
+1 lb. lean ground turkey<br>
+1/2 cup chopped cilantro, plus more for garnish<br>
+1/4 cup fresh breadcrumbs<br>
+1/4 cup grated onion<br>
+2 cloves garlic, grated<br>
+1 tsp salt<br>
+1/2 tsp pepper<br> 
+2 tbsp vegetable oil<br>
+1/4 cup peanut butter (I used <a href="http://ilovepeanutbutter.com/index.php/peanut-butter-1/oldfashionedsmooth.html">PB&Co's Old Fashioned Smooth</a>)<br>
+2 Tbsp soy sauce<br>
+3 Tbsp sugar<br>
+3 Tbsp sesame oil<br>
+1 big spoonful Hoisin sauce (about 1-2 Tbsp, to taste)<br>
+2 squirts Sririacha (about 2 tsp, to taste)<br>
+sprinkle red pepper flake<br>
+<br>
+<strong>Directions</strong><br>
+Mix turkey, cilantro, breadcrumbs, onion, garlic, salt and pepper; roll into 1-tbsp. balls. In medium skillet, heat oil over medium heat. Add meatballs and cook through, 6 to 8 minutes.<br>
+<br>
 Meanwhile, mix remaining ingredients and warm in microwave. Toss meatballs with the sauce and sprinkle with remaining cilantro. Serve with toothpicks.
 </div>

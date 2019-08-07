@@ -34,11 +34,16 @@ The recipe for this particular smoothie is after the break incase you want to tr
 
 <!--more-->
 <div class="recipe">
-<strong>Peanut-Banana Espresso Smoothie</strong>
-<em>recipe from Everyday Food</em>
-Yields 2 lackluster servings
-
-Blend 1 cup <strong>low-fat milk</strong>, 1 tablespoon <strong>instant espresso powder</strong>, 1/4 cup <strong>natural creamy peanut butter</strong>, 1 ripe <strong>banana</strong>( cut into thirds) and 1 cup ice. 
-
+<strong>Peanut-Banana Espresso Smoothie</strong><br>
+<em>recipe from Everyday Food</em><br>
+Yields 2 lackluster servings<br>
+<br>
+Blend together:<br>
+1 cup <strong>low-fat milk</strong><br>
+1 tablespoon <strong>instant espresso powder</strong><br>
+1/4 cup <strong>natural creamy peanut butter</strong><br>
+1 ripe <strong>banana</strong>( cut into thirds)<br>
+1 cup ice.<br>
+<br>
 <strong>Note:</strong> I suggest using a banana that's not too far-gone and adding a little sugar to taste.
 </div>
