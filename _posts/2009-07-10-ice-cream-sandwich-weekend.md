@@ -4,7 +4,7 @@ title: Ice Cream Sandwich Weekend
 date: '2009-07-10T13:26:24+00:00'
 slug: ice-cream-sandwich-weekend
 ---
-<img src='images/uploads/2009/07/sandwich_weekend1.gif' alt='Ice Cream Sandwich Weekend' class="yellowborder" />
+<img src='/images/uploads/2009/07/sandwich_weekend1.gif' alt='Ice Cream Sandwich Weekend' class="yellowborder" />
 
 Ladies and gentlemen, I realized something very unfortunate today. We are pretty well into summer and I have not yet had an ice cream sandwich! That's just wrong!
 

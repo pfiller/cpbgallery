@@ -4,7 +4,7 @@ title: A Cupcake Kind of Day
 date: '2008-03-27T00:05:28+00:00'
 slug: a-cupcake-kind-of-day
 ---
-<a href="http://www.flickr.com/photos/ciana13/2362318869/"><img src='images/uploads/2008/03/pb_choc_cupcake.jpg' alt='peanut butter chocolate cupcake' /></a>
+<a href="http://www.flickr.com/photos/ciana13/2362318869/"><img src='/images/uploads/2008/03/pb_choc_cupcake.jpg' alt='peanut butter chocolate cupcake' /></a>
 
 For no particular reason, this is my second post in a row highlighting a chocolate and peanut butter treat from a California venue. Maybe the warmer weather of March is getting to me... I don't know. Anyway, this handsome looking cupcake is a chocolate cake filled with what the photographer notes as a "fantastic" peanut butter filling, topped with a dark chocolate ganache. 
 

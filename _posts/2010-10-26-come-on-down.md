@@ -14,8 +14,8 @@ The only thing that proved difficult about doing a giveaway was picking a winner
 
 So the winner is: <strong>Kayla!</strong> For her cute little verse:
 
-<em>choco-PB fan
-indulgence at its finest
+<em>choco-PB fan  
+indulgence at its finest  
 drool worthy yummies</em>
 
 I felt like it described me, CPB and the content on the blog all in one shot. Thanks to all those who participated and rest assured, you will have more opportunities for goodies in the future. Kayla, if you're reading, you'll be receiving an e-mail from me shortly.

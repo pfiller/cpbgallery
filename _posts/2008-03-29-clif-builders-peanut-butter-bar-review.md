@@ -4,7 +4,7 @@ title: 'Clif Builder''s: Peanut Butter Bar Review'
 date: '2008-03-29T00:05:12+00:00'
 slug: clif-builders-peanut-butter-bar-review
 ---
-<a href="http://www.flickr.com/photos/kstar810/2370410070/"><img src='images/uploads/2008/03/clif_builders.jpg' alt='clif builders' /></a>
+<a href="http://www.flickr.com/photos/kstar810/2370410070/"><img src='/images/uploads/2008/03/clif_builders.jpg' alt='clif builders' /></a>
 
 Tagline: Cocoa Dipped Double Decker Crisp Bar. The Entirely Natural Protein Bar. 
 

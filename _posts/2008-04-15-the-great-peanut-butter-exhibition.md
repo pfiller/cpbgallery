@@ -4,7 +4,7 @@ title: The Great Peanut Butter Exhibition
 date: '2008-04-15T00:05:43+00:00'
 slug: the-great-peanut-butter-exhibition
 ---
-<img src='images/uploads/2008/04/pb_exhibition.gif' alt='The Great Peanut Butter Exhibition' class="yellowborder" />
+<img src='/images/uploads/2008/04/pb_exhibition.gif' alt='The Great Peanut Butter Exhibition' class="yellowborder" />
 
 There are lots of blogs out there, but how many are dedicated to just peanut butter? There are lots of contests out there, but how many of <em>them</em> are dedicated to just peanut butter? I'd bet not too many.
 

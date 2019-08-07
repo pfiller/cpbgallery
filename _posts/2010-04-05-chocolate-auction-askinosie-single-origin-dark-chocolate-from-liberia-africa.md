@@ -4,7 +4,7 @@ title: 'Chocolate Auction: Askinosie Single Origin Dark Chocolate (from Liberia,
 date: '2010-04-05T15:44:18+00:00'
 slug: chocolate-auction-askinosie-single-origin-dark-chocolate-from-liberia-africa
 ---
-<a href="http://chocolateuniversity.org/index.php/central-high-school/img_6920/"><img src='images/uploads/2010/04/chocolate_university1.jpg' alt='Askinosie Single Origin Dark Chocolate (from Liberia, Africa)' /></a>
+<a href="http://chocolateuniversity.org/index.php/central-high-school/img_6920/"><img src='/images/uploads/2010/04/chocolate_university1.jpg' alt='Askinosie Single Origin Dark Chocolate (from Liberia, Africa)' /></a>
 
 It seems safe to assume that anyone who's reading this site has purchased a chocolate bar before. But have any of you purchased one that's gone to a good cause? If not, here's your opportunity to do so.
 

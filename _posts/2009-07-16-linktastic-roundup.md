@@ -6,7 +6,7 @@ slug: linktastic-roundup
 ---
 Well something must have been in the air this week because chocolate and peanut butter made appearances all over the web! Check out these great finds. And thanks to <a href="http://www.thekitchn.com/thekitchn/team">Faith</a> at <a href="http://www.thekitchn.com/">The Kitchn</a> and Taste Tester for keeping me in the loop!
 
-<img src='images/uploads/2009/07/cpb_roundup2.jpg' alt='Linktastic Roundup' class="yellowborder" />
+<img src='/images/uploads/2009/07/cpb_roundup2.jpg' alt='Linktastic Roundup' class="yellowborder" />
 
 1. The ever awesome and super tantalizing website, <a href="http://www.thekitchn.com/">The Kitchn</a> posted some mouth-watering pictures of a <a href="http://www.thekitchn.com/thekitchn/summer/recipe-peanut-butter-ice-cream-with-trader-joes-chocolatecovered-peanut-butter-crackers-089524">Peanut Butter Ice Cream with Trader Joe's Chocolate Covered Mini Peanut Butter Crackers</a>. I would have been too busy popping these crackers into my mouth to think of adding them to ice cream - and homemade ice cream, nonetheless! As someone with a sensitivity to eggs, I especially appreciate the egg-free peanut butter ice cream recipe! Get it <a href="http://www.thekitchn.com/thekitchn/summer/recipe-peanut-butter-ice-cream-with-trader-joes-chocolatecovered-peanut-butter-crackers-089524">here</a>!
 

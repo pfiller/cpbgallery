@@ -8,7 +8,7 @@ slug: quick-and-easy-brownies-with-peanut-butter
 
 This might be enough of a reason to describe me as certifiably insane, but I decided to bake yesterday. It should be noted that this was the temperature outside <em>after</em> it had cooled down two degrees:
 
-<img src='images/uploads/2008/06/weather.gif' alt='Weather' />
+<img src='/images/uploads/2008/06/weather.gif' alt='Weather' />
 
 While I was baking it was "98, feels like 101" with 40% humidity and I have no air conditioning in most of my apartment. The small air conditioning unit I have is barely powerful enough to cool my bedroom which is on the opposite end of the apartment from the kitchen. So I've been trying to resist my baking urges and steer clear of the sweltering kitchen.
 

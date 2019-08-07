@@ -4,7 +4,7 @@ title: Choco-Peanut Butter Banana Breakfast Strudel
 date: '2009-01-11T23:25:33+00:00'
 slug: choco-peanut-butter-banana-breakfast-strudel
 ---
-<a href="http://www.pillsbury.com/Recipes/ShowRecipe.aspx?rid=44995"><img src='images/uploads/2009/01/cpb_strudel.jpg' alt='Choco-Peanut Butter Banana Breakfast Strudel' /></a>
+<a href="http://www.pillsbury.com/Recipes/ShowRecipe.aspx?rid=44995"><img src='/images/uploads/2009/01/cpb_strudel.jpg' alt='Choco-Peanut Butter Banana Breakfast Strudel' /></a>
 
 The caption for this recipe states, "nobody skips breakfast when flaky crescent rolls hold layers of chocolate and banana filling." They forgot to mention the peanut butter, but it's okay - I'm too mesmerized by the deliciously sweet swirls in that pic to care too much. 
 

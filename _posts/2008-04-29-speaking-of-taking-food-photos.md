@@ -6,7 +6,7 @@ slug: speaking-of-taking-food-photos
 ---
 ...Here's me taking one of a slice at Patsy's Pizza in NYC:
 
-<a href="http://flickr.com/photos/kstar810/2450859386/"><img src='images/uploads/2008/04/me_daily_news_cpb.jpg' alt='Scotts Pizza Tours' /></a>
+<a href="http://flickr.com/photos/kstar810/2450859386/"><img src='/images/uploads/2008/04/me_daily_news_cpb.jpg' alt='Scotts Pizza Tours' /></a>
 
 And here's the picture of pizza I am taking in the above article:
 

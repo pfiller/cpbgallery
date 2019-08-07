@@ -4,7 +4,7 @@ title: Girl Scout Tagalongs vs. Reeses Cookies
 date: '2008-03-06T00:05:39+00:00'
 slug: girl-scout-tagalongs-vs-reeses-cookies
 ---
-<img src='images/uploads/2008/03/tagalongs_02.jpg' alt='tagalongs02' class= "yellowborder"/>
+<img src='/images/uploads/2008/03/tagalongs_02.jpg' alt='tagalongs02' class= "yellowborder"/>
 
 Which do you prefer? 
 
@@ -20,4 +20,4 @@ The Reeses Cookie is not good enough to replace the Tagalong, end of story. I th
 
 If you don't happen to know any Girlscouts, but simply must have your Tagalong fix, try making them yourself with <a href="http://bakingbites.com/2008/01/homemade-girl-scout-cookies-tagalongs/">this recipe</a>. And the next time you see a Girlscout on the street with a Cookie Connection Badge, salute her for selling high quality cookies. 
 
-<img src='images/uploads/2008/03/tagalong_stack.jpg' alt='tagalongs' class= "yellowborder"/>
+<img src='/images/uploads/2008/03/tagalong_stack.jpg' alt='tagalongs' class= "yellowborder"/>

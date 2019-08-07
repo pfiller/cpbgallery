@@ -4,7 +4,7 @@ title: Holiday Vacation
 date: '2008-12-23T18:37:27+00:00'
 slug: holiday-vacation
 ---
-<img src='images/uploads/2008/12/winter_vacation.gif' alt='Winter Vacation' class="yellowborder"/>
+<img src='/images/uploads/2008/12/winter_vacation.gif' alt='Winter Vacation' class="yellowborder"/>
 
 So it appears that the holiday stress was too much for my computer and it decided to take a little vacation. It will be celebrating the new year at the Mac store getting repaired. Unfortunately this means that we will have to take a short holiday hiatus from writing for The CPB Gallery. Lame, I know.
 

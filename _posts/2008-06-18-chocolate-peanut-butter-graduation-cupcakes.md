@@ -4,7 +4,7 @@ title: Chocolate Peanut Butter Graduation Cupcakes
 date: '2008-06-18T00:05:17+00:00'
 slug: chocolate-peanut-butter-graduation-cupcakes
 ---
-<a href="http://www.flickr.com/photos/8139998@N05/2570020282/"><img src='images/uploads/2008/06/graduation_cupcakes.jpg' alt='Chocolate Peanut Butter Graduation Cupcakes' /></a>
+<a href="http://www.flickr.com/photos/8139998@N05/2570020282/"><img src='/images/uploads/2008/06/graduation_cupcakes.jpg' alt='Chocolate Peanut Butter Graduation Cupcakes' /></a>
 
 There are lots of ideas for graduation party desserts floating around the web right now and I've especially been noticing a lot of cupcakes. People toil making fancy graduation caps out of fondant but for your average person, this is far too much work. Luckily I came across this incredibly easy decorating idea on flickr. 
 

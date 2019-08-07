@@ -4,7 +4,7 @@ title: Vanilla Cupcakes with Peanut Butter Chocolate Ganache
 date: '2008-03-13T00:05:06+00:00'
 slug: vanilla-cupcakes-with-peanut-butter-chocolate-ganache
 ---
-<a href="http://e-xperiments.com/files/vanillaccpeanutb.php"><img src='images/uploads/2008/03/van_ccake.jpg' alt='vancupcake' /></a>
+<a href="http://e-xperiments.com/files/vanillaccpeanutb.php"><img src='/images/uploads/2008/03/van_ccake.jpg' alt='vancupcake' /></a>
 
 The blog <a href="http://e-xperiments.com/index.php">experiment</a> is on a mission to make a cupcake that's a bit less sweet. 
 

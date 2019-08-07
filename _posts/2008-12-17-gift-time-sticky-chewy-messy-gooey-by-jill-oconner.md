@@ -4,7 +4,7 @@ title: 'Gift Time: Sticky, Chewy, Messy, Gooey by Jill O''Conner'
 date: '2008-12-17T22:31:36+00:00'
 slug: gift-time-sticky-chewy-messy-gooey-by-jill-oconner
 ---
-<img src='images/uploads/2008/12/sticky_chewy.jpg' alt='Sticky, Chewy, Messy, Gooey' class="yellowborder" />
+<img src='/images/uploads/2008/12/sticky_chewy.jpg' alt='Sticky, Chewy, Messy, Gooey' class="yellowborder" />
 
 This cookbook is one of many that I've flipped through a bunch of times and stalked on the shelves in various book shops. Here's a sampling of the dialogue that goes on in my head:
 

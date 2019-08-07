@@ -26,35 +26,33 @@ I also enjoyed that they look like cookies from the top, so when you take them o
 
 *That word seems to offer a bad connotation, but they are heavy in a hearty way. With 2 cups of peanut butter in the batter, they will keep you full til lunch!
 
-Slightly adjusted recipe after the break.
-
-<!--more-->
-
-<strong>Rich and Easy Peanut Butter Muffins</strong>
-Recipe from <a href="http://www.dominosugar.com/Recipe.aspx?id=395">Domino Sugar</a>
-Yields 12 large or 16 small muffins
-
-<strong>Ingredients</strong>
-
-2 cups all-purpose flour
-1 1/2 tsp baking soda
-1/4 tsp salt
-1/2 cup butter or margarine, softened
-1 3/4 cup creamy peanut butter
-1 cup Domino® Granulated Sugar
-2 eggs
-1/2 cup milk
-Chocolate Glaze (recipe follows)
-
-<strong>Directions</strong>
-1. Preheat oven to 350°F. Lightly grease 16 medium muffin cups or line with paper baking cups; set aside.
-
-2. In large mixing bowl, combine flour, baking soda and salt.
-
-3. In another large mixing bowl, cream butter, peanut butter and sugar. Add eggs and gradually add milk and combine well.
-
-4. Add dry ingredients to peanut butter mixture and mix with a wooden spoon until dry ingredients are moistened. Mixture will be stiff.
-
-5. Spoon batter into each muffin cup, filling cup. Bake 15-20 minutes or until lightly browned. Cool in muffin cups on wire rack for 5 minutes. Remove; cool completely. Frost with Chocolate Glaze, if desired.
-
+<div class="recipe">
+<strong>Rich and Easy Peanut Butter Muffins</strong><br>
+Recipe from <a href="http://www.dominosugar.com/Recipe.aspx?id=395">Domino Sugar</a><br>
+Yields 12 large or 16 small muffins<br>
+<br>
+<strong>Ingredients</strong><br>
+<br>
+2 cups all-purpose flour<br>
+1 1/2 tsp baking soda<br>
+1/4 tsp salt<br>
+1/2 cup butter or margarine, softened<br>
+1 3/4 cup creamy peanut butter<br>
+1 cup Domino® Granulated Sugar<br>
+2 eggs<br>
+1/2 cup milk<br>
+Chocolate Glaze (recipe follows)<br>
+<br>
+<strong>Directions</strong><br>
+1. Preheat oven to 350°F. Lightly grease 16 medium muffin cups or line with paper baking cups; set aside.<br>
+<br>
+2. In large mixing bowl, combine flour, baking soda and salt.<br>
+<br>
+3. In another large mixing bowl, cream butter, peanut butter and sugar. Add eggs and gradually add milk and combine well.<br>
+<br>
+4. Add dry ingredients to peanut butter mixture and mix with a wooden spoon until dry ingredients are moistened. Mixture will be stiff.<br>
+<br>
+5. Spoon batter into each muffin cup, filling cup. Bake 15-20 minutes or until lightly browned. Cool in muffin cups on wire rack for 5 minutes. Remove; cool completely. Frost with Chocolate Glaze, if desired.<br>
+<br>
 Chocolate Glaze: Add 1/4 cup + 2 Tbsp unsweetened cocoa powder to 2 cups Domino Confectioners Sugar, 2 tablespoons softened butter or margarine and 1 1/2 tablespoons milk. Add more milk, a teaspoon at a time, until mixture is desired consistency for spreading.
+</div>

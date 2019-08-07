@@ -4,7 +4,7 @@ title: Voodoo Doughnut  - The "No Name"
 date: '2008-10-02T09:55:05+00:00'
 slug: voodoo-doughnut-the-no-name
 ---
-<a href="http://www.flickr.com/photos/jennifervincent/2852758876/"><img src='images/uploads/2008/10/voodoo_doughnut1.jpg' alt='Voodoo Doughnut' />
+<a href="http://www.flickr.com/photos/jennifervincent/2852758876/"><img src='/images/uploads/2008/10/voodoo_doughnut1.jpg' alt='Voodoo Doughnut' />
 </a>
 Meet <a href="http://voodoodoughnut.com/">Voodoo Doughnut's</a> crazy chocolate peanut butter doughnut. It's called the "No Name" because it's "a doughnut so good we couldn't come up with a better name. It has chocolate, rice crispies and peanut butter on it." 
 

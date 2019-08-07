@@ -4,7 +4,7 @@ title: Chocolate Peanut Butter Crisp Bars
 date: '2008-03-25T08:44:42+00:00'
 slug: chocolate-peanut-butter-crisp-bars
 ---
-<img src='images/uploads/2008/03/potato.jpg' alt='potato_chips' />
+<img src='/images/uploads/2008/03/potato.jpg' alt='potato_chips' />
 
 Where does the crisp in these brownies come from?... Well if the above graphic didn't give it away, maybe you don't deserve to know. It's potato chips, of course!
 

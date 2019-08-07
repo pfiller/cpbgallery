@@ -4,14 +4,14 @@ title: 'Sir Francis Bacon: A Gustatory Adventure'
 date: '2009-05-05T08:56:05+00:00'
 slug: sir-francis-bacon-a-gustatory-adventure
 ---
-<img src='images/uploads/2009/03/sir_francis_bacon_bar_02.jpg' alt='Sir Francis Bacon Peanut Butter Brittle Bar' class="yellowborder" />
+<img src='/images/uploads/2009/03/sir_francis_bacon_bar_02.jpg' alt='Sir Francis Bacon Peanut Butter Brittle Bar' class="yellowborder" />
 *Note: bacon bars do not actually talk.
 
 While pondering the craziness of <a href="http://www.cpbgallery.com/2009/04/28/peanut-butter-cup-chicken-mole/">Peanut Butter Cup Chicken Mole</a>, I thought about the equally crazy but widely accepted (thanks to Elvis) combo of peanut butter and bacon. Why not throw some chocolate in the mix, right? I <a href="http://www.cpbgallery.com/2009/03/10/the-national-peanut-boards-peanut-tasting-event-in-nyc/">briefly mentioned</a> Sir Francis Bacon Peanut Brittle a little while back, but have since been in touch with the folks responsible for it and am here to share more info.
 
 They started out making <a href="http://www.baconpeanutbrittle.com/catalog/i1.html">Bacon Peanut Brittle</a> which then morphed into a chocolate bar. As you can see in the above photo, one side of the chocolate bar is engraved with squares as any average chocolate bar might be, but the underside is bejeweled with bits of bacon and peanut butter brittle. Crazy, huh?
 
-<img src='images/uploads/2009/03/sir_francis_bacon_bar_011.jpg' alt='Sir Francis Bacon Brittle' class="yellowborder"/>
+<img src='/images/uploads/2009/03/sir_francis_bacon_bar_011.jpg' alt='Sir Francis Bacon Brittle' class="yellowborder"/>
 
 The thought of bacon in your candy bar might be a little bit frightening if you've never tried it, but the hilarious Sir Francis packaging* might help ease the tension a bit. I mean, could you really wuss out when a guy with a pig nose is staring at you like that? He's totally mocking you. Don't let him do it!
 

@@ -4,7 +4,7 @@ title: 'Detour''s Oatmeal: Peanut Butter Chocolate Chip Bar Review'
 date: '2008-03-08T00:05:44+00:00'
 slug: detours-oatmeal-peanut-butter-chocolate-chip-bar
 ---
-<img src='images/uploads/2008/03/detour_oatmeal.jpg' alt='detour’s Oatmeal: Peanut Butter Chocolate Chip Bar' class= "yellowborder" />
+<img src='/images/uploads/2008/03/detour_oatmeal.jpg' alt='detour’s Oatmeal: Peanut Butter Chocolate Chip Bar' class= "yellowborder" />
 
 I woke up this morning and decided to choose one of the three protein bars in my pantry for breakfast. Normally I might choose the bar with the prettier packaging, but my growling stomach encouraged me to pick the largest and heaviest of the three which was <a href="http://www.detourbar.com/products.php?product=3">Detour's Oatmeal: Peanut Butter Chocolate Chip Bar</a>. The tagline calls it a Whole Grain Whey Protein Oat Bar and claims that it has "Designer Protein Whey". I'm not sure what that means exactly, but I'll assume it's good.
 

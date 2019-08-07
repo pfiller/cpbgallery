@@ -10,7 +10,7 @@ Who would have thought to add mayonnaise to a cake batter recipe?
 
 My friend Carla once told me that she suspected the condiment would add great moisture to a cake. Feeling curious, I decided to test her theory. I also challenged myself to decorate a fancy two layer cake, as it had been a while since I'd made any pretty desserts. 
 
-<a href="http://www.flickr.com/photos/kstar810/3620417910/in/photostream/"><img src='images/uploads/2009/06/img_8706.jpg' alt='chocolate cake' /></a>
+<a href="http://www.flickr.com/photos/kstar810/3620417910/in/photostream/"><img src='/images/uploads/2009/06/img_8706.jpg' alt='chocolate cake' /></a>
 
 I found this recipe for <a href="http://allrecipes.com/Recipe/Aunt-Joyces-Chocolate-Cake/Detail.aspx">Aunt Joyce's Chocolate Cake</a> and decided to give it a whirl. In the end it produced a moist and luscious cake that wasn't at all greasy as you might expect. Unfortunately, I made the mistake of looking at the calorie count on the side of the mayonnaise jar. This recipe uses a whole cup of it. Eep! Shield your eyes should you decide to make this. Ignorance is bliss, my friends. The cake is seriously delicious and that's all you need to know.
 

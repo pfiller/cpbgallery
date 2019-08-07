@@ -20,34 +20,32 @@ I encourage all of you CPB'ers out there to start a new holiday tradition and we
 
 As always on Thanksgiving, I have a lot to be thankful for. On this particular day, I am thankful to have a nice, warm house to go, a loud crazy family to spend the day with and a tasty home-cooked meal to enjoy together. I hope you all have a wonderful Thanksgiving!!
 
-Recipe after the break. 
-
-<!--more-->
 <div class="recipe">
-<strong>Peanut Butter Chocolate Chip Banana Bread</strong> 
-<em>recipe slightly modified from <a href="http://astore.amazon.com/thechocolatpe-20/detail/1594740569">The Peanut Butter & Co Book</a></em>
-Yields 1 loaf / about 12 servings
-
-Ingredients
-2 cups flour
-1 tsp baking powder
-1/2 tsp baking soda
-1 tsp salt
-1/2 cup vegetable shortening
-1 cup sugar
-1 cup Smooth Operator peanut butter
-1 1/2 cups mashed very ripe banana
-2 large eggs
-1/2 cup mini chocolate chips or 3/4 cup regular chocolate chips
-granulated sugar, for dusting
-
-Directions
-1. Preheat the oven to 350 degrees. Butter and flour the bottom and sides of a 9-inch loaf pan. Cut a piece of parchment paper or brown paper bag to fit the bottom of the loaf pan.
-
-2. In a large bowl, sift together the flour, baking powder, baking soda and salt and set aside.
-
-3. In a separate large bowl, use an electric mixer to cream together the shortening and sugar. Add the peanut butter, bananas, and eggs, one at a time, and continue mixing until well incorporated. Fold in the flour mixture and pour the batter into the prepared loaf pan.
-
+<strong>Peanut Butter Chocolate Chip Banana Bread</strong><br>
+<em>recipe slightly modified from <a href="http://astore.amazon.com/thechocolatpe-20/detail/1594740569">The Peanut Butter & Co Book</a></em><br>
+Yields 1 loaf / about 12 servings<br>
+<br>
+Ingredients<br>
+2 cups flour<br>
+1 tsp baking powder<br>
+1/2 tsp baking soda<br>
+1 tsp salt<br>
+1/2 cup vegetable shortening<br>
+1 cup sugar<br>
+1 cup Smooth Operator peanut butter<br>
+1 1/2 cups mashed very ripe banana<br>
+2 large eggs<br>
+1/2 cup mini chocolate chips or 3/4 cup regular chocolate chips<br>
+granulated sugar, for dusting<br>
+<br>
+Directions<br>
+1. Preheat the oven to 350 degrees. Butter and flour the bottom and sides of a 9-inch loaf pan. Cut a piece of parchment paper or brown paper bag to fit the bottom of the loaf pan.<br>
+<br>
+2. In a large bowl, sift together the flour, baking powder, baking soda and salt and set aside.<br>
+<br>
+3. In a separate large bowl, use an electric mixer to cream together the shortening and sugar. Add the peanut butter, bananas, and eggs, one at a time, and continue mixing until well incorporated. Fold in the flour mixture and pour the batter into the prepared loaf pan.<br>
+<br>
 4. Bake for 60 to 70 minutes, or until the top is golden brown and splits in the middle. Serve warm or at room temperature with a scoop of vanilla ice cream or a dollop of Marshmallow fluff. I personally prefer mine warm with a touch of butter and a cuppa Joe on the side. Enjoy!
 </div>
+
 <a href="http://www.flickr.com/photos/kstar810/5207169628/" title="Peanut Butter Mini Chip Banana Bread by kstar810, on Flickr"><img src="http://farm5.static.flickr.com/4130/5207169628_4b608be572.jpg" width="500" height="401" alt="Peanut Butter Mini Chip Banana Bread" /></a>

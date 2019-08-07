@@ -4,7 +4,7 @@ title: Reader Submissions
 date: '2009-07-31T15:23:49+00:00'
 slug: reader-submissions
 ---
-<img src='images/uploads/2009/07/telepathy1.gif' alt='Telepathy' />
+<img src='/images/uploads/2009/07/telepathy1.gif' alt='Telepathy' />
 
 Hi everyone, sorry for the delay in posts. I had some family obligations this week and wasn't able to write - you know I wouldn't skip out on my chocolate and peanut butter without good reason!
 

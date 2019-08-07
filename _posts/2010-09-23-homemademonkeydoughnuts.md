@@ -31,23 +31,21 @@ Whoa mama.
 
 <strong>Note:</strong> If you opt to fill them with marshmallow fluff, fill and let them sit for 10 minutes so the fluff can settle. If you don't, your frosting will sink in the middle once it settles. Also, sometimes the fluff evaporates a little after a couple days so I'd recommend eating them within a day or two. I think you're up to the task!
 
-Recipe after the break. Enjoy!
-
-<!--more-->
+Enjoy!
 
 <strong>Get the recipe</strong> for Banana Doughnuts at <a href="http://www.rachaelraymag.com/Recipes/rachael-ray-magazine-recipe-index/breakfast-brunch-recipes/Banana-Doughnuts-with-Banana-Frosting">Everyday with Rachael Ray</a>. If using a twinkie pan, bake them for 18 minutes. If using a mini bundt pan, bake them for 20. 
 
 <div class="recipe">
-<strong>Chocolate Peanut Butter Ganache</strong>
-<em>modified from <a href="http://www.chabad.org/theJewishWoman/article_cdo/aid/785188/jewish/Doughnut-Glazes.htm">this recipe</a></em>
-
-<strong>Ingredients</strong>
-1/4 cup heavy cream
-2 1/2 Tbsp smooth peanut butter
-6 oz chocolate, chopped and melted (I used a mix of milk and semi-sweet)
-1 1/2 tsp light corn syrup
-1/2 tsp vanilla extract
-
-<strong>Directions</strong>
+<strong>Chocolate Peanut Butter Ganache</strong><br>
+<em>modified from <a href="http://www.chabad.org/theJewishWoman/article_cdo/aid/785188/jewish/Doughnut-Glazes.htm">this recipe</a></em><br>
+<br>
+<strong>Ingredients</strong><br>
+1/4 cup heavy cream<br>
+2 1/2 Tbsp smooth peanut butter<br>
+6 oz chocolate, chopped and melted (I used a mix of milk and semi-sweet)<br>
+1 1/2 tsp light corn syrup<br>
+1/2 tsp vanilla extract<br>
+<br>
+<strong>Directions</strong><br>
 Bring the heavy cream to a simmer with the peanut butter, stirring until homogenous but not over-heated. Stir this into the melted chocolate. Then add the corn syrup and vanilla and whisk to combine. Store any leftover glaze in the refrigerator for up to 1 week and, once very chilled, make truffles! Just scoop it into large acorn-size pieces and, after rolling them into balls, roll them in the powdered sugar toppings, as listed (either the one flavored with cinnamon or cocoa). Store the truffles in the refrigerator.
 </div>

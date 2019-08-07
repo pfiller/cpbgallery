@@ -4,7 +4,7 @@ title: Peanut Butter Cheese Cake Minis
 date: '2008-05-18T08:05:43+00:00'
 slug: peanut-butter-cheese-cake-minis
 ---
-<img src='images/uploads/2008/05/cupcake_xray.gif' alt='Cupcake Xray' />
+<img src='/images/uploads/2008/05/cupcake_xray.gif' alt='Cupcake Xray' />
 
 Did you ever think you'd be able to find any Paula Deen recipe that only had HALF of ONE stick of butter? Well, here's a shocker, I found a DESSERT of hers that only has that little in it. Kinda crazy. Kinda freaks me out actually, but these sound great none the less and a five star rating on food network speaks well for em.
 

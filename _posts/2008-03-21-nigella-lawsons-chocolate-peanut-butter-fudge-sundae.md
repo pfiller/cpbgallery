@@ -4,7 +4,7 @@ title: Nigella Lawson's Chocolate Peanut Butter Fudge Sundae
 date: '2008-03-21T00:05:38+00:00'
 slug: nigella-lawsons-chocolate-peanut-butter-fudge-sundae
 ---
-<img src='images/uploads/2008/03/nigella_lawson1.jpg' alt='Nigella Lawson’s Chocolate Peanut Butter Fudge Sundae' class="yellowborder" />
+<img src='/images/uploads/2008/03/nigella_lawson1.jpg' alt='Nigella Lawson’s Chocolate Peanut Butter Fudge Sundae' class="yellowborder" />
 
 The above is not a direct quote from Nigella, but is it just me or does hearing her slowly describe her recipes in her English accent make them sound more tempting? You disagree? Okay, re-read the above in boring American speak and tell me it has the same effect. Yeah, I thought so.
 

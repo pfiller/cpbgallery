@@ -23,13 +23,13 @@ Taste tester was happy to partake in destroying it, since it doesn't contain any
 
 Another vantage point it has over Snickers - take a look at the packaging:
 
-<a href="http://www.flickr.com/photos/kstar810/2721469186/in/photostream/"><img src='images/uploads/2008/08/zzang_bar1.jpg' alt='Zingerman’s Zzang Bar' /></a>
+<a href="http://www.flickr.com/photos/kstar810/2721469186/in/photostream/"><img src='/images/uploads/2008/08/zzang_bar1.jpg' alt='Zingerman’s Zzang Bar' /></a>
 
 Someone decided to be evil and add that swirl background design as a subliminal way of hypnotizing me into eating more and more of it. So I guess I blame my gluttony on the designer! Yay! 
 
 I also love the illustrations of their products on their site and in their catalogue. Check out the fun interpretations of the above bar / packaging:
 
-<img src='images/uploads/2008/08/zingermans_zzang_bar_01.jpg' alt='Zingerman’s Original Zzang Bar Package' class="yellowborder" />
+<img src='/images/uploads/2008/08/zingermans_zzang_bar_01.jpg' alt='Zingerman’s Original Zzang Bar Package' class="yellowborder" />
 
 Snickers will always hold a special place in my heart and I'm sure I will keep buying them because they are cheaper and more readily available than the Original Zzang Bar. But I have a feeling every time I taste one I will be wishing it was a Zzang. Get one and taste it for yourself at <a href="http://www.zingermans.com/product.aspx?productid=p-zzg">Zingerman's</a>.
 

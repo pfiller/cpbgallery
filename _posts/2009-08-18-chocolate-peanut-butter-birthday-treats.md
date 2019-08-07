@@ -4,7 +4,7 @@ title: Chocolate Peanut Butter Birthday Treats!
 date: '2009-08-18T11:04:47+00:00'
 slug: chocolate-peanut-butter-birthday-treats
 ---
-<img src='images/uploads/2009/08/birthday_icecream.gif' alt='Birthday Ice cream' />
+<img src='/images/uploads/2009/08/birthday_icecream.gif' alt='Birthday Ice cream' />
 
 Taste Tester and I both celebrated birthdays last week, and you can be sure that there were plenty of desserts... and then more desserts, oh and then some MORE desserts, land some desserts after that. It was my kind of birthday!
 
@@ -20,7 +20,7 @@ Little did I know what a mess it is to put these little buggers together! I let 
 
 Sigh...
 
-<img src='images/uploads/2009/08/icecream_sandwich_mess_02.jpg' alt='Ice Cream Soup Wich' class="yellowborder" />
+<img src='/images/uploads/2009/08/icecream_sandwich_mess_02.jpg' alt='Ice Cream Soup Wich' class="yellowborder" />
 
 I thought I had been prepared ahead of time to make what seemed to be like an easy dessert. I even <a href="http://www.marthastewart.com/recipe/peanut-butter-chocolate-ice-cream-sandwich-cookies">watched a video</a> on Martha Stewart's site where the owners of <a href="http://howsweetitispastry.com/">How Sweet it Is</a> show how to make their popular chocolate peanut butter ice cream sandwiches. Despite the prepwork I <em>still</em> didn't get it right! 
 

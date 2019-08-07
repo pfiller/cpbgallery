@@ -4,7 +4,7 @@ title: But What Does It Look Like?!
 date: '2008-08-26T07:48:46+00:00'
 slug: but-what-does-it-look-like
 ---
-<img src='images/uploads/2008/08/mystery_dessert.gif' alt='mystery dessert' class="yellowborder" />
+<img src='/images/uploads/2008/08/mystery_dessert.gif' alt='mystery dessert' class="yellowborder" />
 
 Buying cookbooks (even though my shelf is completely packed full) is a vice of mine. I can't help it. As long a book has an enticing name or a delicious looking photo on the cover (doesn't that describe <em>every</em> cookbook?) I'm bound to at least investigate it. 
 

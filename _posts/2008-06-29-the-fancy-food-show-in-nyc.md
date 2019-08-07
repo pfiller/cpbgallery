@@ -4,7 +4,7 @@ title: The Fancy Food Show in NYC
 date: '2008-06-29T22:13:42+00:00'
 slug: the-fancy-food-show-in-nyc
 ---
-<img src='images/uploads/2008/06/fancy.gif' alt='Fancy Food Show' class="yellowborder" />
+<img src='/images/uploads/2008/06/fancy.gif' alt='Fancy Food Show' class="yellowborder" />
 
 The above is not an official promo poster for <a href="http://www.specialtyfood.com/do/fancyFoodShow/LocationsAndDates">The Fancy Food Show</a>, just my interpretation. It sure feels like I died and went to chocolate peanut butter heaven, though. The Jacob Javits center was transformed into a seemingly endless gourmet market filled with booth upon booth of smiling people handing me delicious food. Really, could it get any better than that? 
 

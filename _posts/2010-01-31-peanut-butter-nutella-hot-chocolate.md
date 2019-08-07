@@ -16,26 +16,24 @@ The next day, I made my hot chocolate with 1 1/2 Tbsp Nutella and 1 1/2 Tbsp of 
 
 There are some people that like very thin, almost watery hot chocolate and some that prefer something thicker, almost like a melted chocolate bar in a cup. I'm sort of a cross between the two; sometimes I want a hot chocolate so rich and thick that I really only need a few sips to be satisfied. Other times, I want something a little less intense so that I can slowly sip a whole cup and really savor it. This hot chocolate is kind of a cross between the two. It's rich enough to satisfy your sweet tooth, but not so heavy that you'll be in pain by the time you reach the bottom of your mug. And you <em>will</em> reach the bottom, because it is m-m-m M-M-M delicious!
 
-If you're living somewhere where it's "15, feels like 4 degrees" outside like it is here, then I'm guessing you might need something to help keep you warm. Treat yourself to a cup of Peanut Butter Nutella Hot Chocolate! 
-
-Recipe after the break.
+If you're living somewhere where it's "15, feels like 4 degrees" outside like it is here, then I'm guessing you might need something to help keep you warm. Treat yourself to a cup of Peanut Butter Nutella Hot Chocolate!
 
 <a href="http://www.flickr.com/photos/kstar810/4314109806/"><img src="http://farm3.static.flickr.com/2517/4314109806_886dbf40f8.jpg" alt="Peanut Butter Nutella Hot Chocolate" /></a>
 
 Thanks to my cousin Tami for the adorably girly mug!
 
-<!--more-->
-
-<strong>Peanut Butter Nutella Hot Chocolate</strong>
-<em>modified from <a href="http://astore.amazon.com/thechocolatpe-20/detail/1580087086">Hot Chocolate</a> by Michael Turback</em>
-Yields 1 serving
-
-<strong>Ingredients</strong>
-3/4 cup whole milk
-1 1/2 Tbsp Nutella
-1 1/2 Tbsp smooth Jif peanut butter
-
-<strong>Directions</strong>
-In a small saucepan over medium-low heat, bring the milk just to a simmer (do not boil). Add the Nutella and peanut butter and stir with a whisk until thoroughly blended. Remove from heat, pour into a mug and garnish with a dollop of whipped cream. Serve immediately.
-
-Note: The creperie makes a frozen variation of this recipe the same way, but with the addition of vanilla ice cream and plain yogurt.
+<div class="recipe">
+<strong>Peanut Butter Nutella Hot Chocolate</strong><br>
+<em>modified from <a href="http://astore.amazon.com/thechocolatpe-20/detail/1580087086">Hot Chocolate</a> by Michael Turback</em><br>
+Yields 1 serving<br>
+<br>
+<strong>Ingredients</strong><br>
+3/4 cup whole milk<br>
+1 1/2 Tbsp Nutella<br>
+1 1/2 Tbsp smooth Jif peanut butter<br>
+<br>
+<strong>Directions</strong><br>
+In a small saucepan over medium-low heat, bring the milk just to a simmer (do not boil). Add the Nutella and peanut butter and stir with a whisk until thoroughly blended. Remove from heat, pour into a mug and garnish with a dollop of whipped cream. Serve immediately.<br>
+<br>
+Note: The creperie makes a frozen variation of this recipe the same way, but with the addition of vanilla ice cream and plain yogurt.<br>
+</div>

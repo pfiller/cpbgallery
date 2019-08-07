@@ -34,11 +34,11 @@ I roamed around the M&M store for a bit hoping to see something other than plain
 
 You'd think I'd have had my fill of candy stores for a bit, but no, the next day I was ready for more. I was released from work early, happily took my leave and headed over to Dylan's Candy Bar. If I weren't wearing healed boots, I might have skipped.
 
-<a href="http://flickr.com/photos/kstar810/2460613142/"><img src='images/uploads/2008/05/dylan.jpg' alt='Dylan’s Candy Bar' /></a>
+<a href="http://flickr.com/photos/kstar810/2460613142/"><img src='/images/uploads/2008/05/dylan.jpg' alt='Dylan’s Candy Bar' /></a>
 
 It's under construction at the moment, but was very accessible during my visit. Phew! Wouldn't want to be built up with all that excitement to finally go, only to be crushed with disappointment and unfulfilled candy dreams! First, I walked down the fun backlit candy steps to the bottom floor where most of the candy was located. It's kind of sad to be walking on candy, but awesomely fun at the same time.
 
-<a href="http://flickr.com/photos/kstar810/2460613834/in/set-72157604854131329/"><img src='images/uploads/2008/05/dylan_steps.jpg' alt='Candy Steps' /></a>
+<a href="http://flickr.com/photos/kstar810/2460613834/in/set-72157604854131329/"><img src='/images/uploads/2008/05/dylan_steps.jpg' alt='Candy Steps' /></a>
 
 They even wrote their logo in candy which is encased in the steps! How fun!
 

@@ -21,21 +21,19 @@ I think my point here is that these are good. The melted milk chocolate goes rea
 
 When I googled the recipe I came across <a href="http://paninihappy.com/peanut-butter-pound-cake-smores-panini/">this variation</a> which is basically a pound cake fluffernutter panini dipped in melted chocolate. Whoa.
 
-Recipe after the break!
-
-<!--more-->
-
-<strong>Peanut-Butter-And-Milk-Chocolate Sandwiches</strong>
-<em>slightly modified from Everyday Food</em> (we added more peanut butter... hehe)
-Yields 4 (Serving size: 1/2 sandwich)
-
-<strong>Ingredients</strong>
-4 slices pound cake, cut 1/2 inch thick
-4 tsp creamy peanut butter
-2 Tbsp milk chocolate, melted
-butter, for frying
-
-<strong>Directions</strong>
-1. Butter the pound cake slices. Place 2 slices, buttered side down, on a work surface. Top each with 2 tsp peanut butter and 1 Tbsp melted milk chocolate; top each with 1 slice pound cake, buttered side up.
-
+<div class="recipe">
+<strong>Peanut-Butter-And-Milk-Chocolate Sandwiches</strong><br>
+<em>slightly modified from Everyday Food</em> (we added more peanut butter... hehe)<br>
+Yields 4 (Serving size: 1/2 sandwich)<br>
+<br>
+<strong>Ingredients</strong><br>
+4 slices pound cake, cut 1/2 inch thick<br>
+4 tsp creamy peanut butter<br>
+2 Tbsp milk chocolate, melted<br>
+butter, for frying<br>
+<br>
+<strong>Directions</strong><br>
+1. Butter the pound cake slices. Place 2 slices, buttered side down, on a work surface. Top each with 2 tsp peanut butter and 1 Tbsp melted milk chocolate; top each with 1 slice pound cake, buttered side up.<br>
+<br>
 2. Heat a medium skillet over medium. Add sandwiches and cook, flipping once, until golden brown, about 3 minutes per side. Slice each sandwich into 4 pieces and serve warm.
+</div>

@@ -34,7 +34,7 @@ To conclude, The Doughnut Plant experience suffered a bit from being over-hyped,
 
 While we're on this little doughnut kick, I just purchased this fun book dedicated to the donut by Sally Levitt Steinberg.
 
-<a href="http://www.amazon.com/Donut-Book-Sally-Levitt-Steinberg/dp/1580175481"><img src='images/uploads/2010/04/the_donut_book_sm.jpg' alt='The Donut Book Cover' /></a>
+<a href="http://www.amazon.com/Donut-Book-Sally-Levitt-Steinberg/dp/1580175481"><img src='/images/uploads/2010/04/the_donut_book_sm.jpg' alt='The Donut Book Cover' /></a>
 
 I got the book at the most adorable cookbook shop ever called <a href="http://www.bonnieslotnickcookbooks.com/">Bonnie Slotnick Cookbooks</a>. I had been dying to go for a really long time. This is part of what I love about New York - would you have even noticed this little window walking by, let alone realize that it's a treasure trove of Cookbooks?
 
@@ -43,7 +43,7 @@ Photo credit: Dave of <a href="http://www.eatingintranslation.com/">Eating in Tr
 
 It's a small shop jam-packed wall-to-wall with cookbooks both new and old. Bonnie, the owner is clearly very enthusiastic about cookbooks and happy to chat with you about them.
 
-<a href="http://www.flickr.com/photos/alisoncook/4443363365/"><img src='images/uploads/2010/05/bonnie_slotnick.jpg' alt='Bonnie Slotnick Cookbooks' /></a>
+<a href="http://www.flickr.com/photos/alisoncook/4443363365/"><img src='/images/uploads/2010/05/bonnie_slotnick.jpg' alt='Bonnie Slotnick Cookbooks' /></a>
 Photo credit: <a href="http://www.flickr.com/photos/alisoncook/">cookstour</a>
 
 After my day in the city with Jenna, I came home and flipped through this new book of mine, only to find an excerpt on Mark Israel and his shop, The Doughnut Plant. It tells an interesting story of how Mark put his own modern-day spin on his Grandfather's doughnut recipe by making gourmet (trans fat-free) doughnuts using fresh organic ingredients from farmer's markets. Not having enough money for subways and cabs, he started out by delivering his doughnuts on his bicycle and managed to convince owners of coffee shops as well as <a href="http://www.balduccis.com/">Balducci's</a> and <a href="http://www.deandeluca.com/">Dean and Deluca</a> to carry his doughnuts just by presenting them with a box to taste. It's a great story and makes me wish that I had liked them more.

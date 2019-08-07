@@ -4,7 +4,7 @@ title: The Kitchn Shout-out
 date: '2009-05-27T15:07:24+00:00'
 slug: the-kitchn-shout-out
 ---
-<img src='images/uploads/2009/05/cpb_shoutout2.gif' alt='shoutout banner' />
+<img src='/images/uploads/2009/05/cpb_shoutout2.gif' alt='shoutout banner' />
 
 Apartment Therapy's <a href="http://www.thekitchn.com/">The Kitchn</a> was nice enough to do <a href="http://www.thekitchn.com/thekitchn/roundup-food-blogs/the-chocolate-peanut-butter-gallery-085722">a great little write-up</a> on The CPB Gallery today. If you haven't checked their site out before, it's a wonderful website who's motto is, "inspiring cooks, nourising homes," and do they ever!
 

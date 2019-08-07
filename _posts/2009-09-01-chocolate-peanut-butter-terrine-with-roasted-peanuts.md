@@ -4,7 +4,7 @@ title: Chocolate Peanut Butter Terrine with Roasted Peanuts
 date: '2009-09-01T09:37:03+00:00'
 slug: chocolate-peanut-butter-terrine-with-roasted-peanuts
 ---
-<a href="http://www.epicurious.com/recipes/food/views/Chocolate-Peanut-Butter-Terrine-with-Sugared-Peanuts-354429"><img src='images/uploads/2009/08/chocolate_pb_terrine2.jpg' alt='Chocolate Peanut Butter Terrine with Roasted Peanuts' /></a>
+<a href="http://www.epicurious.com/recipes/food/views/Chocolate-Peanut-Butter-Terrine-with-Sugared-Peanuts-354429"><img src='/images/uploads/2009/08/chocolate_pb_terrine2.jpg' alt='Chocolate Peanut Butter Terrine with Roasted Peanuts' /></a>
 
 I don't know about you, but I'm not ready to let go of summer just yet! Already there's a slight chill in the air, and even though it's the first day of September (how does that always come so fast?) I have still been craving the cold, refreshing desserts of summer.
 

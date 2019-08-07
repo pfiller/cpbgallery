@@ -18,7 +18,7 @@ Taste Tester brought home a box full of 7 of these gigantic cookies - a couple s
 
 This was all that was left by the time I took photos:
 
-<a href="http://www.flickr.com/photos/kstar810/3796828622/in/photostream/"><img src='images/uploads/2009/08/specialties_chicago.jpg' alt='Specialty’s Cafe & Bakery' /></a>
+<a href="http://www.flickr.com/photos/kstar810/3796828622/in/photostream/"><img src='/images/uploads/2009/08/specialties_chicago.jpg' alt='Specialty’s Cafe & Bakery' /></a>
 
 Clockwise from the left: milk chocolate, oatmeal raisin, two snickerdoodles and the peanut butter chocolate in the middle.
 

@@ -4,7 +4,7 @@ title: Taste Buds Intense Valencia Peanut Milk Chocolate Granola Cookie
 date: '2008-06-07T10:03:06+00:00'
 slug: taste-buds-intense-valencia-peanut-milk-chocolate-granola-cookie
 ---
-<img src='images/uploads/2008/06/taste_buds.jpg' alt='Taste Buds Intense Valencia Peanut Milk Chocolate Granola Cookie' class="yellowborder" />
+<img src='/images/uploads/2008/06/taste_buds.jpg' alt='Taste Buds Intense Valencia Peanut Milk Chocolate Granola Cookie' class="yellowborder" />
 
 I may have mentioned before that I like good package design. I recently came across <a href="http://fortastebuds.com/index.html">Taste Bud's</a> product on the package design blog, <a href="http://www.thedieline.com/blog/2008/01/taste-buds.html#more">The Dieline</a> and was delighted to discover that they make an <a href="http://fortastebuds.com/products_VPB.html">Intense Valencia Peanut Milk Chocolate Granola Cookie</a>. That's a doozy of a name and naturally inspired the question: what's the difference between a valencia peanut and a regular peanut? They were kind enough to answer the question for me:
 

@@ -22,40 +22,40 @@ For a fun, edible trip down memory lane to the time of crustless sandwiches and 
 
 <a href="http://www.flickr.com/photos/kstar810/4375493707/in/photostream"><img src="http://farm5.static.flickr.com/4035/4375493707_e706a181b3.jpg" alt="Sarah's PB&J Chocolate Bars" /></a>
 
-Recipe after the break!
-
-<!--more-->
 
 <strong>I made a couple small changes to the original recipe:</strong>
+
 - I thought the PB filling was a little sweet, so I added more PB.
 - Also added more jelly, because... who doesn't want that? Note: if you use anything besides grape jelly, Taste Tester will have words with you (he's a PB&J purist). Enjoy!
 
-<strong>Sarah's PB&J Chocolate Bars</strong>
-<em>modified from <a href="http://www.foodnetwork.com/recipes/sarahs-pbj-chocolate-bars-recipe/index.html">Food Network</a></em>
-makes 3 dozen bars
-
-<strong>Ingredients</strong>
-
-<strong>For the base:</strong>
-1 stick unsalted butter
-1/3 cup granulated sugar
-1/3 cup unsweetened cocoa powder
-1 large egg, beaten
-1 sleeve saltines (40 crackers, regular or whole wheat), finely crushed
-3/4 cup finely chopped roasted lightly salted peanuts
-
-<strong>For the filling and glaze:</strong>
-1/3 cup grape jelly
-7 tablespoons plus 1 teaspoon unsalted butter, softened
-1/3 + 1/4 cup creamy peanut butter (not natural)
-1/2 cup confectioners' sugar
-4 ounces semisweet chocolate, chopped
-
-<strong>Directions</strong>
-1. <strong>Make the base:</strong> Line an 8-inch square baking pan with foil, extending it over the sides. Put the butter in a medium heatproof bowl; position the bowl over a saucepan of barely simmering water (the bowl should not touch the water). Once the butter melts, stir in the sugar and cocoa. Whisk in the egg; cook, whisking, until the mixture is warm and the consistency of hot fudge, 6 minutes. Remove from the heat; mix in the saltine crumbs and peanuts. Press the crust into the pan. Set aside the saucepan of water.
-
-2. <strong>Make the filling:</strong> Spread the jelly over the crust in the pan; place in the freezer for a few minutes. Beat 5 tablespoons plus 1 teaspoon butter, the peanut butter and confectioners' sugar with a mixer until light. Spread over the jelly layer; return to the freezer while you make the glaze.
-
-3. Place the chocolate and the remaining 2 tablespoons butter in a heatproof bowl; set over the pan of simmering water and stir until the chocolate is melted. Remove from the heat; stir until smooth. When cool but still runny, spread the glaze over the chilled peanut butter layer. Freeze for another 30 minutes.
-
+<div class="recipe">
+<strong>Sarah's PB&J Chocolate Bars</strong><br>
+<em>modified from <a href="http://www.foodnetwork.com/recipes/sarahs-pbj-chocolate-bars-recipe/index.html">Food Network</a></em><br>
+makes 3 dozen bars<br>
+<br>
+<strong>Ingredients</strong><br>
+<br>
+<strong>For the base:</strong><br>
+1 stick unsalted butter<br>
+1/3 cup granulated sugar<br>
+1/3 cup unsweetened cocoa powder<br>
+1 large egg, beaten<br>
+1 sleeve saltines (40 crackers, regular or whole wheat), finely crushed<br>
+3/4 cup finely chopped roasted lightly salted peanuts<br>
+<br>
+<strong>For the filling and glaze:</strong><br>
+1/3 cup grape jelly<br>
+7 tablespoons plus 1 teaspoon unsalted butter, softened<br>
+1/3 + 1/4 cup creamy peanut butter (not natural)<br>
+1/2 cup confectioners' sugar<br>
+4 ounces semisweet chocolate, chopped<br>
+<br>
+<strong>Directions</strong><br>
+1. <strong>Make the base:</strong> Line an 8-inch square baking pan with foil, extending it over the sides. Put the butter in a medium heatproof bowl; position the bowl over a saucepan of barely simmering water (the bowl should not touch the water). Once the butter melts, stir in the sugar and cocoa. Whisk in the egg; cook, whisking, until the mixture is warm and the consistency of hot fudge, 6 minutes. Remove from the heat; mix in the saltine crumbs and peanuts. Press the crust into the pan. Set aside the saucepan of water.<br>
+<br>
+2. <strong>Make the filling:</strong> Spread the jelly over the crust in the pan; place in the freezer for a few minutes. Beat 5 tablespoons plus 1 teaspoon butter, the peanut butter and confectioners' sugar with a mixer until light. Spread over the jelly layer; return to the freezer while you make the glaze.<br>
+<br>
+3. Place the chocolate and the remaining 2 tablespoons butter in a heatproof bowl; set over the pan of simmering water and stir until the chocolate is melted. Remove from the heat; stir until smooth. When cool but still runny, spread the glaze over the chilled peanut butter layer. Freeze for another 30 minutes.<br>
+<br>
 4. Use the foil flaps to remove the bars from the pan; cut into squares while still cold. Serve cold and keep leftovers refrigerated.
+</div>

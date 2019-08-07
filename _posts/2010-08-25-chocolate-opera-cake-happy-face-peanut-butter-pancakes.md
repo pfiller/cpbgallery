@@ -28,59 +28,58 @@ I started out searching the web for peanut butter pancake recipes. Since Taste T
 
 A few google searches later, I had my birthday concoction: peanut butter pancakes topped with caramel sauce, caramelized bananas, homemade whipped cream and a few dark milk chocolate chips. I of course, couldn't resist and had to make a smiley face pancake (the bananas were the hair, whipped cream made the face and chocolate dots stood for eyes). Unfortunately, I goofed a little and put the cream on first and by the time I was done adding the banana "hair", the whipped cream face had melted and didn't look so happy anymore. So, FYI, when you serve this: Add the caramel sauce first (drizzling some around the plate so that it all doesn't soak into the pancake). Next add the bananas and then the whipped cream. Quickly dot with chocolate chips and serve.
 
-It was a thoroughly delicious birthday week. We hope you enjoy our birthday treats as much as we did! Recipes after the break.
+It was a thoroughly delicious birthday week. We hope you enjoy our birthday treats as much as we did!
 
-<!--more-->
 <div class="recipe">
-<strong>Chocolate Opera Cake</strong>
-<em>Get the recipe from Kesha's blog, <a href="http://sharedsugar.com/chocolate-opera-cake/">Shared Sugar</a></em>
-
-<strong>Happy Peanut Butter Pancakes</strong> (sketch below)
-<em>In addition to the ingredients listed below, you'll also need some whipped cream and milk chocolate chips for garnish. I used <a href="https://www.askinosie.com/p-73-davao-dark-milk-chocolate-bar-fleur-de-sel.aspx">Askinosie Dark Milk Chocolate</a>, but regular milk chocolate chips would work just fine.</em>
-
-<strong>Caramel Sauce</strong>
-<em>recipe from <a href="http://www.mykitchenaddiction.com/2009/03/banana-nut-pancakes-with-caramel-sauce/">my kitchen addiction</a></em>
-
-1/4 cup unsalted butter (1/2 stick)
-1/2 cup brown sugar
-1/4 cup light corn syrup
-1/4 cup milk
-
-1. Combine the butter and brown sugar in a small saucepan over medium heat.  Once combined, add the corn syrup and bring to a slow bubble.  Cook for a minute or two.  Reduce heat and simmer, gradually stirring in the milk. Continue to simmer over low heat while making the pancakes. (These are the instructions as written, but I've burnt caramel so many times that I no longer attempt multitasking while making it. Do so at your own risk!)
-
-<strong>Caramelized Bananas</strong>
-<em>recipe from <a href="http://www.epicurious.com/recipes/food/views/Caramelized-Bananas-242365">epicurious</a></em>
-
-2 tablespoons butter, melted
-2 tablespoons brown sugar
-4 firm, ripe bananas
-
-1. Prepare a medium fire in the grill.
-2. Combine the butter and brown sugar in a shallow dish. Peel the bananas, cut in half lengthwise, and then again crosswise. Add the bananas to the butter mixture and toss very gently to coat.
-3. Grill the bananas, turning once, until a crispy brown coating of caramelized sugar forms on the surface, about 5 minutes per side. Watch carefully; don't allow the sugar to char.
-4. Remove from the grill. Serve hot.
-
-<strong>Peanut Butter Pancakes</strong>
-<em>modified recipe from <a href="http://dineanddish.net/2010/05/the-hip-hostess-apron-giveaway-recipe-peanut-butter-pancakes/">Dine & Dish</a> (I doubled the recipe here so that I could make larger pancakes. Click the link if you want the scaled down original version)</em>
-
-2 cups flour
-1 Tbsp + 2 tsp baking powder
-1 teaspoon salt
-1 cup creamy peanut butter
-1/4 cup sugar
-1/4 cup tablespoons vegetable oil
-2 large eggs
-2 1/4 cups milk (the blog I found this on suggested adding an extra Tbsp or two of milk)
-
-1. In a large bowl, mix together the flour, baking powder, and salt, and set aside.
-2. In a small bowl, whisk together the peanut butter, sugar, and oil until smooth. Beat in the egg, then the milk. Pour the milk mixture into the flour mixture, stirring just until blended. Let the batter sit for 10 minutes or until it fluffs up.
-3. Next, lightly coat a griddle or skillet with oil and heat it over medium-high heat. Drop the batter onto the griddle by 1/2-cup measures. If desired, add milk chocolate chips to the batter as the pancakes cook. Cook until tiny bubbles appear on the surfaces of the cakes, then flip them and cook a few minutes more. 
-
-<strong>Happy Face Assembly</strong>
-Since I added the whipped cream too early and it melted, I didn't get to snap a good shot of my cute pancakes. So, here's a little sketch so that you get the gist.
-
-<a href="/images/uploads/2010/08/happy_face_pb_pancakes.gif"><img src="/images/uploads/2010/08/happy_face_pb_pancakes.gif" alt="" title="happy_face_pb_pancakes" width="448" height="313" class="alignnone size-full wp-image-815" /></a>
-
-<strong>Directions</strong>
+<strong>Chocolate Opera Cake</strong><br>
+<em>Get the recipe from Kesha's blog, <a href="http://sharedsugar.com/chocolate-opera-cake/">Shared Sugar</a></em><br>
+<br>
+<strong>Happy Peanut Butter Pancakes</strong> (sketch below)<br>
+<em>In addition to the ingredients listed below, you'll also need some whipped cream and milk chocolate chips for garnish. I used <a href="https://www.askinosie.com/p-73-davao-dark-milk-chocolate-bar-fleur-de-sel.aspx">Askinosie Dark Milk Chocolate</a>, but regular milk chocolate chips would work just fine.</em><br>
+<br>
+<strong>Caramel Sauce</strong><br>
+<em>recipe from <a href="http://www.mykitchenaddiction.com/2009/03/banana-nut-pancakes-with-caramel-sauce/">my kitchen addiction</a></em><br>
+<br>
+1/4 cup unsalted butter (1/2 stick)<br>
+1/2 cup brown sugar<br>
+1/4 cup light corn syrup<br>
+1/4 cup milk<br>
+<br>
+Combine the butter and brown sugar in a small saucepan over medium heat.  Once combined, add the corn syrup and bring to a slow bubble.  Cook for a minute or two.  Reduce heat and simmer, gradually stirring in the milk. Continue to simmer over low heat while making the pancakes. (These are the instructions as written, but I've burnt caramel so many times that I no longer attempt multitasking while making it. Do so at your own risk!)<br>
+<br>
+<strong>Caramelized Bananas</strong><br>
+<em>recipe from <a href="http://www.epicurious.com/recipes/food/views/Caramelized-Bananas-242365">epicurious</a></em><br>
+<br>
+2 tablespoons butter, melted<br>
+2 tablespoons brown sugar<br>
+4 firm, ripe bananas<br>
+<br>
+1. Prepare a medium fire in the grill.<br>
+2. Combine the butter and brown sugar in a shallow dish. Peel the bananas, cut in half lengthwise, and then again crosswise. Add the bananas to the butter mixture and toss very gently to coat.<br>
+3. Grill the bananas, turning once, until a crispy brown coating of caramelized sugar forms on the surface, about 5 minutes per side. Watch carefully; don't allow the sugar to char.<br>
+4. Remove from the grill. Serve hot.<br>
+<br>
+<strong>Peanut Butter Pancakes</strong><br>
+<em>modified recipe from <a href="http://dineanddish.net/2010/05/the-hip-hostess-apron-giveaway-recipe-peanut-butter-pancakes/">Dine & Dish</a> (I doubled the recipe here so that I could make larger pancakes. Click the link if you want the scaled down original version)</em><br>
+<br>
+2 cups flour<br>
+1 Tbsp + 2 tsp baking powder<br>
+1 teaspoon salt<br>
+1 cup creamy peanut butter<br>
+1/4 cup sugar<br>
+1/4 cup tablespoons vegetable oil<br>
+2 large eggs<br>
+2 1/4 cups milk (the blog I found this on suggested adding an extra Tbsp or two of milk)<br>
+<br>
+1. In a large bowl, mix together the flour, baking powder, and salt, and set aside.<br>
+2. In a small bowl, whisk together the peanut butter, sugar, and oil until smooth. Beat in the egg, then the milk. Pour the milk mixture into the flour mixture, stirring just until blended. Let the batter sit for 10 minutes or until it fluffs up.<br>
+3. Next, lightly coat a griddle or skillet with oil and heat it over medium-high heat. Drop the batter onto the griddle by 1/2-cup measures. If desired, add milk chocolate chips to the batter as the pancakes cook. Cook until tiny bubbles appear on the surfaces of the cakes, then flip them and cook a few minutes more.<br>
+<br>
+<strong>Happy Face Assembly</strong><br>
+Since I added the whipped cream too early and it melted, I didn't get to snap a good shot of my cute pancakes. So, here's a little sketch so that you get the gist.<br>
+<br>
+<a href="/images/uploads/2010/08/happy_face_pb_pancakes.gif"><img src="/images/uploads/2010/08/happy_face_pb_pancakes.gif" alt="" title="happy_face_pb_pancakes" width="448" height="313" class="alignnone size-full wp-image-815" /></a><br>
+<br>
+<strong>Directions</strong><br>
 Center pancake on plate. Drizzle a strip of caramel sauce in a circle on the plate around the entire pancake and then drizzle some more across the top of the pancake. For the "hair", line 1/3 of the edge of the pancake with caramelized bananas. Draw the eyes, a nose and a smile with the whipped cream and quickly dot the eyes with chocolate chips. Serve immediately.
 </div>

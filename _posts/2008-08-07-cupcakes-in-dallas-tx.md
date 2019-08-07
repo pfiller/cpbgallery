@@ -4,7 +4,7 @@ title: Cupcakes in Dallas, TX
 date: '2008-08-07T09:25:23+00:00'
 slug: cupcakes-in-dallas-tx
 ---
-<a href="http://www.sprinklescupcakes.com/index.html"><img src='images/uploads/2008/08/sprinkles_cupcake_mix.jpg' alt='Sprinkles Cupcake Mix' /></a>
+<a href="http://www.sprinklescupcakes.com/index.html"><img src='/images/uploads/2008/08/sprinkles_cupcake_mix.jpg' alt='Sprinkles Cupcake Mix' /></a>
 
 If you've been a regular visitor of The CPB Gallery you know that I live in the NJ and recently took a road trip to Michigan and Illinois. This being the case, most of my cafe reviews revolve around the NY / NJ area but lately I've been blabbering about some of the many treats I ate on my trip to the midwest. 
 

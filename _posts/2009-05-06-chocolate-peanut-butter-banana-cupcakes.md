@@ -12,7 +12,7 @@ I bake from scratch most of the time, but every now and again I use a little hel
 
 Here's a pic of the naked cupcakes. (Scandalous!) 
 
-<img src='images/uploads/2009/04/chocolate_cupcake1.jpg' alt='Chocolate Cupcake' class="yellowborder" />
+<img src='/images/uploads/2009/04/chocolate_cupcake1.jpg' alt='Chocolate Cupcake' class="yellowborder" />
 
 Well I guess they have paper liners, so they're not totally naked. Sorry to disappoint! Anyway, as you can see there are interesting valleys ingrained in the tops of these cupcakes. The indentations give you a sneak peak to the moist chocolatey goodness that awaits inside. These cupcakes were good the first day, but they tasted even more moist and rich as the days went on. I don't really understand how or why that happens, but I am thankful for it!
 

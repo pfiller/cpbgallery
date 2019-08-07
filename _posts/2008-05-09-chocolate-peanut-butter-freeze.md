@@ -4,7 +4,7 @@ title: Chocolate Peanut Butter Freeze
 date: '2008-05-09T00:05:02+00:00'
 slug: chocolate-peanut-butter-freeze
 ---
-<a href="http://www.hersheys.com/recipes/recipes/detail.asp?id=8419&page=1&per=25&keyword=peanut%20butter#"><img src='images/uploads/2008/05/cpb_freeze.jpg' alt='Chocolate Peanut Butter Freeze' /></a>
+<a href="http://www.hersheys.com/recipes/recipes/detail.asp?id=8419&page=1&per=25&keyword=peanut%20butter#"><img src='/images/uploads/2008/05/cpb_freeze.jpg' alt='Chocolate Peanut Butter Freeze' /></a>
 
 I'm feeling indulgent today. :)
 

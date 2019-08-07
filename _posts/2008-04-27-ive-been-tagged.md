@@ -4,7 +4,7 @@ title: I've been Tagged!!
 date: '2008-04-27T09:00:55+00:00'
 slug: ive-been-tagged
 ---
-<img src='images/uploads/2008/04/tag.gif' alt='tag' />
+<img src='/images/uploads/2008/04/tag.gif' alt='tag' />
 
 <a href="http://vicariousfoodie.blogspot.com/2008/04/tagged.html">Vicarious Foodie</a> is a blog that features all sorts of yummy delicious recipes, a lot (maybe all?) of which are from or based on recipes from the peeps over at Food Network. Check out her blog and make something tasty like <a href="http://vicariousfoodie.blogspot.com/2008/04/wild-cherry-m-cookies.html">Wild Cheery M&M Cookies</a>. She also writes lots of fun posts about pasta including <a href="http://vicariousfoodie.blogspot.com/2008/03/noodle-love-iv-penne.html">Baked Penne with Roasted Vegetables</a>, if you're into that kind of thing (who isn't?!).
 

@@ -4,7 +4,7 @@ title: Peanut Butter Brick Toast with Chocolate Syrup
 date: '2008-03-26T00:05:18+00:00'
 slug: peanut-butter-brick-toast-with-chocolate-syrup
 ---
-<a href="http://www.flickr.com/photos/aiyah/2348917012/"><img src='images/uploads/2008/03/pb_sqfrenchtoast.jpg' alt='pb french toast' /></a>
+<a href="http://www.flickr.com/photos/aiyah/2348917012/"><img src='/images/uploads/2008/03/pb_sqfrenchtoast.jpg' alt='pb french toast' /></a>
 
 You can place an order for this brick of french toast deliciousness at <a href="http://www.yelp.com/biz/guppy-teahouse-cerritos">Guppy Teahouse</a> in Cerritos, CA. I live nowhere near that, which is just not fair. Winnie, the lucky photographer and consumer says "the toast is a good two inches in height and crunchy toasty on the outside but soft on the inside". 
 

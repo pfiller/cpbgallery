@@ -4,7 +4,7 @@ title: Hungry Girl Cookbook
 date: '2008-06-20T00:05:55+00:00'
 slug: hungry-girl-cookbook
 ---
-<a href="http://book.hungry-girl.com/chapter/8_chocolate-911"><img src='images/uploads/2008/06/cpb_bread_pudding1.jpg' alt='Chocolate Peanut Butter Bread Pudding' /></a>
+<a href="http://book.hungry-girl.com/chapter/8_chocolate-911"><img src='/images/uploads/2008/06/cpb_bread_pudding1.jpg' alt='Chocolate Peanut Butter Bread Pudding' /></a>
 
 <a href="http://book.hungry-girl.com/">Hungry Girl: Recipes and Survival Strategies for Guilt-Free Eating in the Real World</a> by Lisa "Hungry Girl" Lillien has some pretty fantastic looking recipes in it. With a small apartment and a full bookshelf, I often toil about purchasing new cookbooks. Why clutter up my apartment when there's a plethora of new recipes constantly being released on the internet?
 

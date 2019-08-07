@@ -4,7 +4,7 @@ title: Crazy Chocolate Peanut Butter Combinations
 date: '2008-04-09T00:05:18+00:00'
 slug: chocolate-peanut-butter-craziness
 ---
-<img src='images/uploads/2008/04/cpb_octopus1.gif' alt='chocolate peanut butter octopus' />
+<img src='/images/uploads/2008/04/cpb_octopus1.gif' alt='chocolate peanut butter octopus' />
 
 Yesterday here at The CPB Gallery, we had a little controversy over <a href="http://www.cpbgallery.com/2008/04/08/chocolate-tortilla-chips-peanut-butter-bean-dip/">peanut butter bean dip</a>, or as I like to call it "Peanut-Butter-Bean-Dip-Gate '08". For those of you who did not witness the uncouth attack on culinary creativity, I'll fill you in. 
 

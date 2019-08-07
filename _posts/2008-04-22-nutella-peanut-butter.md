@@ -4,7 +4,7 @@ title: Nutella + Peanut Butter
 date: '2008-04-22T00:05:32+00:00'
 slug: nutella-peanut-butter
 ---
-<a href="http://www.flickr.com/photos/helloinfinite/2415614557/"><img src='images/uploads/2008/04/toast_nutella.jpg' alt='Toast with nutella and peanut butter' /></a>
+<a href="http://www.flickr.com/photos/helloinfinite/2415614557/"><img src='/images/uploads/2008/04/toast_nutella.jpg' alt='Toast with nutella and peanut butter' /></a>
 
 My commute for work is a bit further than normal this week, so with no time to cook, I am all about quick ways to get my chocolate peanut butter fix. I noticed this lovely photo by flickr user <a href="http://www.flickr.com/photos/helloinfinite/">mae jane</a> and decided it was a good source of inspiration for anyone out there that thinks it takes a lot of work to acquire a homemade treat. 
 

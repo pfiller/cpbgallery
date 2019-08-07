@@ -4,7 +4,7 @@ title: Peanut Butter Chocolate Meringue Sandwiches
 date: '2008-05-01T00:05:34+00:00'
 slug: peanut-butter-chocolate-meringue-sandwiches
 ---
-<img src='images/uploads/2008/04/pb_meringue.jpg' alt='Peanut Butter Chocolate Meringue Sandwiches' />
+<img src='/images/uploads/2008/04/pb_meringue.jpg' alt='Peanut Butter Chocolate Meringue Sandwiches' />
 
 I'm going to do something a little unconventional here, maybe even a little frightening. I'm promoting a healthy recipe on The Chocolate Peanut Butter Gallery. The concept is scary for me too, but we can get through this together. And really once you get to reading the recipe you will likely find yourself hungry, not skeptical. 
 

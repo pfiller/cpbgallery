@@ -24,32 +24,32 @@ Entries are due by Halloween. Let's see whatchu got! If you want to make your ow
 
 <!--more-->
 <div class="recipe">
-<strong>Chocolate Peanut Butter Monster Brownies</strong>
-<em>Yields 12 decorated brownies</em>
-
-24 Mini Reeses Peanut Butter Cups, unwrapped
-Vanilla Buttercream Icing, <a href="http://www.cpbgallery.com/2008/05/19/peanut-butter-mm-cupcakes/">recipe here</a>
-24 Milk chocolate chips
-1 Batch of baked brownies, cooled and cut*
-Peanut Butter Icing, recipe below
-
-<strong>Special Equipment:</strong> <a href="http://www.hisandhertreasures.com/images/products/large/Tip%20233Webshot.jpg">Piping Tip #233</a> to make the "hair"
-
-<strong>1. Make the "eyes":</strong> Using an icing spatula, coat the top of each peanut butter cup with a smooth layer of vanilla icing. Top each with a chocolate chip and set aside.
-
-<strong>2. Frost the brownies:</strong> Using piping tip #233, pipe the peanut butter icing onto the cut brownies, starting at the middle and moving toward the edge, letting the "hair" hang over the edges of the brownie. Immediately top with the Reeses Peanut Butter Cup "eyes". 
-
-*I used the recipe for "The Great Brownie" in The Greyston Bakery Cookbook. If you win their contest, you'll get the recipe! This extra-chocolatey recipe called for chopped pieces of bittersweet chocolate, but I used <a href="https://www.askinosie.com/p-73-davao-dark-milk-chocolate-bar-fleur-de-sel.aspx">Askinosie Dark Milk Chocolate</a> instead, to pair better with the milk chocolate Reeses PB Cups. 
-
-<strong>Peanut Butter Icing</strong>
-<em>Recipe from <a href="http://astore.amazon.com/thechocolatpe-20/detail/0312334176">Tate's Bakeshop Cookbook</a></em>
-Yields 2 cups
-
-3/4 cup confectioner's sugar
-3/4 cup creamy peanut butter (Do not use old-fashioned or freshly ground)
-1/4 cup salted butter, room temp
-1/2 tsp vanilla
-1/4 cup heavy cream
-
+<strong>Chocolate Peanut Butter Monster Brownies</strong><br>
+<em>Yields 12 decorated brownies</em><br>
+<br>
+24 Mini Reeses Peanut Butter Cups, unwrapped<br>
+Vanilla Buttercream Icing, <a href="http://www.cpbgallery.com/2008/05/19/peanut-butter-mm-cupcakes/">recipe here</a><br>
+24 Milk chocolate chips<br>
+1 Batch of baked brownies, cooled and cut*<br>
+Peanut Butter Icing, recipe below<br>
+<br>
+<strong>Special Equipment:</strong> <a href="http://www.hisandhertreasures.com/images/products/large/Tip%20233Webshot.jpg">Piping Tip #233</a> to make the "hair"<br>
+<br>
+<strong>1. Make the "eyes":</strong> Using an icing spatula, coat the top of each peanut butter cup with a smooth layer of vanilla icing. Top each with a chocolate chip and set aside.<br>
+<br>
+<strong>2. Frost the brownies:</strong> Using piping tip #233, pipe the peanut butter icing onto the cut brownies, starting at the middle and moving toward the edge, letting the "hair" hang over the edges of the brownie. Immediately top with the Reeses Peanut Butter Cup "eyes". <br>
+<br>
+*I used the recipe for "The Great Brownie" in The Greyston Bakery Cookbook. If you win their contest, you'll get the recipe! This extra-chocolatey recipe called for chopped pieces of bittersweet chocolate, but I used <a href="https://www.askinosie.com/p-73-davao-dark-milk-chocolate-bar-fleur-de-sel.aspx">Askinosie Dark Milk Chocolate</a> instead, to pair better with the milk chocolate Reeses PB Cups.<br>
+<br>
+<strong>Peanut Butter Icing</strong><br>
+<em>Recipe from <a href="http://astore.amazon.com/thechocolatpe-20/detail/0312334176">Tate's Bakeshop Cookbook</a></em><br>
+Yields 2 cups<br>
+<br>
+3/4 cup confectioner's sugar<br>
+3/4 cup creamy peanut butter (Do not use old-fashioned or freshly ground)<br>
+1/4 cup salted butter, room temp<br>
+1/2 tsp vanilla<br>
+1/4 cup heavy cream<br>
+<br>
 Put the confectioner's sugar, peanut butter, butter and vanilla in a small bowl. With an electric mixer, beat the ingredients until they are creamy. Add the heavy cream and beat the mixture till it is soft and creamy. 
 </div>

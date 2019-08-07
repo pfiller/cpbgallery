@@ -28,41 +28,43 @@ One of the best things about this delicious recipe is that it comes together fas
 
 The recipe isn't up on the magazine's site yet, so you can find it after the break. Their site also had this feature up on their homepage last week:
 
-<img src='images/uploads/2010/02/what_are_you_craving.jpg' alt='Every Day with Rachael Ray' />
+<img src='/images/uploads/2010/02/what_are_you_craving.jpg' alt='Every Day with Rachael Ray' />
 
 You can see why I am a fan!
 
 Update: The original recipe is now posted at <a href="http://www.rachaelraymag.com/recipes/rachael-ray-magazine-recipes/sweet-spot-dessert-recipes/Peanut-Butter-Stuffed-Milk-Chocolate-Sandwich-Cookies">Everyday with Rachael Ray</a>.
 
-<!--more-->
 
 <strong>Some recipe tips:</strong>
-&#8226 You'll need to whip the eggs into submission. With my dinky hand mixer, I had to beat the egg mixture for nearly 10 minutes instead of 5 as the recipe instructed.
-&#8226 These cookies are nice and soft if you take them out early enough. Fifteen minutes should be about perfect. They'll look under-baked but they'll firm up a lot once cool.
-&#8226 Make sure that whatever peanut butter you use is one that you really love. Since you're just adding a small amount of butter, sugar and salt to it, it's the primary ingredient in the filling.
-&#8226 I used 3 oz of bittersweet chocolate in the dough because I was a little low on milk chocolate, but I'm sure they're great either way!
 
-<strong>Peanut Butter-Stuffed Milk Chocolate Sandwich Cookies</strong>
-From <a href="http://www.rachaelraymag.com/recipes/rachael-ray-magazine-recipes/sweet-spot-dessert-recipes/Peanut-Butter-Stuffed-Milk-Chocolate-Sandwich-Cookies">Everyday with Rachael Ray Magazine</a>
-Yields 8
+- You'll need to whip the eggs into submission. With my dinky hand mixer, I had to beat the egg mixture for nearly 10 minutes instead of 5 as the recipe instructed.
+- These cookies are nice and soft if you take them out early enough. Fifteen minutes should be about perfect. They'll look under-baked but they'll firm up a lot once cool.
+- Make sure that whatever peanut butter you use is one that you really love. Since you're just adding a small amount of butter, sugar and salt to it, it's the primary ingredient in the filling.
+- I used 3 oz of bittersweet chocolate in the dough because I was a little low on milk chocolate, but I'm sure they're great either way!
 
-<strong>Ingredients</strong>
-2 1/2 cups (15 oz) milk chocolate chips
-4 Tbsp unsalted butter at room temperature, divided
-1/4 cup plus 2 Tbsp flour
-1 tsp baking powder
-1/2 tsp salt, divided
-2 eggs, at room temperature
-1/2 cup granulated sugar
-1 tsp pure vanilla extract
-1/2 cup creamy peanut butter
-3 Tbsp confectioner's sugar
-
-<strong>Directions</strong>
-1. Preheat the oven to 350. Line 2 cookie sheets with parchment paper. In a medium, microwaveable bowl, melt together 2 cups chocolate chips and 2 Tbsp butter on medium power until almost melted, about 1 1/2 minutes; stir just until smooth.
-
-2. In a small bowl, whisk together the flour, baking powder and 1/4 tsp salt. Using an electric mixer, beat together the eggs, granulated sugar and vanilla at high speed until thickened and fluffy, about 5 minutes. Mix in the melted chocolate at medium speed; whisk in the flour mixture. Stir in the remaining 1/2 cup chocolate chips. Refrigerate the dough until firm enough to scoop, but still soft, 10 to 15 minutes.
-
-3. Onto each prepared pan, drop rounded Tbsps of dough 2 inches apart. Bake, switching and rotating the pans halfway through baking, until the cookies appear bubbly and still soft, about 15 minutes. Let cool completely.
-
-4. In a medium bowl, beat together the remaining 2 Tbsp butter and the peanut butter. Sift in the confectioner's sugar and the remaining 1/4 tsp salt; beat until fluffy. On the flat side of each of 8 cookies, spread about 1 1/2 Tbsp of the peanut butter mixture; sandwich with the remaining cookies.
+<div class="recipe">
+<strong>Peanut Butter-Stuffed Milk Chocolate Sandwich Cookies</strong><br>
+From <a href="http://www.rachaelraymag.com/recipes/rachael-ray-magazine-recipes/sweet-spot-dessert-recipes/Peanut-Butter-Stuffed-Milk-Chocolate-Sandwich-Cookies">Everyday with Rachael Ray Magazine</a><br>
+Yields 8<br>
+<br>
+<strong>Ingredients</strong><br>
+2 1/2 cups (15 oz) milk chocolate chips<br>
+4 Tbsp unsalted butter at room temperature, divided<br>
+1/4 cup plus 2 Tbsp flour<br>
+1 tsp baking powder<br>
+1/2 tsp salt, divided<br>
+2 eggs, at room temperature<br>
+1/2 cup granulated sugar<br>
+1 tsp pure vanilla extract<br>
+1/2 cup creamy peanut butter<br>
+3 Tbsp confectioner's sugar<br>
+<br>
+<strong>Directions</strong><br>
+1. Preheat the oven to 350. Line 2 cookie sheets with parchment paper. In a medium, microwaveable bowl, melt together 2 cups chocolate chips and 2 Tbsp butter on medium power until almost melted, about 1 1/2 minutes; stir just until smooth.<br>
+<br>
+2. In a small bowl, whisk together the flour, baking powder and 1/4 tsp salt. Using an electric mixer, beat together the eggs, granulated sugar and vanilla at high speed until thickened and fluffy, about 5 minutes. Mix in the melted chocolate at medium speed; whisk in the flour mixture. Stir in the remaining 1/2 cup chocolate chips. Refrigerate the dough until firm enough to scoop, but still soft, 10 to 15 minutes.<br>
+<br>
+3. Onto each prepared pan, drop rounded Tbsps of dough 2 inches apart. Bake, switching and rotating the pans halfway through baking, until the cookies appear bubbly and still soft, about 15 minutes. Let cool completely.<br>
+<br>
+4. In a medium bowl, beat together the remaining 2 Tbsp butter and the peanut butter. Sift in the confectioner's sugar and the remaining 1/4 tsp salt; beat until fluffy. On the flat side of each of 8 cookies, spread about 1 1/2 Tbsp of the peanut butter mixture; sandwich with the remaining cookies.<br>
+</div>

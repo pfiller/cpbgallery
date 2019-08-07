@@ -4,7 +4,7 @@ title: 'Solomon''s Gourmet Cookies: Chocolate Peanut Butter Chip'
 date: '2008-05-22T00:05:09+00:00'
 slug: solomons-gourmet-cookies-chocolate-peanut-butter-chip
 ---
-<img src='images/uploads/2008/05/solomons.jpg' alt='Solomons Gourmet Cookies' class="yellowborder"/>
+<img src='/images/uploads/2008/05/solomons.jpg' alt='Solomons Gourmet Cookies' class="yellowborder"/>
 
 Solomon's is a lovely bakeshop that opened up for business in January 2003 by Adam and Jason Tenenbaum. All of their cookie, brownie and bar recipes are from the kitchen of their granny, Frieda Solomon. They even have a fun <a href="http://www.solomonscookies.com/history.html">timeline</a> on their site which documents the journey all the way from Frieda's childhood to the birth of Solomon's Gourmet Cookies. Isn't that sweet!
 

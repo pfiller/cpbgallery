@@ -4,7 +4,7 @@ title: Bear Naked Heavenly Chocolate & Peanut Butter Granolas Review
 date: '2008-03-16T00:05:22+00:00'
 slug: bear-naked-heavenly-chocolate-peanut-butter-granolas
 ---
-<img src='images/uploads/2008/03/bearnaked_cpb.jpg' alt='bear naked granola' class="yellowborder" />
+<img src='/images/uploads/2008/03/bearnaked_cpb.jpg' alt='bear naked granola' class="yellowborder" />
 
 I was excited to find out that <a href="http://www.bearnaked.com/">Bear Naked</a> released <a href="http://store.bearnaked.com/detail.aspx?catid=1&scid=29">chocolate</a> and <a href="http://store.bearnaked.com/detail.aspx?catid=1&scid=22">peanut butter</a> flavored granolas. I eat cereal almost every morning and love having hints of chocolate and peanut butter mixed in. 
 

@@ -4,7 +4,7 @@ title: Happy Halloween!
 date: '2009-10-31T09:00:56+00:00'
 slug: happy-halloween
 ---
-<a href="http://www.flickr.com/photos/kstar810/4058523157/"><img src='images/uploads/2009/10/pumpkin_face4.jpg' alt='Pumpkin Face' /></a>
+<a href="http://www.flickr.com/photos/kstar810/4058523157/"><img src='/images/uploads/2009/10/pumpkin_face4.jpg' alt='Pumpkin Face' /></a>
 
 Have fun building up your sweets stash today! Remember to barter for chocolate peanut butter treats!
 

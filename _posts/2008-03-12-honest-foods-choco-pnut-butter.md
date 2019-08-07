@@ -4,7 +4,7 @@ title: 'Honest Foods: Choco P''nut Butter Bar Review'
 date: '2008-03-12T09:36:21+00:00'
 slug: honest-foods-choco-pnut-butter
 ---
-<img src='images/uploads/2008/03/honest_cpb.jpg' alt='honest' class="yellowborder" />
+<img src='/images/uploads/2008/03/honest_cpb.jpg' alt='honest' class="yellowborder" />
 
 I've been on vacation the last few days and packed a bunch of protein bars for the trip. This Honest Food Bar was one of the many I've tasted.
 
@@ -22,6 +22,6 @@ This bar isn't better or worse than the Cliff or Odwalla, it's just a different 
 
 My only complaint about the bar, which is just about a general complaint for most granola/protein/energy bars is that I wish it had a touch less sugar in it (it has 16g of sugar). Though to be fair, I'm eating it in the morning and sugar tends to hit me a bit harder earlier in the day as opposed to having this for an afternoon snack. It's a small complaint and one that I'm willing to forgive. This is a good bar.
 
-<img src='images/uploads/2008/03/honest_01.jpg' alt='honest01' class="yellowborder" />
+<img src='/images/uploads/2008/03/honest_01.jpg' alt='honest01' class="yellowborder" />
 
 <strong>*Edit:</strong> Since writing this review, I have tried the Cran Lemon Zest, Farmer's Trail Mix and Apple Spice Bars as well as the Pomegranate Walnut Crisp and Maple Almond Crunch Granola Planks. This "research" has proven that Honest Foods is great at what they do. Every one of the above mentioned products was delicious and disappeared all too quickly from my kitchen, but I think the stand-outs were the Apple Spice Bars (big chunks of apple - yum!) and the Pomegranate Walnut Crisp Granola Plank. The Granola Planks are great straight out of the box or in a bowl of milk. I highly recommend that you try Honest Foods Products if you haven't yet!

@@ -4,7 +4,7 @@ title: Harold Import Inc's Peanut Butter Mixer
 date: '2008-04-10T00:05:37+00:00'
 slug: harold-import-incs-peanut-butter-mixer
 ---
-<img src='images/uploads/2008/04/smuckers2.gif' alt='peanut butter mixer' class="yellowborder" />
+<img src='/images/uploads/2008/04/smuckers2.gif' alt='peanut butter mixer' class="yellowborder" />
 
 In honor of "Crazy Ideas Week" here in chocolate peanut butter land, take a gander at this crazy gadget. You know when you open a jar of natural peanut butter and the oil has separated from the blended peanuts? Well you can stop using a butter knife at an attempt to whip it back to submission and purchase this fun looking device. (see a real pic of it <a href="http://www.fantes.com/images/121551nuts.jpg">here</a>) It goes by the fantastic name "<a href="http://www.lehmans.com/jump.jsp?itemType=PRODUCT&itemID=5912">Grandpa Witmer's Old Fashioned Peanut Butter Mixer</a>". Because while Alton Brown and his hatred of "<a href="http://catalog.fullpond.com/altonbrown/productdetail.aspx?CatalogName=General&CategoryName=All+Merchandise&ProductID=ABRN+AB1005">kitchen uni-taskers</a>" might not approve, wouldn't grandpas everywhere just love this thing? You simply replace the lid of your peanut butter jar with this lid and turn the handle.
 

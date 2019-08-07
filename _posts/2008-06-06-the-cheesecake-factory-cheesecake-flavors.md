@@ -4,7 +4,7 @@ title: The Cheesecake Factory Cheesecake Flavors
 date: '2008-06-06T00:05:57+00:00'
 slug: the-cheesecake-factory-cheesecake-flavors
 ---
-<img src='images/uploads/2008/05/cheesecake_factory.jpg' alt='Cheesecake Factory Flavors' />
+<img src='/images/uploads/2008/05/cheesecake_factory.jpg' alt='Cheesecake Factory Flavors' />
 
 I owe The Cheesecake Factory a big thank you. 
 

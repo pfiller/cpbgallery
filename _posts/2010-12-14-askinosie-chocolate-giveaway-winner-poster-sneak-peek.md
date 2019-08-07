@@ -12,8 +12,8 @@ It's time to announce the winner of our fabulous <a href="http://www.cpbgallery.
 
 And the lucky number is #17!
 
-Which means our winners are...
-<strong>1st Place:</strong> Kathleen for guessing 17 right on the money.
+Which means our winners are...  
+<strong>1st Place:</strong> Kathleen for guessing 17 right on the money.  
 <strong>2nd Place:</strong> Alicia for guessing 15.
 
 Below is a sneak peek of the full soon-to-be-released silkscreened, limited edition poster. The proceeds from this poster will be donated to Askinosie's amazing educational program, <a href="http://www.askinosie.com/Chocolate%20University.aspx">Chocolate University</a>. I'll let you know when it's available incase anyone is interested in helping the cause (and getting a sweet poster in the process!). 

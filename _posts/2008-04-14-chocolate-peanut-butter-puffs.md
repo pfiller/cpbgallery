@@ -4,7 +4,7 @@ title: Chocolate Peanut Butter Puffs
 date: '2008-04-14T00:05:28+00:00'
 slug: chocolate-peanut-butter-puffs
 ---
-<a href="http://flickr.com/photos/kstar810/2411746957/"><img src='images/uploads/2008/04/puff_02.jpg' alt='Chocolate Peanut Butter Puffs' /></a>
+<a href="http://flickr.com/photos/kstar810/2411746957/"><img src='/images/uploads/2008/04/puff_02.jpg' alt='Chocolate Peanut Butter Puffs' /></a>
 
 Do these look like they took two minutes to make? I sure don't think so. But they did!
 

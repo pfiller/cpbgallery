@@ -4,7 +4,7 @@ title: The National Peanut Board's Peanut Tasting Event in NYC
 date: '2009-03-10T17:09:27+00:00'
 slug: the-national-peanut-boards-peanut-tasting-event-in-nyc
 ---
-<a href="http://www.nationalpeanutboard.org/index.php"><img src='images/uploads/2009/03/national_peanut_board_021.jpg' alt='National Peanut Board Event' /></a>
+<a href="http://www.nationalpeanutboard.org/index.php"><img src='/images/uploads/2009/03/national_peanut_board_021.jpg' alt='National Peanut Board Event' /></a>
 
 On Wednesday March 4th, the <a href="http://www.nationalpeanutboard.org/">National Peanut Board</a> held a tasting event in NYC. Sometimes I really love living in NYC because where else would there be an event to honor peanuts during which they serve only foods made with peanuts? 
 
@@ -16,7 +16,7 @@ Some highlights of the event definitely included Suvir's creations which were th
 
 I have an embarrassing lack of pictures from this event. I know, what a bad blogger / nerd I am. Will drawings do? This is a rundown of the yummy peanut butter dishes we tasted:
 
-<img src='images/uploads/2009/03/peanut_tasting_nyc.gif' alt='National Peanut Board Tasting' />
+<img src='/images/uploads/2009/03/peanut_tasting_nyc.gif' alt='National Peanut Board Tasting' />
 
 Here are some translations:
 - <strong>bo bia</strong> = shrimp jicama rolls with peanuts, fresh basil and peanut sauce

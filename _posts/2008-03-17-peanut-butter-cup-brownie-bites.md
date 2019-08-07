@@ -4,7 +4,7 @@ title: Peanut Butter Cup Brownie Bites
 date: '2008-03-17T00:05:31+00:00'
 slug: peanut-butter-cup-brownie-bites
 ---
-<a href="http://www.flickr.com/photos/mivi/2334173027/"><img src='images/uploads/2008/03/pbbrowniecups.jpg' alt='pb brownie cups' /></a>
+<a href="http://www.flickr.com/photos/mivi/2334173027/"><img src='/images/uploads/2008/03/pbbrowniecups.jpg' alt='pb brownie cups' /></a>
 
 My last two blog posts about <a href="http://www.cpbgallery.com/?p=57">granola</a> and a <a href="http://www.cpbgallery.com/?p=67">superfood protein bar</a> have been fairly health-conscious, so how about something indulgent?
 

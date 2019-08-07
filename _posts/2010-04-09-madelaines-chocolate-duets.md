@@ -4,7 +4,7 @@ title: Madelaine's Chocolate Duets
 date: '2010-04-09T09:00:57+00:00'
 slug: madelaines-chocolate-duets
 ---
-<a href="http://www.duetsny.com/"><img src='images/uploads/2010/04/madelaine_duets_packaging.jpg' alt='Madelaine Chocolate Duets Packaging' /></a>
+<a href="http://www.duetsny.com/"><img src='/images/uploads/2010/04/madelaine_duets_packaging.jpg' alt='Madelaine Chocolate Duets Packaging' /></a>
 
 There's a reason that I decided to write a blog about two flavors instead of just one: I like desserts with different layers and textures. Layers make each bite exciting and a little different. <a href="http://www.duetsny.com/">Madelaine's new Duets chocolates</a> are truffles with two different flavored fillings sandwiched together, creating a fun mixed flavor sensation. Given my love of multi-layered treats it's no surprise that I enjoyed these!
 

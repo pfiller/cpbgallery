@@ -4,7 +4,7 @@ title: Serendipity's Frozen Peanut Butter Chocolate
 date: '2008-07-15T07:45:46+00:00'
 slug: serendipitys-frozen-peanut-butter-chocolate
 ---
-<img src='images/uploads/2008/07/serendipity3_hot_chocolate.jpg' alt='Serendipity 3 Hot Chocolate' class="yellowborder" />
+<img src='/images/uploads/2008/07/serendipity3_hot_chocolate.jpg' alt='Serendipity 3 Hot Chocolate' class="yellowborder" />
 
 So there's this little thing called "Frozen Hot Chocolate" at this little place called "Serendipity 3" in this little town called New York City. Maybe you've heard of it.
 

@@ -4,7 +4,7 @@ title: Chocolate Covered... Potato Chips?
 date: '2008-02-27T05:35:05+00:00'
 slug: chocolate-covered-potato-chips
 ---
-<a href="http://www.flickr.com/photos/kstar810/376443558/in/set-72157603817944040/"><img src='images/uploads/2008/02/pb_chip.jpg' alt='pbchip' /></a>
+<a href="http://www.flickr.com/photos/kstar810/376443558/in/set-72157603817944040/"><img src='/images/uploads/2008/02/pb_chip.jpg' alt='pbchip' /></a>
 
 When I brought these into work one day my co-workers seemed to think I was a little nuts. But maybe the comfort of knowing they'd eaten other, more normal treats I'd created encouraged them to give these a shot. High risk, high reward, right? They were all instantly addicted. The night before Valentine's Day, I was up till 5 in the morning putting together boxes of these so people in the office would have something different to give to their significant others. 
 

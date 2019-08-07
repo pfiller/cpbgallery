@@ -4,7 +4,7 @@ title: Flourless Peanut Butter Chocolate Chunk Cookies
 date: '2008-05-28T00:05:19+00:00'
 slug: flourless-peanut-butter-chocolate-chunk-cookies
 ---
-<a href="http://www.recchiuti.com/cgi-bin/recchiuti/recipe_detail.html?recipe=02"><img src='images/uploads/2008/05/flourless_cookie.jpg' alt='Flourless Cookie' /></a>
+<a href="http://www.recchiuti.com/cgi-bin/recchiuti/recipe_detail.html?recipe=02"><img src='/images/uploads/2008/05/flourless_cookie.jpg' alt='Flourless Cookie' /></a>
 
 This recipe for Flourless Peanut Butter Chocolate Chunk Cookies is from <a href="http://www.recchiuti.com/cgi-bin/recchiuti/index.html">Recchiuti Confections</a> of San Francisco. I really enjoy it when chocolate companies include recipes on their websites, because it seems that of all people they know their chocolate (or chocolate in general) best and therefore know the best ways to put it to use. Recchiuti shares quite a few delicious sounding recipes which also includes a divine looking <a href="http://www.recchiuti.com/cgi-bin/recchiuti/recipe_detail.html?recipe=23">Valrhona Chocolate Bread Pudding</a>.
 

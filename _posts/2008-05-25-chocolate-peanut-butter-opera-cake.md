@@ -4,7 +4,7 @@ title: Chocolate Peanut Butter Opera Cake
 date: '2008-05-25T00:05:02+00:00'
 slug: chocolate-peanut-butter-opera-cake
 ---
-<img src='images/uploads/2008/05/chocolate_opera_cake.jpg' alt='Chocolate Opera Cake' />
+<img src='/images/uploads/2008/05/chocolate_opera_cake.jpg' alt='Chocolate Opera Cake' />
 
 That's seven. Count 'em, seven luscious layers in this incredible <a href="http://www.chocolatetradingco.com/magazine.asp?section=28&id=75">Chocolate Peanut Butter Opera Cake</a>. And as if all those layers weren't enough, the recipe even includes an espresso sauce to enjoy with it. I don't know when your next birthday is, but go ahead and guilt someone into making this for you. Really, do some groveling, kiss some feet... just leave your dignity at the door and make it happen.
 

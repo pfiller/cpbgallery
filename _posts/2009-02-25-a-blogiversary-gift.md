@@ -4,7 +4,7 @@ title: A Blogiversary Gift
 date: '2009-02-25T08:47:08+00:00'
 slug: a-blogiversary-gift
 ---
-<img src='images/uploads/2009/02/blog_awards.jpg' alt='Blog Awards' class="yellowborder"/>
+<img src='/images/uploads/2009/02/blog_awards.jpg' alt='Blog Awards' class="yellowborder"/>
 
 What better way to celebrate CPB's one year b-day than with some awards! I've seen cute little awards like these all over other people's blogs but have never received one myself. I am honored and humbled that <a href="http://sweettreatsdani.blogspot.com/2009/02/my-first-blog-awards.html">Sweet Treats Dani</a> chose me and am happy to spread the love to other blogs that I very much enjoy.
 
