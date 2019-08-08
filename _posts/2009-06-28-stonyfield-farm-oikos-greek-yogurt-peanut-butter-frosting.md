@@ -22,20 +22,18 @@ FYI, it should be mentioned that in the same way that you have to love cream che
 
 I hope you try Stonyfield Farm's new <a href="http://www.OikosOrganic.com/">Oikos Organic Greek Yogurt</a> and enjoy it as a healthy alternative for this recipe and many others!
 
-Recipe after the break!
-
-<!--more-->
-
-<strong>Oikos Greek Yogurt Peanut Butter Frosting</strong>
-(makes enough for 24 regular cupcakes)
-
-<strong>Ingredients</strong>
-2 (5.3 oz) containers <a href="http://www.OikosOrganic.com/greekyogurt/">Stonyfield Farm Oikos Vanilla Greek Yogurt</a>
-1 Tbsp honey
-1/2 tsp ground cinnamon
-1/2 cup smooth peanut butter (I used Jif)
-3/4 cup powdered sugar
-
-<strong>Directions</strong>
+<div class="recipe">
+<strong>Oikos Greek Yogurt Peanut Butter Frosting</strong><br>
+(makes enough for 24 regular cupcakes)<br>
+<br>
+<strong>Ingredients</strong><br>
+2 (5.3 oz) containers <a href="http://www.OikosOrganic.com/greekyogurt/">Stonyfield Farm Oikos Vanilla Greek Yogurt</a><br>
+1 Tbsp honey<br>
+1/2 tsp ground cinnamon<br>
+1/2 cup smooth peanut butter (I used Jif)<br>
+3/4 cup powdered sugar<br>
+<br>
+<strong>Directions</strong><br>
 Whisk the yogurt, peanut butter and honey until all ingredients are incorporated. Add the cinnamon. Sift in the powdered sugar and whisk until incorporated. Top each cupcake with about a tablespoon of the frosting. Refrigerate cupcakes for up to 3 days.
+</div>
 

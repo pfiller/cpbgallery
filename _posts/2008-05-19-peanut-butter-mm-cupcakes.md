@@ -22,47 +22,47 @@ Every now and again I like to use up things that are in my pantry so that nothin
 
 <a href="http://flickr.com/photos/kstar810/2504192250/"><img src="http://farm3.static.flickr.com/2026/2504192250_0556a5de1d.jpg?v=0" alt="Black and White Cupcakes" /></a>
 
-Recipes are after the break. These are my stand-by buttercream recipes. They have been used many, many times in my kitchen and I highly recommend them!
+These are my stand-by buttercream recipes. They have been used many, many times in my kitchen and I highly recommend them!
 
-<!--more-->
-
-<strong>Cupcakes</strong>
-1 box Betty Crocker Super Moist Yellow Cake Mix
-
-1. Prepare the mix according to package directions. Pour it into lined muffin tins and bake in a 375 oven for 16-18 minutes. Set aside to cool completely. Yields 18-20 cupcakes.
-
----
-
-<strong>Chocolate Buttercream Icing</strong>
-(from Elinor Klivans <a href="http://astore.amazon.com/thechocolatpe-20/detail/0811845451/104-2473410-6885568">Cupcakes!</a>, pg. 38)
-
-*Note: If you make the full recipe for this you will have enough to cover all of your cupcakes. However, if you are planning on doing some chocolate, some vanilla and some black & whites as I did, I'd recommend halving the recipe.
-
-<strong>Ingredients</strong>
-3 oz unsweetened chocolate (I used Scharffen Berger)
-2 1/2 cups powdered sugar
-1 1/2 Tbsp unsweetened dutch process cocoa
-1 1/2 cups (3 sticks) unsalted butter, room temperature
-1 tsp vanilla extract
-1/2 cup heavy whipping cream, at room temperature
-
-<strong>Directions</strong>
-1. Melt the chocolate in a double boiler until it is smooth. Remove and set aside to cool slightly.
-2. Sift the powdered sugar and cocoa powder into a large bowl. Add the butter, and beat with an electric mixer on low speed for about 2 minutes. First the mixture will look crumbly, but then it will form a smooth mass. Beat in the melted chocolate. 
-3. Add the vanilla and cream, mixing to incorporate. On medium speed, beat the frosting for at least 3 minutes, until it looks smooth and creamy and the color lightens.
-
----
-
-<strong>Vanilla Buttercream Icing</strong>
-(I can't remember where I found this... it's been a long time)
-
-*Note: If you are making some chocolate, some vanilla and some black & whites as I did, I'd recommend making the recipe as stated. However if you plan on making a full batch of vanilla iced cupcakes, you will need to make more.
-
-<strong>Ingredients</strong>
-3 cups sifted confectioners' sugar
-1 1/2 sticks unsalted butter
-1 1/2 tsp vanilla extract
-2 1/2 - 3 Tbsp milk
-
-<strong>Directions</strong>
+<div class="recipe">
+<strong>Cupcakes</strong><br>
+1 box Betty Crocker Super Moist Yellow Cake Mix<br>
+<br>
+Prepare the mix according to package directions. Pour it into lined muffin tins and bake in a 375 oven for 16-18 minutes. Set aside to cool completely. Yields 18-20 cupcakes.<br>
+<br>
+<hr>
+<br>
+<strong>Chocolate Buttercream Icing</strong><br>
+(from Elinor Klivans <a href="http://astore.amazon.com/thechocolatpe-20/detail/0811845451/104-2473410-6885568">Cupcakes!</a>, pg. 38)<br>
+<br>
+*Note: If you make the full recipe for this you will have enough to cover all of your cupcakes. However, if you are planning on doing some chocolate, some vanilla and some black & whites as I did, I'd recommend halving the recipe.<br>
+<br>
+<strong>Ingredients</strong><br>
+3 oz unsweetened chocolate (I used Scharffen Berger)<br>
+2 1/2 cups powdered sugar<br>
+1 1/2 Tbsp unsweetened dutch process cocoa<br>
+1 1/2 cups (3 sticks) unsalted butter, room temperature<br>
+1 tsp vanilla extract<br>
+1/2 cup heavy whipping cream, at room temperature<br>
+<br>
+<strong>Directions</strong><br>
+1. Melt the chocolate in a double boiler until it is smooth. Remove and set aside to cool slightly.<br>
+2. Sift the powdered sugar and cocoa powder into a large bowl. Add the butter, and beat with an electric mixer on low speed for about 2 minutes. First the mixture will look crumbly, but then it will form a smooth mass. Beat in the melted chocolate. <br>
+3. Add the vanilla and cream, mixing to incorporate. On medium speed, beat the frosting for at least 3 minutes, until it looks smooth and creamy and the color lightens.<br>
+<br>
+<hr>
+<br>
+<strong>Vanilla Buttercream Icing</strong><br>
+(I can't remember where I found this... it's been a long time)<br>
+<br>
+*Note: If you are making some chocolate, some vanilla and some black & whites as I did, I'd recommend making the recipe as stated. However if you plan on making a full batch of vanilla iced cupcakes, you will need to make more.<br>
+<br>
+<strong>Ingredients</strong><br>
+3 cups sifted confectioners' sugar<br>
+1 1/2 sticks unsalted butter<br>
+1 1/2 tsp vanilla extract<br>
+2 1/2 - 3 Tbsp milk<br>
+<br>
+<strong>Directions</strong><br>
 Cream sugar, butter and vanilla. Add the milk and beat until fluffy. If frosting is too sweet add a little more milk. If you add a lot of milk be sure to keep your cupcakes in the fridge because the icing might sag if they get too warm.
+</div>

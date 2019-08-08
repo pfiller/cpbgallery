@@ -20,42 +20,42 @@ My taste-tester thought these were a tad dry. I didn't think so at first but agr
 
 <a href="http://flickr.com/photos/kstar810/2493077717/in/photostream/"><img src="http://farm4.static.flickr.com/3173/2493077717_f7381d736b.jpg?v=0" alt="Chocolate Peanut Butter Sandwich Cookies" /></a>
 
-Recipe (with minor modifications) after the break!
+Here's the recipe with some minor modifications:
 
-<!--more-->
-
-<strong>Two minor modifications:</strong> I changed the order of the steps of this recipe. The original instructs you to make the filling <em>before</em> the cookies, but the ganache thickens up right away and if you leave it out too long, the very soft cookies can't handle the very thick filling and they break when you make the sandwiches. Even with using the filling right away, my last few sandwich cookies broke. And I was gentle, I swear! So leave that step for the end, as I have it in the modified version below.
-
-I also increased the amount of filling in the ingredients because it definitely did not make enough to spread two teaspoons worth on each cookie. I was scraping out every last bit of ganache that was hiding in my mixing bowl, and could barely squeak out 1 - 1 1/2 tsp for each. 
-
-<strong>Chocolate Peanut Butter Sandwich Cookies</strong>
-From Everyday Food, June 2008
-Yields 15 Sandwiches
-
-<strong>Ingredients</strong>
-1 cup all purpose flour (spooned and leveled)
-1/4 tsp baking soda
-1/4 tsp salt
-6 oz semisweet chocolate, chopped*
-3 Tbsp heavy cream
-1/2 cup (1 stick) unsalted butter, softened
-1/3 cup creamy peanut butter**
-1/3 cup packed light-brown sugar
-
-*I used half semisweet and half bittersweet
-**I used Jif & wouldn't recommend natural pb
-
-<strong>Directions</strong>
-1. Preheat the oven to 350, with racks in the upper and lower thirds. In a medium bowl, whisk together flour, baking soda and salt, set aside.
-
-2. Using an electric mixer on high speed, beat butter, peanut butter and sugar in a large bowl until light and fluffy. Reduce speed to low; add flour mixture and mix until just blended (do not overmix). 
-
-3. Drop dough by heaping teaspoons onto two parchment lined baking sheets, about 1 1/2 inches apart. With the bottom of a damp glass, lightly flatten each mound of dough into a 2-inch round. Bake until golden around edges, 12 to 14 minutes, rotating sheets halfway through*. Transfer cookies immediately to a wire rack to cool completely.
-
-4. Make the filling: Place chocolate in a medium heatproof bowl set over (not in) a saucepan of simmering water; stir frequently until almost melted. Remove from heat; stir until completely melted. Stir in cream; set aside if necessary, to cool and thicken.
-
-5. With a small offset spatula or small spoon, spread bottom half of the cookies with two teaspoons filling each; sandwich with remaining cookies, pressing gently to spread filling to the edge. Let set for 15 minutes before serving. 
-
-To store, refrigerate cookies up to 2 days. *I actually kept mine in a tin, out of the fridge and 5 days later they were still delicious. I actually think unlike most cookies that get worse with time, these got better. The extremely soft crumbly cookies firmed up just a tiny bit. Delicious.
-
+<div class="recipe">
+<strong>Two minor modifications:</strong> I changed the order of the steps of this recipe. The original instructs you to make the filling <em>before</em> the cookies, but the ganache thickens up right away and if you leave it out too long, the very soft cookies can't handle the very thick filling and they break when you make the sandwiches. Even with using the filling right away, my last few sandwich cookies broke. And I was gentle, I swear! So leave that step for the end, as I have it in the modified version below.<br>
+<br>
+I also increased the amount of filling in the ingredients because it definitely did not make enough to spread two teaspoons worth on each cookie. I was scraping out every last bit of ganache that was hiding in my mixing bowl, and could barely squeak out 1 - 1 1/2 tsp for each. <br>
+<br>
+<strong>Chocolate Peanut Butter Sandwich Cookies</strong><br>
+From Everyday Food, June 2008<br>
+Yields 15 Sandwiches<br>
+<br>
+<strong>Ingredients</strong><br>
+1 cup all purpose flour (spooned and leveled)<br>
+1/4 tsp baking soda<br>
+1/4 tsp salt<br>
+6 oz semisweet chocolate, chopped*<br>
+3 Tbsp heavy cream<br>
+1/2 cup (1 stick) unsalted butter, softened<br>
+1/3 cup creamy peanut butter**<br>
+1/3 cup packed light-brown sugar<br>
+<br>
+*I used half semisweet and half bittersweet<br>
+**I used Jif & wouldn't recommend natural pb<br>
+<br>
+<strong>Directions</strong><br>
+1. Preheat the oven to 350, with racks in the upper and lower thirds. In a medium bowl, whisk together flour, baking soda and salt, set aside.<br>
+<br>
+2. Using an electric mixer on high speed, beat butter, peanut butter and sugar in a large bowl until light and fluffy. Reduce speed to low; add flour mixture and mix until just blended (do not overmix). <br>
+<br>
+3. Drop dough by heaping teaspoons onto two parchment lined baking sheets, about 1 1/2 inches apart. With the bottom of a damp glass, lightly flatten each mound of dough into a 2-inch round. Bake until golden around edges, 12 to 14 minutes, rotating sheets halfway through*. Transfer cookies immediately to a wire rack to cool completely.<br>
+<br>
+4. Make the filling: Place chocolate in a medium heatproof bowl set over (not in) a saucepan of simmering water; stir frequently until almost melted. Remove from heat; stir until completely melted. Stir in cream; set aside if necessary, to cool and thicken.<br>
+<br>
+5. With a small offset spatula or small spoon, spread bottom half of the cookies with two teaspoons filling each; sandwich with remaining cookies, pressing gently to spread filling to the edge. Let set for 15 minutes before serving. <br>
+<br>
+To store, refrigerate cookies up to 2 days. *I actually kept mine in a tin, out of the fridge and 5 days later they were still delicious. I actually think unlike most cookies that get worse with time, these got better. The extremely soft crumbly cookies firmed up just a tiny bit. Delicious.<br>
+<br>
 *They aren't kidding when they say to rotate them. I forgot to do this for my first batch and the cookies in the back of the oven came out significantly darker. My cookies were also done in 11 1/2 minutes.
+</div>

@@ -52,66 +52,66 @@ Thanks to Brooklyn Kitchen for the sweet prizes and for hosting such a great eve
 
 If you're interested in more pics from the Cookoff, I have some more posted on <a href="http://www.flickr.com/photos/kstar810/sets/72157617942862663/">flickr</a>. Thanks to Milan and Kano for coming to support the team and for the lovely photos!
 
-And now for the recipe! I'm not going to lie to you - these cupcakes take quite a bit of time to make, but man are they worth it. It's without question one of the best cupcakes I've ever made and I hope you enjoy it! Recipe after the break.
+And now for the recipe! I'm not going to lie to you - these cupcakes take quite a bit of time to make, but man are they worth it. It's without question one of the best cupcakes I've ever made and I hope you enjoy it!
 
-<!--more-->
-
-<strong>The A-Rod Cupcake</strong>
-<em>The A-Rod is a chocolate cupcake filled with marshmallow fluff and topped with a layer of milk chocolate ganache, a peanut butter cookie, and a layer of peanut butter ganache. It's a fluffernutter cupcake on steroids.</em>
-
-Yield: 18 cupcakes
-
-<strong>Ingredients</strong>
-
-<strong>Chocolate Cupcakes</strong>
-3 ounces unsweetened chocolate, chopped 
-1 cup unbleached all-purpose flour 
-1/2 tsp baking powder 
-1/2 tsp baking soda 
-1/4 tsp salt 
-1/2 cup (1 stick) unsalted butter, at room temperature 
-1 1/4 cups sugar 
-2 large eggs 
-1 tsp vanilla extract 
-1/2 cup sour cream 
-1/2 cup water
-
-<strong>Filling</strong>
-2 cups Marshmallow Fluff
-
-<strong>Milk Chocolate Ganache</strong>
-1 1/2 cups milk chocolate chips (I used Ghiradelli)
-3/8 cup heavy whipping cream
-1 1/2 Tbsp butter
-
-<strong>Peanut Butter Cookies</strong>
-1 bag Betty Crocker Peanut Butter Cookie Mix (17.5 oz - makes 3 dozen 2-inch cookies)
-1 egg
-3 Tbsp oil
-1 Tbsp water
-
-<strong>Peanut Butter Ganache</strong>
-1 1/2 cups peanut butter chips
-3/8 cup heavy whipping cream
-3 T smooth peanut butter
-1 1/2 Tbsp butter
-
-<strong>Directions</strong>
-
-1. <strong>Make the chocolate cupcakes:</strong> Position rack in the middle of oven. Preheat oven to 350°F. Line 12 muffin tin cups with paper liners.
-
-2. Put chocolate in heatproof bowl or the top of a double boiler and place it over, but not touching, a saucepan of barely simmering water or the bottom of the double boiler. Stir until chocolate is melted. Remove from the water and set aside.
-
-3. Sift the flour, baking powder, baking soda, and salt into a medium bowl and set aside. In a large bowl, using an electric mixer on medium speed, beat the butter and sugar until smoothly blended, about 2 minutes. Stop the mixer and scrape the sides of the bowl as needed. On low speed, mix in the melted chocolate. On medium speed, add the eggs one at a time, mixing until each is blended. Add the vanilla and beat until the mixture looks creamy, about 1 minute. Mix in the sour cream until no white streaks remain. On low speed, add half of the flour mixture, mixing just to incorporate it. Mix in the water. Mix in the remaining flour mixture until it is incorporated and the batter looks smooth.
-
-4. Fill each liner with a generous 1/3 cup of batter to just below the top of the liner. Bake until the tops feel firm and a toothpick inserted in the center comes out clean, about 20 minutes. Cool the cupcakes for 10 minutes in the pan on a wire rack. Remove the cupcakes from the pan onto a wire rack and let cool completely.
-
-5. While chocolate cupcakes are cooling, prepare the peanut butter cookies according to package directions. Set aside and let cookies cool completely before making the milk chocolate ganache.
-
-6. <strong>Fill the cupcakes:</strong> Scoop 1 teaspoon of dough out of the center of each cupcake; discard (or eat). Fill a large ziplock bag with marshmallow fluff, snip the tip off and pipe it into the center of each cupcake. Use a spoon to separate the fluff from the bag as you go. Pipe about a teaspoon of fluff onto each cupcake. It will settle and flatten out into the cake's crevice by the time you're done making the milk chocolate ganache.
-
-7. <strong>Make the milk chocolate ganache:</strong> Add the heavy whipping cream and butter to a double boiler and gently heat until the mixture is hot and bubbling slightly at the edges, but not boiling. Take it off the heat and add the milk chocolate chips in an even layer; let sit for 3-5 minutes. Whisk until smooth. Let the ganache sit for a few minutes until it thickens a little, then apply about a tablespoon of ganache to each cupcake. Let them sit for a minute, then before the ganache completely sets, top each cupcake with a cool peanut butter cookie.
-
+<div class="recipe">
+<strong>The A-Rod Cupcake</strong><br>
+<em>The A-Rod is a chocolate cupcake filled with marshmallow fluff and topped with a layer of milk chocolate ganache, a peanut butter cookie, and a layer of peanut butter ganache. It's a fluffernutter cupcake on steroids.</em><br>
+<br>
+Yield: 18 cupcakes<br>
+<br>
+<strong>Ingredients</strong><br>
+<br>
+<strong>Chocolate Cupcakes</strong><br>
+3 ounces unsweetened chocolate, chopped <br>
+1 cup unbleached all-purpose flour <br>
+1/2 tsp baking powder <br>
+1/2 tsp baking soda <br>
+1/4 tsp salt <br>
+1/2 cup (1 stick) unsalted butter, at room temperature <br>
+1 1/4 cups sugar <br>
+2 large eggs <br>
+1 tsp vanilla extract <br>
+1/2 cup sour cream <br>
+1/2 cup water<br>
+<br>
+<strong>Filling</strong><br>
+2 cups Marshmallow Fluff<br>
+<br>
+<strong>Milk Chocolate Ganache</strong><br>
+1 1/2 cups milk chocolate chips (I used Ghiradelli)<br>
+3/8 cup heavy whipping cream<br>
+1 1/2 Tbsp butter<br>
+<br>
+<strong>Peanut Butter Cookies</strong><br>
+1 bag Betty Crocker Peanut Butter Cookie Mix (17.5 oz - makes 3 dozen 2-inch cookies)<br>
+1 egg<br>
+3 Tbsp oil<br>
+1 Tbsp water<br>
+<br>
+<strong>Peanut Butter Ganache</strong><br>
+1 1/2 cups peanut butter chips<br>
+3/8 cup heavy whipping cream<br>
+3 T smooth peanut butter<br>
+1 1/2 Tbsp butter<br>
+<br>
+<strong>Directions</strong><br>
+<br>
+1. <strong>Make the chocolate cupcakes:</strong> Position rack in the middle of oven. Preheat oven to 350°F. Line 12 muffin tin cups with paper liners.<br>
+<br>
+2. Put chocolate in heatproof bowl or the top of a double boiler and place it over, but not touching, a saucepan of barely simmering water or the bottom of the double boiler. Stir until chocolate is melted. Remove from the water and set aside.<br>
+<br>
+3. Sift the flour, baking powder, baking soda, and salt into a medium bowl and set aside. In a large bowl, using an electric mixer on medium speed, beat the butter and sugar until smoothly blended, about 2 minutes. Stop the mixer and scrape the sides of the bowl as needed. On low speed, mix in the melted chocolate. On medium speed, add the eggs one at a time, mixing until each is blended. Add the vanilla and beat until the mixture looks creamy, about 1 minute. Mix in the sour cream until no white streaks remain. On low speed, add half of the flour mixture, mixing just to incorporate it. Mix in the water. Mix in the remaining flour mixture until it is incorporated and the batter looks smooth.<br>
+<br>
+4. Fill each liner with a generous 1/3 cup of batter to just below the top of the liner. Bake until the tops feel firm and a toothpick inserted in the center comes out clean, about 20 minutes. Cool the cupcakes for 10 minutes in the pan on a wire rack. Remove the cupcakes from the pan onto a wire rack and let cool completely.<br>
+<br>
+5. While chocolate cupcakes are cooling, prepare the peanut butter cookies according to package directions. Set aside and let cookies cool completely before making the milk chocolate ganache.<br>
+<br>
+6. <strong>Fill the cupcakes:</strong> Scoop 1 teaspoon of dough out of the center of each cupcake; discard (or eat). Fill a large ziplock bag with marshmallow fluff, snip the tip off and pipe it into the center of each cupcake. Use a spoon to separate the fluff from the bag as you go. Pipe about a teaspoon of fluff onto each cupcake. It will settle and flatten out into the cake's crevice by the time you're done making the milk chocolate ganache.<br>
+<br>
+7. <strong>Make the milk chocolate ganache:</strong> Add the heavy whipping cream and butter to a double boiler and gently heat until the mixture is hot and bubbling slightly at the edges, but not boiling. Take it off the heat and add the milk chocolate chips in an even layer; let sit for 3-5 minutes. Whisk until smooth. Let the ganache sit for a few minutes until it thickens a little, then apply about a tablespoon of ganache to each cupcake. Let them sit for a minute, then before the ganache completely sets, top each cupcake with a cool peanut butter cookie.<br>
+<br>
 8. <strong>Make the peanut butter ganache:</strong> Add the heavy whipping cream and butter to a double boiler and gently heat until the mixture is is hot and bubbling slightly at the edges, but not boiling. Take it off the heat and add the peanut butter chips in an even layer and top with the peanut butter let sit for 3-5 minutes. Whisk until smooth. Let the ganache sit for a few minutes until it thickens a little, then apply about a Tbsp of peanut butter ganache to each cupcake.
+</div>
 
 *Note: the chocolate cupcake recipe is from Elinor Klivan's <a href="http://astore.amazon.com/thechocolatpe-20/detail/0811845451">Cupcakes!</a>

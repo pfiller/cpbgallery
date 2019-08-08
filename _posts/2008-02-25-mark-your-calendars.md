@@ -14,34 +14,32 @@ There is no doubt that there are a lot of fantastic days to celebrate- a total o
 
 Peanut butter & peanuts look to get a lot less celebratory days than chocolate, but they do get the entire months of March & November to be honored, so we can't complain too much. Chocolate lovers can enjoy the month of February at the <a href="http://www.hot-chocolate-festival.com/">City Bakery</a> in NYC where they celebrate every day of the month with a fancy flavor of hot chocolate. This includes such craziness as Beer Hot Chocolate, and something awesome sounding called Sunken Treasure Hot Chocolate. Yum!
 
-Full list of chocolate & peanut butter holidays after the break.
-
-<!--more-->
+Full list of chocolate & peanut butter holidays:
 
 <strong>Peanut Butter</strong>
-March – National Peanut Month
-November – Peanut Butter Lovers' Month 
-January 24th – National Peanut Butter Day (Yay!)
-January 26th – National Peanut Brittle Day
+- March – National Peanut Month
+- November – Peanut Butter Lovers' Month 
+- January 24th – National Peanut Butter Day (Yay!)
+- January 26th – National Peanut Brittle Day
 
 <strong>Chocolate</strong>
-January 3rd – National Chocolate Covered Cherry Day
-February 14th – Um, hello?!
-February 19th – Chocolate Mint Day
-March 3rd week – American Chocolate Week
-March 19th – National Chocolate Caramel Day
-March 24th – National Chocolate-Covered Raisin Day
-April 21st – National Chocolate-Covered Cashews Day
-May 15th – National Chocolate Chip Day
-July 7th – Chocolate Day
-July 28th – National Milk Chocolate Day
-August 4th – National Chocolate Chip Day
-September 13th – International Chocolate Day
-September 22nd – National White Chocolate Day
-October 28th – National Chocolate Day
-November 7th – National Bittersweet Chocolate with Almonds Day
-December 16th – National Chocolate-Covered Anything Day
-December 28th – National Chocolate Day
-December 29th – National Chocolate Day
+- January 3rd – National Chocolate Covered Cherry Day
+- February 14th – Um, hello?!
+- February 19th – Chocolate Mint Day
+- March 3rd week – American Chocolate Week
+- March 19th – National Chocolate Caramel Day
+- March 24th – National Chocolate-Covered Raisin Day
+- April 21st – National Chocolate-Covered Cashews Day
+- May 15th – National Chocolate Chip Day
+- July 7th – Chocolate Day
+- July 28th – National Milk Chocolate Day
+- August 4th – National Chocolate Chip Day
+- September 13th – International Chocolate Day
+- September 22nd – National White Chocolate Day
+- October 28th – National Chocolate Day
+- November 7th – National Bittersweet Chocolate with Almonds Day
+- December 16th – National Chocolate-Covered Anything Day
+- December 28th – National Chocolate Day
+- December 29th – National Chocolate Day
 
 Why so many National Chocolate Day repeats? Who knows and who cares! Grab your chocolate bar and be happy!

@@ -12,35 +12,33 @@ Finally I got the chance to apply <a href="http://www.cpbgallery.com/2008/02/17/
 
 <a href="http://www.flickr.com/photos/kstar810/2483552434/in/photostream/"><img src="http://farm4.static.flickr.com/3293/2483552434_51b77cd96c.jpg?v=0" alt="Brioche French Toast" /></a>
 
-Recipe after the break.
-
-<!--more-->
-
 Warning, if you are health conscious, look away now.
 
 Also, I know this only makes 2 slices but they are big, heavy slices so one might be enough for you. No sweat if you have leftovers though, because I actually thought it got better sitting in the fridge a day. It's even great <em>cold</em> out of the fridge. Mmmm.
 
-<strong>Brioche French Toast</strong>
-Yields 2 big fat slices
-
-<strong>Ingredients</strong>
-1/2 tsp cinnamon
-2 Tbsp sugar
-2 slices 1-1/4 inch thick <a href="http://www.balthazarbakery.com/home.html">Balthazar</a> Brioche Bread*
-6 eggs
-1/4 cup heavy cream
-1/4 tsp cinnamon
-1/4 tsp vanilla extract
-3 Tbsp butter for frying
-
-<strong>Directions</strong>
-1. Leave your brioche slices to sit out for 5 minutes on each side.
-2. Meanwhile, in a small bowl, mix 1/2 tsp cinnamon and sugar and set aside. In a 2-quart baking dish just large enough to fit both slices of bread at the same time, whisk the eggs, heavy cream, 1/4 tsp cinnamon and vanilla extract until blended.
-3. When brioche slices are done sitting out, let them sit in the egg mixture for 5 minutes on each side.
-4. Before frying, sprinkle the bread side facing up in the dish with the cinnamon sugar mixture. Melt 3 Tbsp** of butter in a non-stick skillet over low heat and add slices, sugared side down first. While the first side is browning, coat the second side with the cinnamon sugar mixture. Flip and fry the second side until browned on the outside and cooked in the middle. Make sure your heat is on low so you don't end up with crunchy edges and uncooked middles.
-
-*Make this with Brioche. I can't say how good the results will be with other bread. The Brioche is FANTASTIC.
+<div class="recipe">
+<strong>Brioche French Toast</strong><br>
+Yields 2 big fat slices<br>
+<br>
+<strong>Ingredients</strong><br>
+1/2 tsp cinnamon<br>
+2 Tbsp sugar<br>
+2 slices 1-1/4 inch thick <a href="http://www.balthazarbakery.com/home.html">Balthazar</a> Brioche Bread*<br>
+6 eggs<br>
+1/4 cup heavy cream<br>
+1/4 tsp cinnamon<br>
+1/4 tsp vanilla extract<br>
+3 Tbsp butter for frying<br>
+<br>
+<strong>Directions</strong><br>
+1. Leave your brioche slices to sit out for 5 minutes on each side.<br>
+2. Meanwhile, in a small bowl, mix 1/2 tsp cinnamon and sugar and set aside. In a 2-quart baking dish just large enough to fit both slices of bread at the same time, whisk the eggs, heavy cream, 1/4 tsp cinnamon and vanilla extract until blended.<br>
+3. When brioche slices are done sitting out, let them sit in the egg mixture for 5 minutes on each side.<br>
+4. Before frying, sprinkle the bread side facing up in the dish with the cinnamon sugar mixture. Melt 3 Tbsp** of butter in a non-stick skillet over low heat and add slices, sugared side down first. While the first side is browning, coat the second side with the cinnamon sugar mixture. Flip and fry the second side until browned on the outside and cooked in the middle. Make sure your heat is on low so you don't end up with crunchy edges and uncooked middles.<br>
+<br>
+*Make this with Brioche. I can't say how good the results will be with other bread. The Brioche is FANTASTIC.<br>
 **I know 3 Tbsp of butter for 2 slices of french toast sounds like way too much, but you have to trust me on this. It's not a healthy dish. If you are looking for a healthy breakfast, maybe try out my recipe for <a href="http://www.cpbgallery.com/2008/03/03/not-your-mamas-oatmeal/">oatmeal</a>.
+</div>
 
 <strong>Chocolate Peanut Butter Variations</strong>
 While the above recipe does not include chocolate and peanut butter, only because I didn't feel like having those flavors on my french toast this particular morning (yes, I am human, this does happen) it's simple to add. Here are two easy options for you:

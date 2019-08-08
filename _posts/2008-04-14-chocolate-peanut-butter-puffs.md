@@ -18,25 +18,23 @@ My only issue with it is that I wish I had mixed a bit of sugar into the peanut 
 
 The following recipe is slightly modified from <a href="http://www.puffpastry.com/recipedetail.aspx?recipeID=23993&rc=-1">Pepperidge Farm's Website</a>. It makes a mere 3 muffin sized puffs, but it's easy math if you want to make more than that.
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>Chocolate Peanut Butter Puffs</strong>
-Yields 3 puffs
-
-<strong>Ingredients</strong>
-1/3 sheet Pepperidge Farm® Puff Pastry 
-3 tsp creamy peanut butter (I used jif - natural would be fine if you added some sugar before tossing it in the pastry)
-3 Tbsp Ghirardelli bittersweet chocolate chips
-12 miniature marshmallows
-
-<strong>Directions</strong>
-1. Thaw pastry sheet at room temperature 30 min. Preheat oven to 400°F. Grease muffin tins lightly with butter.
-
-2. Roll pastry on lightly floured surface. Cut sheet into 3 - 3" squares. Press squares into 3" muffin-pan cups. Place 1 tsp. peanut butter in center of each. Top each with 1 Tbsp bittersweet chocolate chips and 4 marshmallows.
-
+<div class="recipe">
+<strong>Chocolate Peanut Butter Puffs</strong><br>
+Yields 3 puffs<br>
+<br>
+<strong>Ingredients</strong><br>
+1/3 sheet Pepperidge Farm® Puff Pastry <br>
+3 tsp creamy peanut butter (I used jif - natural would be fine if you added some sugar before tossing it in the pastry)<br>
+3 Tbsp Ghirardelli bittersweet chocolate chips<br>
+12 miniature marshmallows<br>
+<br>
+<strong>Directions</strong><br>
+1. Thaw pastry sheet at room temperature 30 min. Preheat oven to 400°F. Grease muffin tins lightly with butter.<br>
+<br>
+2. Roll pastry on lightly floured surface. Cut sheet into 3 - 3" squares. Press squares into 3" muffin-pan cups. Place 1 tsp. peanut butter in center of each. Top each with 1 Tbsp bittersweet chocolate chips and 4 marshmallows.<br>
+<br>
 3. Bake 12 minutes or until just golden. Cool in pan on wire rack 10 min. Remove from pan and cool on wire rack. Makes 3 puffs.
+</div>
 
 <a href="http://flickr.com/photos/kstar810/2412570616/in/photostream/"><img src="http://farm4.static.flickr.com/3025/2412570616_7c32fd69d9.jpg?v=0" alt="Chocolate Peanut Butter Puff" /></a>
 

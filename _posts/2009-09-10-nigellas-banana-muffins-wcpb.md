@@ -18,33 +18,31 @@ FYI, these muffins are moist and therefore freeze well, so if you actually have 
 
 <a href="http://www.flickr.com/photos/kstar810/3905113208/in/photostream/"><img src="http://farm3.static.flickr.com/2538/3905113208_0a8114a2eb.jpg" alt="banana muffins" /></a>
 
-Recipe after the break!
-
-<!--more-->
-
-<strong>Nigella's Banana Muffins w/CPB</strong>
-<em>modified from Nigella Lawson's <a href="http://astore.amazon.com/thechocolatpe-20/detail/1401322433">Nigella Express</a>, pg. 262</em>
-Yields 12 muffins
-
-<strong>Ingredients</strong>
-
-½ cup vegetable oil
-2 eggs
-1 2/3 cup flour
-½ cup sugar
-1 tsp baking powder
-½ tsp	baking soda
-½ tsp salt
-1&#188; cups mashed bananas (about 2½ bananas)
-½ cup milk chocolate chips
-½ cup peanut butter chips
-
-<strong>Directions</strong>
-
-1. Preheat oven to 400°F. Line a standard muffin tin with muffin cups.
-
-2. Measure the oil into a large glass measuring cup and beat in the eggs.
-
-3. Put flour, sugar, baking powder, baking soda and salt into a large bowl and mix in the liquid ingredients, followed by the mashed bananas.
-
-4. Fold in milk and peanut butter chips, then divide equal quantities into the waiting muffin pan – I use an ice cream scoop and a spatula – and bake in the preheated oven for 20 minutes.
+<div class="recipe">
+<strong>Nigella's Banana Muffins w/CPB</strong><br>
+<em>modified from Nigella Lawson's <a href="http://astore.amazon.com/thechocolatpe-20/detail/1401322433">Nigella Express</a>, pg. 262</em><br>
+Yields 12 muffins<br>
+<br>
+<strong>Ingredients</strong><br>
+<br>
+½ cup vegetable oil<br>
+2 eggs<br>
+1 2/3 cup flour<br>
+½ cup sugar<br>
+1 tsp baking powder<br>
+½ tsp	baking soda<br>
+½ tsp salt<br>
+1&#188; cups mashed bananas (about 2½ bananas)<br>
+½ cup milk chocolate chips<br>
+½ cup peanut butter chips<br>
+<br>
+<strong>Directions</strong><br>
+<br>
+1. Preheat oven to 400°F. Line a standard muffin tin with muffin cups.<br>
+<br>
+2. Measure the oil into a large glass measuring cup and beat in the eggs.<br>
+<br>
+3. Put flour, sugar, baking powder, baking soda and salt into a large bowl and mix in the liquid ingredients, followed by the mashed bananas.<br>
+<br>
+4. Fold in milk and peanut butter chips, then divide equal quantities into the waiting muffin pan – I use an ice cream scoop and a spatula – and bake in the preheated oven for 20 minutes.<br>
+</div>

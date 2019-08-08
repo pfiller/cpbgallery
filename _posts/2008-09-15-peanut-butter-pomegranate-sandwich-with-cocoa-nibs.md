@@ -16,20 +16,20 @@ The reason I don't have a pic of the finished sandwich is that I made it as I wa
 
 <a href="http://www.flickr.com/photos/kstar810/2858246136/in/photostream/"><img src="http://farm4.static.flickr.com/3013/2858246136_1964b7c2c5.jpg?v=0" alt="Pomegranate" /></a>
 
-Try it out and enjoy! The "recipe" is after the break.
+Try it out and enjoy!
 
-<!--more-->
-
-<strong>Peanut Butter Pomgranate Seed Sandwich Combo</strong>
-
-<strong>Ingredients</strong>
-soft whole wheat bread
-a healthy slathering of peanut butter (smooth or crunchy)
-a smidge of strawberry raspberry jam - I used <a href="http://www.sarabeth.com/prodinfo.asp?number=SR">Sarabeth's</a>
-pomegranate seeds
-almond granola - I used <a href="http://www.milkandhoneygranola.com/">Milk & Honey Cafe's Original Granola</a>
-cocoa nibs - I used <a href="https://www.askinosie.com/c-2-cocoa-nibs.aspx">Askinosie</a>
-
-<strong>Directions</strong>
-
+<div class="recipe">
+<strong>Peanut Butter Pomgranate Seed Sandwich Combo</strong><br>
+<br>
+<strong>Ingredients</strong><br>
+soft whole wheat bread<br>
+a healthy slathering of peanut butter (smooth or crunchy)<br>
+a smidge of strawberry raspberry jam - I used <a href="http://www.sarabeth.com/prodinfo.asp?number=SR">Sarabeth's</a><br>
+pomegranate seeds<br>
+almond granola - I used <a href="http://www.milkandhoneygranola.com/">Milk & Honey Cafe's Original Granola</a><br>
+cocoa nibs - I used <a href="https://www.askinosie.com/c-2-cocoa-nibs.aspx">Askinosie</a><br>
+<br>
+<strong>Directions</strong><br>
+<br>
 Use as much or as little as you like of each ingredient - there are no rules here! The only thing I'll say is that I only put enough strawberry raspberry jam to moisten the sandwich a little bit - not enough to overpower the pomegranate seeds.
+</div>

@@ -22,21 +22,21 @@ The only downside is that it's so soft and moist that it sticks to everything in
 
 On the other hand, if you don't feel like being so meticulous, just douse hunks of it with <a href="http://astore.amazon.com/thechocolatpe-20/detail/B001ULWAHY">chocolate peanut butter sauce</a> and whipped cream and call it a day. The easy way out would still produce a mouthwatering dessert.
 
-Get the recipe for Aunt Joyce's Chocolate cake at <a href="http://allrecipes.com/Recipe/Aunt-Joyces-Chocolate-Cake/Detail.aspx">Allrecipes</a>. If you want to replicate my version, cover it with peanut butter cream cheese frosting (recipe after the break). I decorated my cake with whole and crushed chocolate wafers, peanut butter chips and another frosting I made using <a href="http://astore.amazon.com/thechocolatpe-20/detail/B001ULWAHY">Izzybelle Chocolate Peanut Butter Sauce</a>. I'd give you the recipe for that too, but I just added milk and powdered sugar to it until I had the consistency I was looking for. You could probably do this with any store-bought sauce - just add the sugar and milk and mix until you think you can pipe it.
+Get the recipe for Aunt Joyce's Chocolate cake at <a href="http://allrecipes.com/Recipe/Aunt-Joyces-Chocolate-Cake/Detail.aspx">Allrecipes</a>. If you want to replicate my version, cover it with peanut butter cream cheese frosting (recipe below). I decorated my cake with whole and crushed chocolate wafers, peanut butter chips and another frosting I made using <a href="http://astore.amazon.com/thechocolatpe-20/detail/B001ULWAHY">Izzybelle Chocolate Peanut Butter Sauce</a>. I'd give you the recipe for that too, but I just added milk and powdered sugar to it until I had the consistency I was looking for. You could probably do this with any store-bought sauce - just add the sugar and milk and mix until you think you can pipe it.
 
 Take a (short) break from cupcakes and challenge yourself to build a pretty chocolate peanut butter cake! 
 
-<!--more-->
-
-<strong>Peanut Butter Cream Cheese Icing</strong>
-<em>From Susan Spicer's <a href="http://astore.amazon.com/thechocolatpe-20/detail/1400043891/002-0645533-5139217">Crescent City Cooking</a></em>
-Makes about 2-1/2 cups
-
-<strong>Ingredients</strong>
-1/2 cup creamy peanut butter
-1 (8 oz) package cream cheese, softened
-1-1/4 cup confectioner’s sugar, sifted
-1/2 tsp vanilla extract
-
-<strong>Directions</strong>
-1. Cream the peanut butter and cream cheese in a mixer with the paddle attachment, scraping the sides once or twice, until light and fluffy. Beat in the sugar gradually. When completely incorporated, add the vanilla.
+<div class="recipe">
+<strong>Peanut Butter Cream Cheese Icing</strong><br>
+<em>From Susan Spicer's <a href="http://astore.amazon.com/thechocolatpe-20/detail/1400043891/002-0645533-5139217">Crescent City Cooking</a></em><br>
+Makes about 2-1/2 cups<br>
+<br>
+<strong>Ingredients</strong><br>
+1/2 cup creamy peanut butter<br>
+1 (8 oz) package cream cheese, softened<br>
+1-1/4 cup confectioner’s sugar, sifted<br>
+1/2 tsp vanilla extract<br>
+<br>
+<strong>Directions</strong><br>
+Cream the peanut butter and cream cheese in a mixer with the paddle attachment, scraping the sides once or twice, until light and fluffy. Beat in the sugar gradually. When completely incorporated, add the vanilla.
+</div>

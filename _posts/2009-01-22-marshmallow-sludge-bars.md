@@ -20,28 +20,26 @@ The recipe says to use mini marshmallows but they only had large ones at my groc
 
 Put your basic Rice Krispie Treats recipe aside and give these a try. You can thank me later!
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>Marshmallow Sludge Bars</strong>
-(modified from <a href="http://www.cuisineathome.com/">Cuisine at Home</a>)
-Makes 28 Bars
-
-<strong>Ingredients</strong>
-1 lb <a href="http://farm1.static.flickr.com/74/155177214_b8f529847f.jpg">peanut butter sandwich cookies</a>, coarsely crushed
-1 stick unsalted butter, melted
-2 cups peanut butter chips
-2/3 cup light corn syrup
-4 Tbsp unsalted butter
-1 tsp vanilla extract
-2 cups large marshmallows, snipped in half with kitchen shears
-2 cups <a href="http://www.ghirardelli.com/products/chips_milk.aspx">Ghirardelli milk chocolate chips</a>
-2 cups <a href="http://www2.kelloggs.com/Product/ProductDetail.aspx?brand=207&product=8170&cat=">Cocoa Krispies Choconilla</a>
-
-<strong>Directions</strong>
-1. Preheat the oven to 350&#176;, coat a 13 x 9 inch baking pan with nonstick spray
-2. Pulverize cookies in a food processor until fine crumbs form. Add melted butter; process until crumbs clump together. Press crumbs into prepared pan. Bake 15 minutes or until golden.
-3. Melt peanut butter chips, corn syrup, butter and vanilla in a saucepan over medium-low heat, stirring until smooth, about 5 minute. Spread 1/2 cup of the peanut butter mixture over crumb base.
-4. Top with marshmallows, sticky side down and return bars to the oven. Bake until marshmallows puff, about 2 minutes, then remove from the oven. Don't let marshmallows brown or they'll turn crunchy.
+<div class="recipe">
+<strong>Marshmallow Sludge Bars</strong><br>
+(modified from <a href="http://www.cuisineathome.com/">Cuisine at Home</a>)<br>
+Makes 28 Bars<br>
+<br>
+<strong>Ingredients</strong><br>
+1 lb <a href="http://farm1.static.flickr.com/74/155177214_b8f529847f.jpg">peanut butter sandwich cookies</a>, coarsely crushed<br>
+1 stick unsalted butter, melted<br>
+2 cups peanut butter chips<br>
+2/3 cup light corn syrup<br>
+4 Tbsp unsalted butter<br>
+1 tsp vanilla extract<br>
+2 cups large marshmallows, snipped in half with kitchen shears<br>
+2 cups <a href="http://www.ghirardelli.com/products/chips_milk.aspx">Ghirardelli milk chocolate chips</a><br>
+2 cups <a href="http://www2.kelloggs.com/Product/ProductDetail.aspx?brand=207&product=8170&cat=">Cocoa Krispies Choconilla</a><br>
+<br>
+<strong>Directions</strong><br>
+1. Preheat the oven to 350&#176;, coat a 13 x 9 inch baking pan with nonstick spray<br>
+2. Pulverize cookies in a food processor until fine crumbs form. Add melted butter; process until crumbs clump together. Press crumbs into prepared pan. Bake 15 minutes or until golden.<br>
+3. Melt peanut butter chips, corn syrup, butter and vanilla in a saucepan over medium-low heat, stirring until smooth, about 5 minute. Spread 1/2 cup of the peanut butter mixture over crumb base.<br>
+4. Top with marshmallows, sticky side down and return bars to the oven. Bake until marshmallows puff, about 2 minutes, then remove from the oven. Don't let marshmallows brown or they'll turn crunchy.<br>
 5. Toss chocolate chips and cereal with remaining peanut mixture to coat. Drop spoonfuls o the topping over the marshmallows, then spread with a spatula. Cool bars before cutting with a knife.
+</div>

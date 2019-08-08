@@ -6,7 +6,7 @@ slug: lesser-evil-peanut-butter-choco-kettle-corn
 ---
 <a href="http://www.lesserevil.com/kettlecorns.html"><img src='/images/uploads/2008/05/lesser_evil.jpg' alt='Lesser Evil Peanut Butter Choco Popcorn' /></a>
 
-I know that I<a href="http://www.cpbgallery.com/2008/03/20/vosges-peanut-butter-bonbons/">'ve mentioned before</a> how much I love salt, but incase you missed it, here it is again:
+I know that <a href="http://www.cpbgallery.com/2008/03/20/vosges-peanut-butter-bonbons/">I've mentioned before</a> how much I love salt, but incase you missed it, here it is again:
 
 I LOVE salt.
 

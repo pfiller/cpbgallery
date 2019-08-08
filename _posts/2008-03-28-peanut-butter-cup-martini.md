@@ -12,17 +12,17 @@ A lot of people out there like to wind down at the end of a long hectic week wit
 
 I think discovering this liquor has opened up a whole new world of possibilities for chocolate and peanut butter beverages... 
 
-Recipe after the break. It is from <a href="http://www.polishedpalate.com/events/cocktails/castries.html">The Polished Palate</a>.
+Recipe from <a href="http://www.polishedpalate.com/events/cocktails/castries.html">The Polished Palate</a>.
 
-<!--more-->
-
-<strong>Peanut Butter Cup Martini</strong>
-
-<strong>Ingredients</strong>
-2 oz Castries
-1 oz Godiva Chocolate Liquor
-1 oz Super Premium Vodka
-
-<strong>Directions</strong>
-1. Shake vigorously over ice and strain into a chilled martini glass
+<div class="recipe">
+<strong>Peanut Butter Cup Martini</strong><br>
+<br>
+<strong>Ingredients</strong><br>
+2 oz Castries<br>
+1 oz Godiva Chocolate Liquor<br>
+1 oz Super Premium Vodka<br>
+<br>
+<strong>Directions</strong><br>
+1. Shake vigorously over ice and strain into a chilled martini glass<br>
 2. Optional: Line the Martini glass with chocolate syrup for additional effect 
+</div>

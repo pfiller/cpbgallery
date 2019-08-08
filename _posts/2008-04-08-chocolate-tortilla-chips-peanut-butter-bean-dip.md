@@ -18,22 +18,20 @@ The dip also tasted great on regular tortilla chips, but it's saltiness would go
 
 <a href="http://flickr.com/photos/kstar810/2397106533/"><img src="http://farm3.static.flickr.com/2330/2397106533_ec40f358d6.jpg?v=0" alt="chocolate tortilla chips and peanut butter bean dip" /></a>
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>Peanut Butter Bean Dip</strong>
-
-<strong>Ingredients</strong>
-1 (15oz) can White kidney beans (aka cannellini beans)
-4 Tbsp Smooth peanut butter (I used Jif)
-1 tsp powdered sugar
-1/8 - 1/4 cup water depending on desired consistency (I used just over an 1/8)
-1/2 tsp fine salt
-Chocolate tortilla chips, for serving
-
-<strong>Directions</strong>
-1. Drain and rinse white kidney beans. Add to blender with peanut butter and pulse while gradually streaming in the water. Add the powdered sugar and salt and continue to blend until the mixture is nice and smooth.
+<div class="recipe">
+<strong>Peanut Butter Bean Dip</strong><br>
+<br>
+<strong>Ingredients</strong><br>
+1 (15oz) can White kidney beans (aka cannellini beans)<br>
+4 Tbsp Smooth peanut butter (I used Jif)<br>
+1 tsp powdered sugar<br>
+1/8 - 1/4 cup water depending on desired consistency (I used just over an 1/8)<br>
+1/2 tsp fine salt<br>
+Chocolate tortilla chips, for serving<br>
+<br>
+<strong>Directions</strong><br>
+1. Drain and rinse white kidney beans. Add to blender with peanut butter and pulse while gradually streaming in the water. Add the powdered sugar and salt and continue to blend until the mixture is nice and smooth.<br>
 2. Serve with chocolate tortilla chips.
+</div>
 
 <a href="http://www.flickr.com/photos/kstar810/2397936722/"><img src="http://farm3.static.flickr.com/2213/2397936722_f570364905.jpg?v=0" alt="chocolate tortilla chip with peanut butter bean dip" /></a>

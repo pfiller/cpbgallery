@@ -55,7 +55,7 @@ Taste Tester said that the krispie part of the bar wasn't as good as mine (aw - 
 
 We also picked up a chocolate peanut butter caramel bar there which was attacked before a photo was taken. It was a killing so cruel, you might see it on the five o'clock news. I can see it now: "TASTE TESTER ON THE RUN AFTER DEVOURING HELPLESS CHOCOLATE BAR. PEANUT BUTTER AND CARAMEL WERE EVERYWHERE!". And just when I thought our vacation would be relaxing. Sigh. I can't take him anywhere.
 
-The last treat I found (for now!) was the:
+The last treat I found (for now!) was the:  
 <strong>3.</strong> <a href="http://www.premiernutrition.com/products/twisted.html">Twisted Bar</a>
 
 A reader wrote to me telling me of this bar and after looking and looking, it seemed to be elusive. But at last! I got my mits on a couple of them at a Target on LBI. Yay! I have yet to taste this, only because it's too hot and I'm sure it would melt in an instant if stowed away in my bag on the beach, but I promise to write up a full review for you soon. With ingredients like pretzel, caramel, peanuts, nougat and a creamy chocolate peanut butter coating, can you believe that it's a protein bar? What is the word coming to?

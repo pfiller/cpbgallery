@@ -32,43 +32,41 @@ Next time I'll do my research <em>before</em> I attack my innocent chocolate bar
 
 Whether or not you go through with the curls, I hope you enjoy these cupcakes. They are quick, easy and delicious. I modified the original recipe slightly and added extra frosting because I like my peanut butter. ;)
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>Chocolate Peanut Butter Banana Cupcakes</strong>
-modified from <a href="http://www.foodnetwork.com/recipes/chocolate-peanut-butter-and-banana-cupcakes-recipe/index.html">Ultimate Recipe Showdown</a>
-
-<strong>Ingredients</strong>
-
-<strong>Cupcakes</strong>
-1/4 cup creamy peanut butter (I used Jif)
-1 cup ripe banana, mashed and firmly packed
-1 Tbsp canola oil
-3 Tbsp water
-1 large egg
-1 Tbsp Dutch process cocoa powder
-1 (9oz) pkg devil's food cake mix w/o pudding (recommended: Jiffy*)
-
-<strong>Peanut Butter Frosting</strong>
-5 Tbsp unsalted butter, softened
-1/2 cup creamy peanut butter (I used Jif)
-2/3 cup plus 2 Tbsp powdered sugar
-1 - 1 1/2 Tbsp whole milk
-1 milk chocolate bar, peeled into curls
-
-<strong>Directions</strong>
-
-1. Preheat oven to 375 degrees F. 
-
-2. Line 12 muffin cups with paper liners. Set aside.
-
-3. To make the cupcakes, in a medium bowl and with an electric mixer, beat the peanut butter, banana, oil and water together on medium speed until mostly smooth or only a few very small pieces of banana are visible. On low speed beat in the egg, cocoa powder and the cake mix. Increase speed to medium-high and beat for 1 minute or until batter is well blended.
-
-4. Spoon an equal amount of batter into the lined muffin cups, filling each about 2/3 full. Bake on the center rack for 15 to 20 minutes or until a wooden pick inserted into the center of cakes comes out clean.
-
-5. Remove cupcakes from the pan and place on a wire rack until completely cool.
-
-6. While the cakes cool, make the frosting. With an electric mixer, beat together the butter and peanut butter until smooth. Gradually beat in the powdered sugar and 1 1/2 teaspoons milk until frosting reaches a spreadable consistency. (If needed, add up to an extra 1/2 teaspoon of milk to make frosting smooth.) Frost cupcakes. Garnish each cupcake with milk chocolate curls.
-
-* I couldn't find Jiffy mix, so I just measured out 9oz of Betty Crocker's Super Moist Devil's Food Cake Mix.
+<div class="recipe">
+<strong>Chocolate Peanut Butter Banana Cupcakes</strong><br>
+modified from <a href="http://www.foodnetwork.com/recipes/chocolate-peanut-butter-and-banana-cupcakes-recipe/index.html">Ultimate Recipe Showdown</a><br>
+<br>
+<strong>Ingredients</strong><br>
+<br>
+<strong>Cupcakes</strong><br>
+1/4 cup creamy peanut butter (I used Jif)<br>
+1 cup ripe banana, mashed and firmly packed<br>
+1 Tbsp canola oil<br>
+3 Tbsp water<br>
+1 large egg<br>
+1 Tbsp Dutch process cocoa powder<br>
+1 (9oz) pkg devil's food cake mix w/o pudding (recommended: Jiffy*)<br>
+<br>
+<strong>Peanut Butter Frosting</strong><br>
+5 Tbsp unsalted butter, softened<br>
+1/2 cup creamy peanut butter (I used Jif)<br>
+2/3 cup plus 2 Tbsp powdered sugar<br>
+1 - 1 1/2 Tbsp whole milk<br>
+1 milk chocolate bar, peeled into curls<br>
+<br>
+<strong>Directions</strong><br>
+<br>
+1. Preheat oven to 375 degrees F. <br>
+<br>
+2. Line 12 muffin cups with paper liners. Set aside.<br>
+<br>
+3. To make the cupcakes, in a medium bowl and with an electric mixer, beat the peanut butter, banana, oil and water together on medium speed until mostly smooth or only a few very small pieces of banana are visible. On low speed beat in the egg, cocoa powder and the cake mix. Increase speed to medium-high and beat for 1 minute or until batter is well blended.<br>
+<br>
+4. Spoon an equal amount of batter into the lined muffin cups, filling each about 2/3 full. Bake on the center rack for 15 to 20 minutes or until a wooden pick inserted into the center of cakes comes out clean.<br>
+<br>
+5. Remove cupcakes from the pan and place on a wire rack until completely cool.<br>
+<br>
+6. While the cakes cool, make the frosting. With an electric mixer, beat together the butter and peanut butter until smooth. Gradually beat in the powdered sugar and 1 1/2 teaspoons milk until frosting reaches a spreadable consistency. (If needed, add up to an extra 1/2 teaspoon of milk to make frosting smooth.) Frost cupcakes. Garnish each cupcake with milk chocolate curls.<br>
+<br>
+* I couldn't find Jiffy mix, so I just measured out 9oz of Betty Crocker's Super Moist Devil's Food Cake Mix.<br>
+</div>

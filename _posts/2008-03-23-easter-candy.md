@@ -8,10 +8,10 @@ slug: easter-candy
 
 I never got around to posting a cute easter dessert to make. Sorry! If you're like me and don't have anything to whip up and bring to a relative's house, why not swing by your local grocery store or pharmacy and grab a bag of Easter candy? Forget the Peeps this year, here are some readily available chocolate and peanut butter varieties. Crisis averted!
 
-&#8226; Butterfinger Creme Eggs
-&#8226; M&Ms Peanut Butter Spectacular Eggs
-&#8226; Reeses Peanut Butter Eggs
-&#8226; Reeses Pieces Pastel Eggs
+- Butterfinger Creme Eggs
+- M&Ms Peanut Butter Spectacular Eggs
+- Reeses Peanut Butter Eggs
+- Reeses Pieces Pastel Eggs
 
 I know I <a href="http://www.cpbgallery.com/?p=113">swore off Reeses Peanut Butter Cups after discovering the Vosges Peanut Butter Bonbon</a>, but that doesn't mean <em>you</em> can't have them. Also, the Reeses Peanut Butter Egg was always my favorite Easter candy so it has a bit of a nostalgic attraction to it.
 

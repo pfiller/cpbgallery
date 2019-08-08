@@ -28,19 +28,17 @@ When you spread the cold c&pb mixture on your warm bagel it instantly starts to 
 
 Make this recipe. Kids, adults and even proclaimed cream cheese haters (like my taste taster) will love it!
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>Chocolate Peanut Butter Cream Cheese Spread</strong>
-
-<strong>Ingredients</strong>
-1/2 cup Ghirardelli semisweet chocolate chips
-1 Tbsp salted butter
-1/3 cup peanut butter
-1/4 cup + 1 Tbsp cream cheese
-
-<strong>Directions</strong>
-1. Melt chocolate and butter in a microwave safe bowl for 30 seconds, stir, then another 20 seconds, stir, then another 10 seconds and stir again. Proceed in this manner until the chocolate is completely melted, but do not overcook. 
-2. In another bowl, beat the peanut butter with the melted chocolate mixture until combined. Then add the cream cheese and beat until no white streaks remain.
+<div class="recipe">
+<strong>Chocolate Peanut Butter Cream Cheese Spread</strong><br>
+<br>
+<strong>Ingredients</strong><br>
+1/2 cup Ghirardelli semisweet chocolate chips<br>
+1 Tbsp salted butter<br>
+1/3 cup peanut butter<br>
+1/4 cup + 1 Tbsp cream cheese<br>
+<br>
+<strong>Directions</strong><br>
+1. Melt chocolate and butter in a microwave safe bowl for 30 seconds, stir, then another 20 seconds, stir, then another 10 seconds and stir again. Proceed in this manner until the chocolate is completely melted, but do not overcook. <br>
+2. In another bowl, beat the peanut butter with the melted chocolate mixture until combined. Then add the cream cheese and beat until no white streaks remain.<br>
 3. Package the spread in a tightly sealed plastic container. Check the date that's on your cream cheese container and write it on the spread container so you know how long it should last.
+</div>

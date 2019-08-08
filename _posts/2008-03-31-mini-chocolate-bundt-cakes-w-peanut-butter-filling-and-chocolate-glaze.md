@@ -20,32 +20,32 @@ If you are imperfect like myself and have trouble getting your bundt cakes out o
 
 Photo by <a href="http://www.bakeorbreak.com/2007/06/24/mini-chocolate-bundt-cakes-with-peanut-butter-filling/">bake or break</a>.
 
-Recipe posted on <a href="http://www.grouprecipes.com/27467/mini-chocolate-bundt-cakes-with-peanut-butter-filling-and-chocolate-glaze.html">Group Recipes</a>, originally from <a href="http://www.bakeorbreak.com/2007/06/24/mini-chocolate-bundt-cakes-with-peanut-butter-filling/">bake or break</a>, also posted after the break.
+Recipe posted on <a href="http://www.grouprecipes.com/27467/mini-chocolate-bundt-cakes-with-peanut-butter-filling-and-chocolate-glaze.html">Group Recipes</a>, originally from <a href="http://www.bakeorbreak.com/2007/06/24/mini-chocolate-bundt-cakes-with-peanut-butter-filling/">bake or break</a>, or right here:
 
-<!--more-->
-
-<strong>Ingredients</strong>
-1 stick butter, softened
-1 3/4 cups sugar
-2 cups all-purpose flour
-1 teaspoon baking powder
-1 teaspoon baking soda
-Pinch salt
-2 eggs
-4 oz melted unsweetened chocolate
-1 teaspoon pure vanilla extract
-1 1/4 cups milk
-1/2 cup peanut butter chips
-1/4 cup cocoa powder
-1 cup powdered sugar
-2 to 3 Tbsp milk
-
-<strong>Directions</strong>
-1. Preheat the oven to 350 degrees. Grease and lightly flour (or apply the above WD-40 recipe to) 12 individual (about 1 cup size) bundt tins.
-2. In the bowl of an electric mixer, fitted with a paddle, cream the butter and sugar together.
-3. In a small mixing bowl, sift together the flour, baking powder, baking soda and salt and set aside. Add the eggs, one at a time, to the butter mixture. Mix well after each egg. Add the chocolate and vanilla. Mix well.
-4. Add the sifted flour mixture, 1/2 cup at a time, alternating with the milk. Mix well.
-5. Fill each tin 1/2 full with the batter. Place some of the peanut butter chips in the center of the batter. Then pour the remaining batter over the chips.
-6. Place in the pre-heated oven and cook for 18 to 20 minutes.
-7. Remove from the oven and cool for a few minutes in the pan. Invert the cakes onto a wire rack. Let cool completely before adding glaze, so it doesn't run off the cakes.
+<div class="recipe">
+<strong>Ingredients</strong><br>
+1 stick butter, softened<br>
+1 3/4 cups sugar<br>
+2 cups all-purpose flour<br>
+1 teaspoon baking powder<br>
+1 teaspoon baking soda<br>
+Pinch salt<br>
+2 eggs<br>
+4 oz melted unsweetened chocolate<br>
+1 teaspoon pure vanilla extract<br>
+1 1/4 cups milk<br>
+1/2 cup peanut butter chips<br>
+1/4 cup cocoa powder<br>
+1 cup powdered sugar<br>
+2 to 3 Tbsp milk<br>
+<br>
+<strong>Directions</strong><br>
+1. Preheat the oven to 350 degrees. Grease and lightly flour (or apply the above WD-40 recipe to) 12 individual (about 1 cup size) bundt tins.<br>
+2. In the bowl of an electric mixer, fitted with a paddle, cream the butter and sugar together.<br>
+3. In a small mixing bowl, sift together the flour, baking powder, baking soda and salt and set aside. Add the eggs, one at a time, to the butter mixture. Mix well after each egg. Add the chocolate and vanilla. Mix well.<br>
+4. Add the sifted flour mixture, 1/2 cup at a time, alternating with the milk. Mix well.<br>
+5. Fill each tin 1/2 full with the batter. Place some of the peanut butter chips in the center of the batter. Then pour the remaining batter over the chips.<br>
+6. Place in the pre-heated oven and cook for 18 to 20 minutes.<br>
+7. Remove from the oven and cool for a few minutes in the pan. Invert the cakes onto a wire rack. Let cool completely before adding glaze, so it doesn't run off the cakes.<br>
 8. Make the glaze: In a small mixing bowl, combine the cocoa powder, powdered sugar and milk. Mix until smooth. Spoon some of the glaze over each bundt cake. Allow the glaze to set, then serve.
+</div>

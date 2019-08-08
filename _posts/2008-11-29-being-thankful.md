@@ -42,44 +42,42 @@ The real question is: could you resist being a Scrooge and eating them all yours
 
 Before I go, one more <em>thank you</em> needs to be extended: Thanks of course to you readers who keep checking up on my blog even when I'm slow to write over the holidays. I hope these recipes make up for lost time and that you had a wonderful Thanksgiving. Enjoy!!
 
-Recipe for Chocolate Brownies with Caramel, Peanut Butter and Peanuts after the break!
-
-<!--more-->
-
-<strong>Chocolate Brownies with Caramel, Peanut Butter, and Peanuts</strong>
-Yields 4 dozen cookies
-Modified from <a href="http://www.amazon.com/More-Magnolia-Recipes-Famous-Kitchen/dp/0743246616/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1227919445&amp;sr=8-1">More from Magnolia</a>, p. 46
-
-<strong>Crust </strong>
-2-1/4 cups graham cracker crumbs 
-3/4 cup (1-1/2 sticks) unsalted butter, melted
-
-<strong>Caramel Filling </strong>
-14 oz vanilla caramels 
-1/4 cup heavy cream 
-3/4 cup coarsely chopped lightly salted peanuts*
-3/4 cup peanut butter chips
-
-<strong>Brownie </strong>
-1/2 cup all-purpose flour 
-3/4 teaspoon baking powder 
-1/2 teaspoon salt 
-1/2 cup (1 stick) unsalted butter 
-6 ounces unsweetened chocolate 
-1-1/2 cups sugar 
-3 large eggs, at room temperature 
-1 teaspoon vanilla extract
-
-<strong>Directions</strong>
-1. Preheat oven to 350 degrees F. 
-
-2. To make the crust: In a medium-size bowl, combine the graham cracker crumbs and melted butter. Press firmly into a 13 x 9-inch baking pan layered with parchment paper. Set aside. 
-
-3. To make the caramel filling: In a medium-size saucepan over low heat, melt the caramels with the cream, stirring occasionally, until smooth. Remove from the heat and pour over the graham cracker crust quickly and evenly (it hardens fast and if you try to spread it with a spatula, you might mess up the crust. Covering the crust as you pour is much easier). Sprinkle the peanuts and peanut butter chips over the caramel. Set aside. 
-
-4. To make the brownie: In a small bowl, combine the flour, baking powder and salt. Set aside. In a medium-size saucepan over low heat, melt the butter and chocolate, stirring occasionally until smooth. Remove from the heat, transfer to a large bowl and allow the mixture to cool for 5 minutes. Add the sugar, eggs, and vanilla and beat well. Add the dry ingredients and mix thoroughly. Pour the batter over the peanuts and peanut butter chips to completely cover the caramel layer. Bake for 35-45 minutes, or until a cake tester inserted in the center of the pan comes out with moist crumbs attached. Do not over bake (mine took about 36 minutes).
-
+<div class="recipe">
+<strong>Chocolate Brownies with Caramel, Peanut Butter, and Peanuts</strong><br>
+Yields 4 dozen cookies<br>
+Modified from <a href="http://www.amazon.com/More-Magnolia-Recipes-Famous-Kitchen/dp/0743246616/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1227919445&amp;sr=8-1">More from Magnolia</a>, p. 46<br>
+<br>
+<strong>Crust </strong><br>
+2-1/4 cups graham cracker crumbs <br>
+3/4 cup (1-1/2 sticks) unsalted butter, melted<br>
+<br>
+<strong>Caramel Filling </strong><br>
+14 oz vanilla caramels <br>
+1/4 cup heavy cream <br>
+3/4 cup coarsely chopped lightly salted peanuts*<br>
+3/4 cup peanut butter chips<br>
+<br>
+<strong>Brownie </strong><br>
+1/2 cup all-purpose flour <br>
+3/4 teaspoon baking powder <br>
+1/2 teaspoon salt <br>
+1/2 cup (1 stick) unsalted butter <br>
+6 ounces unsweetened chocolate <br>
+1-1/2 cups sugar <br>
+3 large eggs, at room temperature <br>
+1 teaspoon vanilla extract<br>
+<br>
+<strong>Directions</strong><br>
+1. Preheat oven to 350 degrees F. <br>
+<br>
+2. To make the crust: In a medium-size bowl, combine the graham cracker crumbs and melted butter. Press firmly into a 13 x 9-inch baking pan layered with parchment paper. Set aside. <br>
+<br>
+3. To make the caramel filling: In a medium-size saucepan over low heat, melt the caramels with the cream, stirring occasionally, until smooth. Remove from the heat and pour over the graham cracker crust quickly and evenly (it hardens fast and if you try to spread it with a spatula, you might mess up the crust. Covering the crust as you pour is much easier). Sprinkle the peanuts and peanut butter chips over the caramel. Set aside. <br>
+<br>
+4. To make the brownie: In a small bowl, combine the flour, baking powder and salt. Set aside. In a medium-size saucepan over low heat, melt the butter and chocolate, stirring occasionally until smooth. Remove from the heat, transfer to a large bowl and allow the mixture to cool for 5 minutes. Add the sugar, eggs, and vanilla and beat well. Add the dry ingredients and mix thoroughly. Pour the batter over the peanuts and peanut butter chips to completely cover the caramel layer. Bake for 35-45 minutes, or until a cake tester inserted in the center of the pan comes out with moist crumbs attached. Do not over bake (mine took about 36 minutes).<br>
+<br>
 5. Cool to room temperature, cover tightly with plastic wrap, and allow to set overnight before cutting and serving (I couldn't allow mine to set before slicing since I had to hop a plane to Chicago, which is why the edges are messy).
+</div>
 
 <a href="http://www.flickr.com/photos/kstar810/3067125306/"><img src="http://farm4.static.flickr.com/3016/3067125306_7a1d8fe30e.jpg?v=0" alt="Chocolate Brownie" /></a>
 

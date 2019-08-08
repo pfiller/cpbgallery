@@ -10,14 +10,14 @@ This recipe is based off of Dave Lieberman's recipe for <a href="http://www.food
 
 Omitting extra chocolate you say? She must be mad! 
 
-No, no... my boyfriend (a cpb connoisseur) has dubbed them his favorite treat to date because they "have a perfect balance of chocolate and peanut butter". These are very easy to make, but highly addictive. You have been warned. Recipe after the break.
+No, no... my boyfriend (a cpb connoisseur) has dubbed them his favorite treat to date because they "have a perfect balance of chocolate and peanut butter". These are very easy to make, but highly addictive. You have been warned.
 
-<!--more-->
-
-<strong>Ingredients</strong>
-4 tablespoons (1/2 stick) unsalted butter, plus more for dish 
-10 ounces marshmallows 
-3/4 cup creamy peanut butter 
-6 cups cocoa krispies 
-
+<div class="recipe">
+<strong>Ingredients</strong><br>
+4 tablespoons (1/2 stick) unsalted butter, plus more for dish <br>
+10 ounces marshmallows <br>
+3/4 cup creamy peanut butter <br>
+6 cups cocoa krispies <br>
+<br>
 Melt the butter over low heat in a large pot. Stir in the marshmallows and cook until fully melted and no marshmallow white remains. Stir in the peanut butter until combined, then remove from heat. Stir in the cereal until distributed evenly through the marshmallow mixture. Pour out onto a lightly greased rectangular baking dish (9 by 13 inches). Smooth out the top of the treats by spraying a spoonula with baking spray. Don't press down too hard or else your treats will be too dense. Set aside to cool, then slice and enjoy!
+</div>

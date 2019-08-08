@@ -11,25 +11,27 @@ What's that? You've never sat in front of the tv licking a spoonful of chocolate
 It's really impolite to lie. And if you haven't done it... well... why haven't you done it? It may be the quickest way to get a homemade c&pb fix. The above photo by <a href="http://www.flickr.com/photos/rachelles/">ldylvbgr</a> features smooth peanut butter with hot fudge topping on a spoon. Below are some more combinations for the next time you get the urge.
 
 <strong>Spoonfuls of Chocolate and Peanut Butter</strong>
-&#8226; Peanut butter & cookie dough
-&#8226; Smooth peanut butter with Nutella
-&#8226; PB&Co's Dark Chocolate Peanut Butter
-&#8226; PB&Co's White Chocolate Peanut Butter
-&#8226; Chunky peanut butter with chocolate chips
-&#8226; The triple threat: smooth peanut butter, Nutella & Marshmallow Fluff
-&#8226; Reeses Pieces & Duncan Hines Frosting* (or some other jarred frosting)
-&#8226; Peanut butter and a Hershey's Dessert Topping or Nestle topping such as Butterfinger Crunch Marble Mix Ins
+
+- Peanut butter & cookie dough
+- Smooth peanut butter with Nutella
+- PB&Co's Dark Chocolate Peanut Butter
+- PB&Co's White Chocolate Peanut Butter
+- Chunky peanut butter with chocolate chips
+- The triple threat: smooth peanut butter, Nutella & Marshmallow Fluff
+- Reeses Pieces & Duncan Hines Frosting* (or some other jarred frosting)
+- Peanut butter and a Hershey's Dessert Topping or Nestle topping such as Butterfinger Crunch Marble Mix Ins
 
 <strong>Or if you're too lazy to grab a spoon, you can just dip these straight into your peanut butter jar... I won't tell!</strong>
-&#8226; Oreos
-&#8226; Milanos
-&#8226; Chocolate biscotti
-&#8226; Milk chocolate bar
-&#8226; Chocolate Pirouettes
-&#8226; Chocolate Teddy Grahams
-&#8226; Flipz (or some other chocolate covered pretzel)
-&#8226; Crunchy chocolate chip cookies (Famous Amos taste great dipped in pb)
-&#8226; Chocolate Rice Cakes (you might need a knife for this one - they break easily)
+
+- Oreos
+- Milanos
+- Chocolate biscotti
+- Milk chocolate bar
+- Chocolate Pirouettes
+- Chocolate Teddy Grahams
+- Flipz (or some other chocolate covered pretzel)
+- Crunchy chocolate chip cookies (Famous Amos taste great dipped in pb)
+- Chocolate Rice Cakes (you might need a knife for this one - they break easily)
 
 How do you get your fix?
 

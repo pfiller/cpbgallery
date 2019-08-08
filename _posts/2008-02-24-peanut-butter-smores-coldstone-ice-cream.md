@@ -11,26 +11,22 @@ Ever since the first time I ordered this ice cream / topping combination at Cold
 This is not an item on their menu, it's a combo you have to ask for. 
 Here's what you order:
 
-chocolate ice cream
-marshmallows
-peanut butter (not cups or pieces, just straight peanut butter)
-chocolate fudge
-graham cracker pie crust
+- chocolate ice cream
+- marshmallows
+- peanut butter (not cups or pieces, just straight peanut butter)
+- chocolate fudge
+- graham cracker pie crust
 
 It is fantastically indulgent. You taste graham cracker bits, marshmallow, big globs of peanut butter... mmmm. Besides, you can always go to the gym <em>tomorrow</em>.
 
-**Update** after the break
+**Update**: I just found this combo on flickr by user <a href="http://www.flickr.com/photos/erikespera/">erikespera</a>:
 
-<!--more-->
-
-I just found this combo on flickr by user <a href="http://www.flickr.com/photos/erikespera/">erikespera</a>:
-
-chocolate ice cream
-peanut butter ice cream
-oreo cookie chunks
-butterfinger chunks
-chopped almonds
-served in a waffle bowl
+- chocolate ice cream
+- peanut butter ice cream
+- oreo cookie chunks
+- butterfinger chunks
+- chopped almonds
+- served in a waffle bowl
 
 Maybe I'll have to change my order sometime...
 

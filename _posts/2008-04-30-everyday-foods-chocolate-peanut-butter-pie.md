@@ -14,27 +14,25 @@ Unfortunately I've contradicted myself because I've been too busy for even quick
 
 I can't stay away from my kitchen forever, though. Maybe I can fit this in tomorrow...
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>Everyday Food's Chocolate Peanut Butter Pie</strong>
-Serves 8
-
-<strong>Ingredients</strong>
-30 chocolate wafer cookies
-4 Tbsp unsalted butter, melted
-1 envelope (1/4 oz) unflavored gelatin
-3/4 cup packed light-brown sugar
-1/2 cup creamy peanut butter
-1 cup heavy cream
-1/4 cup chopped peanuts
-
-<strong>Directions</strong>
-1. Preheat oven to 350. Place cookies in a food processor, and process until finely ground (you should have 1-3/4 cups); add butter, and pulse until moistened. Transfer crumb mixture to a 9-inch removable-bottom tart pan. Press firmly into the bottom and up the sides (use bottom of a dry measuring cup to help). Bake until fragrant and set, 15 to 20 minutes; let cool completely. Wipe food processor clean, and reserve.
-
-2. Place 1/4 cup cold water in a small saucepan; sprinkle with gelatin. Set aside to soften, 5 to 10 minutes.
-
-3. In food processor, combine sugar and peanut butter; process until smooth. Add cream; process until mixture is light and holds soft peaks, scraping down sides of bowl as necessary.
-
+<div class="recipe">
+<strong>Everyday Food's Chocolate Peanut Butter Pie</strong><br>
+Serves 8<br>
+<br>
+<strong>Ingredients</strong><br>
+30 chocolate wafer cookies<br>
+4 Tbsp unsalted butter, melted<br>
+1 envelope (1/4 oz) unflavored gelatin<br>
+3/4 cup packed light-brown sugar<br>
+1/2 cup creamy peanut butter<br>
+1 cup heavy cream<br>
+1/4 cup chopped peanuts<br>
+<br>
+<strong>Directions</strong><br>
+1. Preheat oven to 350. Place cookies in a food processor, and process until finely ground (you should have 1-3/4 cups); add butter, and pulse until moistened. Transfer crumb mixture to a 9-inch removable-bottom tart pan. Press firmly into the bottom and up the sides (use bottom of a dry measuring cup to help). Bake until fragrant and set, 15 to 20 minutes; let cool completely. Wipe food processor clean, and reserve.<br>
+<br>
+2. Place 1/4 cup cold water in a small saucepan; sprinkle with gelatin. Set aside to soften, 5 to 10 minutes.<br>
+<br>
+3. In food processor, combine sugar and peanut butter; process until smooth. Add cream; process until mixture is light and holds soft peaks, scraping down sides of bowl as necessary.<br>
+<br>
 4. Heat softened gelatin over very low heat, stirring, just until dissolved. Add to peanut butter mixture in food processor; blend to combine. Transfer filling to cooled crust, and smooth top. Sprinkle with peanuts, and chill until set, at least 2 hours and up to 3 days.
+</div>

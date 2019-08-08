@@ -24,34 +24,32 @@ I also loved how well the swirls stayed in tact throughout baking. The surface i
 
 <a href="http://www.flickr.com/photos/kstar810/4044525836/"><img src="http://farm3.static.flickr.com/2580/4044525836_ec2e7268f2.jpg" alt="peanut butter swirl brownies" /></a>
 
-Recipe after the break!
-
-<!--more-->
-
-<strong>Baker's Peanut Butter Swirl Brownies</strong>
-Recipe from Baker's
-Yields 24 brownies
-
-<strong>Ingredients</strong>
-
-<strong>Brownies</strong>
-4 squares Unsweetened Chocolate (I actually used a mix of Baker's and Ghirardelli because that's what I had on hand.)
-11 Tbsp butter or margarine
-2 cups sugar (minus 2 Tbsp, for use in the PB swirl mixture below)
-3 eggs
-1 tsp vanilla
-1 cup flour
-
-<strong>Peanut Butter Swirl</strong>
-1 Tbsp butter
-2 Tbsp sugar
-2/3 cup peanut butter
-
-<strong>Directions</strong>
-1. Preheat oven to 350. Line 13x9 inch baking pan with foil, with ends of foil extending over the sides of the pan. Grease foil.
-
-2. Microwave chocolate and butter in large microwavable bowl on high 2 minutes or until butter is melted. Stir until chocolate is melted. Stir in sugar, eggs and vanilla. Add flour and mix well. Spread into prepared pan.
-
-3. Make the peanut butter swirl: Melt the 1 Tbsp butter. Add to reserved sugar (2 Tbsp) with the peanut butter and mix well. Spoon over batter in the pan and swirl. Swirl with a knife several times to marbleize. 
-
-4. Bake 30 to 35 minutes or until toothpick inserted in center comes out with fudgy crumbs. (Do not overbake.) Cool in pan on wire rack, remove brownies from pan using foil handles. Cut into squares. Store tightly in covered container.
+<div class="recipe">
+<strong>Baker's Peanut Butter Swirl Brownies</strong><br>
+Recipe from Baker's<br>
+Yields 24 brownies<br>
+<br>
+<strong>Ingredients</strong><br>
+<br>
+<strong>Brownies</strong><br>
+4 squares Unsweetened Chocolate (I actually used a mix of Baker's and Ghirardelli because that's what I had on hand.)<br>
+11 Tbsp butter or margarine<br>
+2 cups sugar (minus 2 Tbsp, for use in the PB swirl mixture below)<br>
+3 eggs<br>
+1 tsp vanilla<br>
+1 cup flour<br>
+<br>
+<strong>Peanut Butter Swirl</strong><br>
+1 Tbsp butter<br>
+2 Tbsp sugar<br>
+2/3 cup peanut butter<br>
+<br>
+<strong>Directions</strong><br>
+1. Preheat oven to 350. Line 13x9 inch baking pan with foil, with ends of foil extending over the sides of the pan. Grease foil.<br>
+<br>
+2. Microwave chocolate and butter in large microwavable bowl on high 2 minutes or until butter is melted. Stir until chocolate is melted. Stir in sugar, eggs and vanilla. Add flour and mix well. Spread into prepared pan.<br>
+<br>
+3. Make the peanut butter swirl: Melt the 1 Tbsp butter. Add to reserved sugar (2 Tbsp) with the peanut butter and mix well. Spoon over batter in the pan and swirl. Swirl with a knife several times to marbleize.<br>
+<br>
+4. Bake 30 to 35 minutes or until toothpick inserted in center comes out with fudgy crumbs. (Do not overbake.) Cool in pan on wire rack, remove brownies from pan using foil handles. Cut into squares. Store tightly in covered container.<br>
+</div>

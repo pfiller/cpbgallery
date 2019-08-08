@@ -26,45 +26,44 @@ That said, I still managed to enjoy and devour them. :-P See that lovely filling
 
 I thought this was a nice change-up to the usual 'soft and chewy' recipes that I tend to post. I look forward to trying out more goodies from Sticky, Chewy, Messy, Gooey! Get yourself a copy at <a href="http://astore.amazon.com/thechocolatpe-20/detail/081185566X">Amazon</a>.
 
-The original recipe is posted after the break (with some notes).
-
-<!--more-->
-
 <strong>Notes</strong>
+
 - I baked mine a good 5 minutes longer than the recipe instructed so that they would get really brown and crispy. 
 - Do not attempt this recipe if you do not own an ice cream scoop. The batter is really tough and would be significantly harder to scoop without one.
 - I melted a little semi-sweet chocolate in the microwave, whisked until smooth and piped designs on the cookies as Taste Tester watched the Yankees / Phillies game 4. I piped the Yankees logo on one of the cookies and they proceeded to lose. Perhaps my cookies are bad luck?
 - As mentioned above, next time I would try using 1/2 pb, 1/2 caramel ratio for the filling. Also, add milk as needed to thin it out so you don't end up with rock hard caramel in the middle of your cookies.
 - Taste Tester helped apply the filling to the cookies quickly before it hardened up. I'd recommend asking someone to help you, if possible. It also helps if they are motivated by sweets, because they probably work faster. :-P
 
-<strong>Crispy Oatmeal Florentines with Peanut Butter-Caramel Filling</strong>
-Yields 12 to 15 cookie sandwiches
-From <a href="http://astore.amazon.com/thechocolatpe-20/detail/081185566X">Sticky, Chewy, Messy, Gooey</a> by Jill O'Connor, p. 94
-
-<strong>Ingredients</strong>
-2/3 cup sugar
+<div class="recipe">
+<strong>Crispy Oatmeal Florentines with Peanut Butter-Caramel Filling</strong><br>
+Yields 12 to 15 cookie sandwiches<br>
+From <a href="http://astore.amazon.com/thechocolatpe-20/detail/081185566X">Sticky, Chewy, Messy, Gooey</a> by Jill O'Connor, p. 94<br>
+<br>
+<strong>Ingredients</strong><br>
+2/3 cup sugar<br>
 1/2 cup (1 stick) unsalted butter
-1/3 cup light corn syrup
-1 1/4 cups old-fashioned rolled oats
-1 cup cake flour, sifted and then measured
-pinch of salt
-
-<strong>For the Peanut Butter-Caramel Filling:</strong>
-7 oz caramel candies (about 25 individual candies), unwrapped
-3 Tbsp creamy peanut butter
-1/2 tsp pure vanilla extract
-
-<strong>Directions</strong>
-1. In a heavy-bottomed saucepan over medium heat, combine the sugar, butter and corn syrup. Cook, stirring constantly, until the butter is melted and the mixture is smooth and combined.
-
-2. Increase the heat to high and bring the mixture to a boil. Remove from heat and stir in the oats. Add the flour and salt and stir until smooth. Transfer the batter to a bowl to cool. Cover the bowl and refrigerate the batter for at least 1 hour. At this point the batter can be refrigerated for up to 1 week. The batter will be very stiff.
-
-3. Position a rack in the middle of the oven and preheat to 325. Line a baking sheet with parchment paper.
-
-4. Roll level Tablespoons of the batter between your palms to form small balls. Place them on the prepared baking sheet at least 3 inches apart. Bake the florentines until they are flat, lacy and a deep glossy golden brown, 7 to 10 minutes. Transfer to a wire rack to cool completely on the baking shet.
-
-5. To make the filling: Combine the caramels, peanut butter, and vanilla in a microwave-safe bowl. Microwave on high for 1 minute. Remove and stir the mixture until smooth and combined. If the caramels are not completely melted, continue to microwave for 30-second intervals and stir until smooth.
-
-6. Use a metal spatula to remove a cooled florentine from the baking sheet. Spread 2 or 3 teaspoons of the peanut butter-caramel filling over the bottom of the cookie and sandwich it with a second florentine.
-
+1/3 cup light corn syrup<br>
+1 1/4 cups old-fashioned rolled oats<br>
+1 cup cake flour, sifted and then measured<br>
+pinch of salt<br>
+<br>
+<strong>For the Peanut Butter-Caramel Filling:</strong><br>
+7 oz caramel candies (about 25 individual candies), unwrapped<br>
+3 Tbsp creamy peanut butter<br>
+1/2 tsp pure vanilla extract<br>
+<br>
+<strong>Directions</strong><br>
+1. In a heavy-bottomed saucepan over medium heat, combine the sugar, butter and corn syrup. Cook, stirring constantly, until the butter is melted and the mixture is smooth and combined.<br>
+<br>
+2. Increase the heat to high and bring the mixture to a boil. Remove from heat and stir in the oats. Add the flour and salt and stir until smooth. Transfer the batter to a bowl to cool. Cover the bowl and refrigerate the batter for at least 1 hour. At this point the batter can be refrigerated for up to 1 week. The batter will be very stiff.<br>
+<br>
+3. Position a rack in the middle of the oven and preheat to 325. Line a baking sheet with parchment paper.<br>
+<br>
+4. Roll level Tablespoons of the batter between your palms to form small balls. Place them on the prepared baking sheet at least 3 inches apart. Bake the florentines until they are flat, lacy and a deep glossy golden brown, 7 to 10 minutes. Transfer to a wire rack to cool completely on the baking shet.<br>
+<br>
+5. To make the filling: Combine the caramels, peanut butter, and vanilla in a microwave-safe bowl. Microwave on high for 1 minute. Remove and stir the mixture until smooth and combined. If the caramels are not completely melted, continue to microwave for 30-second intervals and stir until smooth.<br>
+<br>
+6. Use a metal spatula to remove a cooled florentine from the baking sheet. Spread 2 or 3 teaspoons of the peanut butter-caramel filling over the bottom of the cookie and sandwich it with a second florentine.<br>
+<br>
 7. The florentines will keep, tightly covered, for up to 2 days. After this time they will start to lose their crispness and get a little soft and chewy. Yum!
+</div>

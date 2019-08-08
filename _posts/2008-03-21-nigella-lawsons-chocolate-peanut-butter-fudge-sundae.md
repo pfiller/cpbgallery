@@ -22,28 +22,28 @@ Mmmm... chocolate peanut butter fudge over toffee ice cream... Blimey, it looks 
 
 The printed version of this recipe is after the break. See a video of Nigella make the tv version <a href="http://video.aol.com/video-detail/nigella-lawsonchocolate-peanut-butter-fudge-sundae/1450707015">here</a>.
 
-<!--more-->
-
-<strong>Nigella Lawson's Chocolate Peanut Butter Fudge Sundae</strong>
-Yields 4 servings
-
-<strong>Ingredients</strong>
-
-3/4 cup heavy cream 
-4 oz milk chocolate, chopped 
-1/2 cup smooth peanut butter 
-3 Tbsp golden syrup 
-4 scoops toffee or caramel ice cream 
-4 scoops chocolate ice cream 
-4 scoops vanilla ice cream 
-4 tablespoons or 1/4 cup salted peanuts, roughly chopped or left whole to taste 
-4 chocolate cigar cookies
-
-<strong>Directions</strong>
-
-1. Put all the cream, chopped chocolate, peanut butter and golden syup into a saucepan and put it on the heat to melt, stirring occasionally. In about 2 minutes you should have your sauce ready.
-2. Get out 4 sundae glasses and put a scoop of toffee or caramel ice cream in each, followed by 1 of the chocolate and then another of vanilla.
-3. Pour over some chocolate peanut butter fudge sauce and sprinkle with salted peanuts.
-4. Stick a chocolate cigar cookie in each sundae glass, hand them round and wait for people to weep with gratitude.
-
+<div class="recipe">
+<strong>Nigella Lawson's Chocolate Peanut Butter Fudge Sundae</strong><br>
+Yields 4 servings<br>
+<br>
+<strong>Ingredients</strong><br>
+<br>
+3/4 cup heavy cream <br>
+4 oz milk chocolate, chopped <br>
+1/2 cup smooth peanut butter <br>
+3 Tbsp golden syrup <br>
+4 scoops toffee or caramel ice cream <br>
+4 scoops chocolate ice cream <br>
+4 scoops vanilla ice cream <br>
+4 tablespoons or 1/4 cup salted peanuts, roughly chopped or left whole to taste <br>
+4 chocolate cigar cookies<br>
+<br>
+<strong>Directions</strong><br>
+<br>
+1. Put all the cream, chopped chocolate, peanut butter and golden syup into a saucepan and put it on the heat to melt, stirring occasionally. In about 2 minutes you should have your sauce ready.<br>
+2. Get out 4 sundae glasses and put a scoop of toffee or caramel ice cream in each, followed by 1 of the chocolate and then another of vanilla.<br>
+3. Pour over some chocolate peanut butter fudge sauce and sprinkle with salted peanuts.<br>
+4. Stick a chocolate cigar cookie in each sundae glass, hand them round and wait for people to weep with gratitude.<br>
+<br>
 Recipe from <a href="http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_120193,00.html">Nigella Lawson at Food Network</a>.
+</div>

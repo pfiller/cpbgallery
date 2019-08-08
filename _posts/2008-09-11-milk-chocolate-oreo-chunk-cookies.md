@@ -16,33 +16,31 @@ Don't you wish you could take a bite?
 
 <a href="http://www.flickr.com/photos/kstar810/2844200345/"><img src="http://farm4.static.flickr.com/3069/2844200345_06b61fc9d1.jpg?v=0" alt="Milk Chocolate" /></a>
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>Chocolate Cookie</strong>
-Yields about 42 cookies
-Adapted from <a href="http://www.amazon.com/Mrs-Fields-Best-Ever-Cookie/dp/0783552661">Mrs. Fields Best Ever Cookie Book</a>
-
-<strong>Ingredients</strong>
-12 oz semisweet chocolate, finely chopped
-2 cups all-purpose flour
-3/4 cup unsweetened cocoa powder
-1 tsp baking soda
-1/4 tsp salt
-2 stick (1 cup) unsalted butter, softened
-1 1/2 cups packed brown sugar
-3 large eggs, at room temperature
-2 tsp vanilla extract
-9 oz milk chocolate chunks
-11 double stuffed oreos, quartered
-
-<strong>Directions</strong>
-
-1. Preheat oven to 300° and prepare baking sheets with parchment paper.
-
-2. In a double boiler, melt the semisweet chocolate over hot, not simmering water. Set aside to cool slightly. In a medium bowl, combine the flour, cocoa, baking soda and salt.
-
-3. In a large bowl with an electric mixer, cream the butter and sugar. Beat in eggs and vanilla until just combined. Blend in the cooled semisweet chocolate. Blend in the flour mixture until just combined. Mix in the chopped milk chocolate and oreos.
-
+<div class="recipe">
+<strong>Chocolate Cookie</strong><br>
+Yields about 42 cookies<br>
+Adapted from <a href="http://www.amazon.com/Mrs-Fields-Best-Ever-Cookie/dp/0783552661">Mrs. Fields Best Ever Cookie Book</a><br>
+<br>
+<strong>Ingredients</strong><br>
+12 oz semisweet chocolate, finely chopped<br>
+2 cups all-purpose flour<br>
+3/4 cup unsweetened cocoa powder<br>
+1 tsp baking soda<br>
+1/4 tsp salt<br>
+2 stick (1 cup) unsalted butter, softened<br>
+1 1/2 cups packed brown sugar<br>
+3 large eggs, at room temperature<br>
+2 tsp vanilla extract<br>
+9 oz milk chocolate chunks<br>
+11 double stuffed oreos, quartered<br>
+<br>
+<strong>Directions</strong><br>
+<br>
+1. Preheat oven to 300° and prepare baking sheets with parchment paper.<br>
+<br>
+2. In a double boiler, melt the semisweet chocolate over hot, not simmering water. Set aside to cool slightly. In a medium bowl, combine the flour, cocoa, baking soda and salt.<br>
+<br>
+3. In a large bowl with an electric mixer, cream the butter and sugar. Beat in eggs and vanilla until just combined. Blend in the cooled semisweet chocolate. Blend in the flour mixture until just combined. Mix in the chopped milk chocolate and oreos.<br>
+<br>
 4. Drop the dough by rounded tablespoons 2 inches apart onto prepared baking sheets. Bake for 18 to 22 minutes (mine were ready in 18 exactly) or until just set. Cool on the cookie sheet for one minute, then transfer to racks to cool completely.
+</div>

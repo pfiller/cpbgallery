@@ -34,18 +34,16 @@ The recipe for Peanut Butter Cream Cheese is after the break. If you can't get y
 
 <a href="http://flickr.com/photos/kstar810/2833454185/in/photostream/"><img src="http://farm4.static.flickr.com/3144/2833454185_af6c849d85.jpg?v=0" alt="Panera Bagel" /></a>
 
-PB Cream Cheese Recipe after the break!
-
-<!--more-->
-
-<strong>Peanut Butter Cream Cheese Spread</strong>
-
-<strong>Ingredients</strong>
-3 T Peanut Butter
-3 T Regular Cream Cheese
-2 t powdered sugar
-drop of vanilla extract
-
-<strong>Directions</strong>
-Stir the peanut butter, cream cheese and vanilla until combined, then add the powdered sugar.
+<div class="recipe">
+<strong>Peanut Butter Cream Cheese Spread</strong><br>
+<br>
+<strong>Ingredients</strong><br>
+3 T Peanut Butter<br>
+3 T Regular Cream Cheese<br>
+2 t powdered sugar<br>
+drop of vanilla extract<br>
+<br>
+<strong>Directions</strong><br>
+Stir the peanut butter, cream cheese and vanilla until combined, then add the powdered sugar.<br>
 And don't forget to sprinkle in some mini-chocolate chips if you don't have a chocolate chip bagel!
+</div>

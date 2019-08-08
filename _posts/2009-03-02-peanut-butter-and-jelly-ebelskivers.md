@@ -22,34 +22,32 @@ Happy Breakfast! :)
 
 <a href="http://www.flickr.com/photos/kstar810/372113427/in/photostream/"><img src="http://farm1.static.flickr.com/179/372113427_af1d5ab655.jpg?v=0" alt="ebelskiver" /></a>
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>Peanut Butter and Jelly Ebelskivers</strong>
-(modified from <a href="http://www.williams-sonoma.com/recipe/recipedetail.cfm?objectid=4FEB2082%2DE0C9%2DE1B0%2D8C390A4C6C211224">Williams-Sonoma</a>)
-
-<strong>Ingredients</strong>
-1 ¾ cups all-purpose flour
-¾ teaspoons baking soda
-1 teaspoon baking powder
-1 ½ tablespoons granulated sugar
-½ teaspoon salt
-3 egg yolks
-1 ½ cups buttermilk
-¾ cup ricotta cheese
-5 egg whites
-4 tablespoons (1/2 stick) unsalted butter, melted
-Confectioners' sugar for garnish
-Peanut butter (I used Jif)
-Grape jelly
-
-<strong>Directions</strong>
-
-1. In a bowl, whisk together the flour, baking soda, baking powder, granulated sugar and salt. In another bowl, lightly whisk the egg yolks. Whisk in the buttermilk and ricotta. Whisk the egg yolk mixture into the flour mixture until well combined; the batter will be lumpy. Set aside. 
-
-2. In the bowl of an electric mixer fitted with the whisk attachment, beat the egg whites on high speed until stiff but not dry peaks form, 2 to 3 minutes. Using a rubber spatula, gently stir the whites into the batter in two additions. 
-
-3. Put 1/4 tsp. butter in each well of a filled-pancake pan. Place over medium heat and heat until the butter begins to bubble. Pour 1 Tbs. batter into each well. Place 1/4-1/2 tsp each of peanut butter and jelly in the center of the batter and top with 1 Tbs. batter. Cook until the bottoms are golden brown and crispy, 3 to 5 minutes. Using 2 spoons, flip the pancakes over and cook until golden and crispy, about 3 minutes more. Transfer to a plate. Repeat with the remaining batter. 
-
+<div class="recipe">
+<strong>Peanut Butter and Jelly Ebelskivers</strong><br>
+(modified from <a href="http://www.williams-sonoma.com/recipe/recipedetail.cfm?objectid=4FEB2082%2DE0C9%2DE1B0%2D8C390A4C6C211224">Williams-Sonoma</a>)<br>
+<br>
+<strong>Ingredients</strong><br>
+1 ¾ cups all-purpose flour<br>
+¾ teaspoons baking soda<br>
+1 teaspoon baking powder<br>
+1 ½ tablespoons granulated sugar<br>
+½ teaspoon salt<br>
+3 egg yolks<br>
+1 ½ cups buttermilk<br>
+¾ cup ricotta cheese<br>
+5 egg whites<br>
+4 tablespoons (1/2 stick) unsalted butter, melted<br>
+Confectioners' sugar for garnish<br>
+Peanut butter (I used Jif)<br>
+Grape jelly<br>
+<br>
+<strong>Directions</strong><br>
+<br>
+1. In a bowl, whisk together the flour, baking soda, baking powder, granulated sugar and salt. In another bowl, lightly whisk the egg yolks. Whisk in the buttermilk and ricotta. Whisk the egg yolk mixture into the flour mixture until well combined; the batter will be lumpy. Set aside. <br>
+<br>
+2. In the bowl of an electric mixer fitted with the whisk attachment, beat the egg whites on high speed until stiff but not dry peaks form, 2 to 3 minutes. Using a rubber spatula, gently stir the whites into the batter in two additions. <br>
+<br>
+3. Put 1/4 tsp. butter in each well of a filled-pancake pan. Place over medium heat and heat until the butter begins to bubble. Pour 1 Tbs. batter into each well. Place 1/4-1/2 tsp each of peanut butter and jelly in the center of the batter and top with 1 Tbs. batter. Cook until the bottoms are golden brown and crispy, 3 to 5 minutes. Using 2 spoons, flip the pancakes over and cook until golden and crispy, about 3 minutes more. Transfer to a plate. Repeat with the remaining batter. <br>
+<br>
 4. Dust the pancakes with confectioners' sugar just before serving. Serve warm. Makes about 30.
+</div>

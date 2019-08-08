@@ -6,34 +6,34 @@ slug: banana-dark-chocolate-stuffed-french-toast
 ---
 <a href="http://www.flickr.com/photos/kstar810/2276690619/in/photostream/"><img src="http://farm3.static.flickr.com/2342/2276690619_a8b1e24687.jpg?v=0" alt="banana dark chocolate stuffed french toast" /></a>
 
-Do you even need convincing with this one? It sure as hell beats a bowl of wheaties in the morning. Recipe after the break.
+Do you even need convincing with this one? It sure as hell beats a bowl of wheaties in the morning.
 
-<!--more-->
-
-<strong>Ingredients</strong>
-5 Tbsp Dark Chocolate Peanut Butter
-8 slices of banana (about 1 banana)
-10 slices of day old italian or french bread, 1/2 inch thick
-2 eggs
-2/3 cup milk
-1/4 tsp vanilla
-1/4 tsp cinnamon
-butter, for frying
-
-<a href="http://www.flickr.com/photos/kstar810/2277120879/"><img src="http://farm3.static.flickr.com/2314/2277120879_e5c48d6bfa.jpg?v=0" alt="chocolate peanut butter" /></a>
-
-<strong>Directions</strong>
-Spread the dark chocolate peanut butter onto one side of five slices of the bread. Place three banana slices on top of the peanut butter. 
-
-<a href="http://www.flickr.com/photos/kstar810/2277474488/in/photostream/"><img src="http://farm3.static.flickr.com/2056/2277474488_1dcea7b9f6.jpg?v=0" alt="dark chocolate peanut butter and banana" /></a>
-
-Place the remaining slices of bread on top of the pb/banana slices, making 5 "sandwiches". Smush them a bit so they stay together.
-
-<a href="http://www.flickr.com/photos/kstar810/2277474430/in/photostream/"><img src="http://farm3.static.flickr.com/2181/2277474430_493894eb04.jpg?v=0" alt="chocolate peanut butter banana sandwiches" /></a>
-
-Whisk the egg, milk, vanilla and cinnamon in a shallow baking dish large enough to soak all 5 sandwiches. Coat the "sandwiches" thoroughly in the milk/egg/cinnamon/vanilla mixture. Let them soak 10 minutes on one side, then turn and let soak for 10 minutes on the other side so the bread is saturated. If you don't let it soak, it will end up tasting like a dark chocolate peanut butter banana panini... which is certainly good, just not quite french toast-like.
-
+<div class="recipe">
+<strong>Ingredients</strong><br>
+5 Tbsp Dark Chocolate Peanut Butter<br>
+8 slices of banana (about 1 banana)<br>
+10 slices of day old italian or french bread, 1/2 inch thick<br>
+2 eggs<br>
+2/3 cup milk<br>
+1/4 tsp vanilla<br>
+1/4 tsp cinnamon<br>
+butter, for frying<br>
+<br>
+<a href="http://www.flickr.com/photos/kstar810/2277120879/"><img src="http://farm3.static.flickr.com/2314/2277120879_e5c48d6bfa.jpg?v=0" alt="chocolate peanut butter" /></a><br>
+<br>
+<strong>Directions</strong><br>
+Spread the dark chocolate peanut butter onto one side of five slices of the bread. Place three banana slices on top of the peanut butter. <br>
+<br>
+<a href="http://www.flickr.com/photos/kstar810/2277474488/in/photostream/"><img src="http://farm3.static.flickr.com/2056/2277474488_1dcea7b9f6.jpg?v=0" alt="dark chocolate peanut butter and banana" /></a><br>
+<br>
+Place the remaining slices of bread on top of the pb/banana slices, making 5 "sandwiches". Smush them a bit so they stay together.<br>
+<br>
+<a href="http://www.flickr.com/photos/kstar810/2277474430/in/photostream/"><img src="http://farm3.static.flickr.com/2181/2277474430_493894eb04.jpg?v=0" alt="chocolate peanut butter banana sandwiches" /></a><br>
+<br>
+Whisk the egg, milk, vanilla and cinnamon in a shallow baking dish large enough to soak all 5 sandwiches. Coat the "sandwiches" thoroughly in the milk/egg/cinnamon/vanilla mixture. Let them soak 10 minutes on one side, then turn and let soak for 10 minutes on the other side so the bread is saturated. If you don't let it soak, it will end up tasting like a dark chocolate peanut butter banana panini... which is certainly good, just not quite french toast-like.<br>
+<br>
 Melt butter in a non-stick pan that's large enough to fit all 5 sandwiches and fry until toasty brown, 2 to 3 minutes per side. I don't think these need syrup, but some powdered sugar is perfect. When I was preparing mine, I skimped a little on the dark chocolate peanut butter on the insides of the sandwiches, so we just put some additional regular peanut butter on as a topping. It made for a nice way to start the day.
+</div>
 
 <a href="http://www.flickr.com/photos/kstar810/2276681653/"><img src="http://farm3.static.flickr.com/2396/2276681653_a2b5de22a8.jpg?v=0" alt="banana dark chocolate stuffed french toast" />
 </a>

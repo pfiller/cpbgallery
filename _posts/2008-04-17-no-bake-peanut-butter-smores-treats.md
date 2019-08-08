@@ -16,23 +16,21 @@ For those of you that don't know about The Great Peanut Butter Exhibition, find 
 
 <a href="http://www.flickr.com/photos/kstar810/2419681973/in/photostream/"><img src="http://farm4.static.flickr.com/3071/2419681973_042ca587ba.jpg?v=0" alt="No-Bake Peanut Butter S'mores Treats" /></a>
 
-Recipe after the break.
-
-<!--more-->
-
-<strong>No-Bake Peanut Butter S'mores Treats</strong>
-Yields 19 Treats
-
-<strong>Ingredients</strong>
-1 cup Ghirardelli semisweet chocolate chips
-1/2 cup <a href="http://www.ilovepeanutbutter.com/detail_17010007__4.html">The Bee's Knees Honey Peanut Butter</a>
-2 cups graham crackers, crushed (about 16 graham cracker sheets)
-57 mini marshmallows (about 3/4 cup)
-1/4 tsp cinnamon
-
-Directions
-1. Melt chocolate chips and peanut butter over a double boiler. Blend with a spoon - this mixture is like sludge, don't bother with a wimpy old whisk!
-2. Remove from heat and stir cinnamon and graham crackers into the melted mixture.
-3. Using a silicone mini-mini muffin mold*, press enough of the chocolate mixture into the mold to coat the bottom and sides of a cup. Place three mini marshmallows in the center and top with more of the chocolate mixture. Press as much of the mixture into the mold as you can so the treat is dense and comes out of the mold easily. Repeat for each treat and let cool until set. Pop the treats out of the molds and enjoy!
-
+<div class="recipe">
+<strong>No-Bake Peanut Butter S'mores Treats</strong><br>
+Yields 19 Treats<br>
+<br>
+<strong>Ingredients</strong><br>
+1 cup Ghirardelli semisweet chocolate chips<br>
+1/2 cup <a href="http://www.ilovepeanutbutter.com/detail_17010007__4.html">The Bee's Knees Honey Peanut Butter</a><br>
+2 cups graham crackers, crushed (about 16 graham cracker sheets)<br>
+57 mini marshmallows (about 3/4 cup)<br>
+1/4 tsp cinnamon<br>
+<br>
+Directions<br>
+1. Melt chocolate chips and peanut butter over a double boiler. Blend with a spoon - this mixture is like sludge, don't bother with a wimpy old whisk!<br>
+2. Remove from heat and stir cinnamon and graham crackers into the melted mixture.<br>
+3. Using a silicone mini-mini muffin mold*, press enough of the chocolate mixture into the mold to coat the bottom and sides of a cup. Place three mini marshmallows in the center and top with more of the chocolate mixture. Press as much of the mixture into the mold as you can so the treat is dense and comes out of the mold easily. Repeat for each treat and let cool until set. Pop the treats out of the molds and enjoy!<br>
+<br>
 *I wouldn't recommend using any other mold beside silicone. If you don't have that type, you can try lining a regular mini muffin tin with paper liners. I haven't tried this though, so I take no responsibility for the results!
+</div>

@@ -16,26 +16,26 @@ For my cookie press's inaugural run, I decided to go with this recipe for <a hre
 
 <a href="http://www.flickr.com/photos/kstar810/4120695051/in/photostream/"><img src="http://farm3.static.flickr.com/2777/4120695051_3488419211.jpg" alt="Cookie Press Peanut Butter Sandwiches" /></a>
 
-Get the cookie recipe at <a href="http://allrecipes.com/Recipe/melt-in-your-mouth-peanut-butter-cookies/Detail.aspx">Allrecipes</a>. Baking tips as well as the ganache recipe can be found after the break! 
+Get the cookie recipe at <a href="http://allrecipes.com/Recipe/melt-in-your-mouth-peanut-butter-cookies/Detail.aspx">Allrecipes</a>. The ganache recipe is below! 
 
 You can get yourself a cookie press like mine at <a href="http://www.crateandbarrel.com/Family.aspx?c=744&f=25409">Crate & Barrel</a> (though, as mentioned mine sat around for 3 years, so I have their older model :-P).
 
-<!--more-->
-
-<strong>Chocolate Ganache</strong>
-modified from Elinor Klivan's <a href="http://astore.amazon.com/thechocolatpe-20/detail/0811845451">Cupcakes!</a> p.44
-
-<strong>Ingredients</strong>
-1/2 cup heavy whipping cream
-2 Tbsp unsalted butter
-2 cups chopped chocolate (I used a mix of milk & bittersweet)
-1 tsp vanilla extract
-4 Tbsp smooth peanut butter
-
-<strong>Directions</strong>
-Add the heavy whipping cream and butter to a double boiler and gently heat until the mixture is hot and bubbling slightly at the edges, but not boiling. Take it off the heat and add the milk chocolate chips in an even layer; let sit for 3-5 minutes. Whisk until smooth. Add peanut butter and vanilla and whisk again.
-
+<div class="recipe">
+<strong>Chocolate Ganache</strong><br>
+modified from Elinor Klivan's <a href="http://astore.amazon.com/thechocolatpe-20/detail/0811845451">Cupcakes!</a> p.44<br>
+<br>
+<strong>Ingredients</strong><br>
+1/2 cup heavy whipping cream<br>
+2 Tbsp unsalted butter<br>
+2 cups chopped chocolate (I used a mix of milk & bittersweet)<br>
+1 tsp vanilla extract<br>
+4 Tbsp smooth peanut butter<br>
+<br>
+<strong>Directions</strong><br>
+Add the heavy whipping cream and butter to a double boiler and gently heat until the mixture is hot and bubbling slightly at the edges, but not boiling. Take it off the heat and add the milk chocolate chips in an even layer; let sit for 3-5 minutes. Whisk until smooth. Add peanut butter and vanilla and whisk again.<br>
+<br>
 <strong>To assemble cookie sandwiches:</strong> If necessary, let the ganache sit for a few minutes until it thickens a little, then apply about a teaspoon of ganache to each cookie. If the ganache is too thin, let it it sit for a minute, then before the ganache completely sets, top it with another cookie.
+</div>
 
 <strong>Note:</strong> If you have leftover ganache after assembling all of your cookies, you can always refrigerate it and make yourself some cpb truffles! You can find detailed instructions on this technique <a href="http://www.marthastewart.com/portal/site/mslo/menuitem.fc77a0dbc44dd1611e3bf410b5900aa0/?vgnextoid=ce4656866a80f010VgnVCM1000003d370a0aRCRD&autonomy_kw=chocolate%20truffles&rsc=ns2006_m2">here</a>.
 

@@ -18,33 +18,33 @@ It's tasty on it's own, but you can also make a little sandwich filled with fluf
 
 If you're not up for changing the recipe as I've mentioned above, this was tasty as is and you should absolutely try it if you've never had peanut butter bread before. The curiosity was too much for me to handle!
 
-Buy the <a href="http://astore.amazon.com/thechocolatpe-20/detail/0312334176">Tate's Bake Shop Cookbook</a> at Amazon! Recipe after the break.
+Buy the <a href="http://astore.amazon.com/thechocolatpe-20/detail/0312334176">Tate's Bake Shop Cookbook</a> at Amazon!
 
-<!--more-->
-
-<strong>Peanut Butter Bread</strong>
-<em>from Tate's Bakeshop Cookbook</em>
-Yield: 1 9-inch loaf
-
-<strong>Ingredients</strong>
-
-2 cups all-purpose flour
-1 T baking powder
-1/2 tsp salt
-1/4 cup salted butter, softened to room temp
-1/2 cup sugar
-1/4 cup firmly packed brown sugar
-1 cup creamy peanut butter
-1 large egg
-1 tsp vanilla
-1 cup milk
-
-<strong>Directions</strong>
-
-1. Preheat the oven to 350 degrees. Grease a 9 x 5 x 3-inch loaf pan and set aside.
-
-2. In a small bowl, combine the flour, baking powder, and salt. Set aside.
-
-3. Cream the butter and sugars till they are combined. Add the peanut butter and mix it in. Add the egg and vanilla. Scrape down the sides of the bowl and mix again. Add the flour mixture. Blend until combined. The mixture will be dry. Slowly pour in the milk and mix well.
-
+<div class="recipe">
+<strong>Peanut Butter Bread</strong><br>
+<em>from Tate's Bakeshop Cookbook</em><br>
+Yield: 1 9-inch loaf<br>
+<br>
+<strong>Ingredients</strong><br>
+<br>
+2 cups all-purpose flour<br>
+1 T baking powder<br>
+1/2 tsp salt<br>
+1/4 cup salted butter, softened to room temp<br>
+1/2 cup sugar<br>
+1/4 cup firmly packed brown sugar<br>
+1 cup creamy peanut butter<br>
+1 large egg<br>
+1 tsp vanilla<br>
+1 cup milk<br>
+<br>
+<strong>Directions</strong><br>
+<br>
+1. Preheat the oven to 350 degrees. Grease a 9 x 5 x 3-inch loaf pan and set aside.<br>
+<br>
+2. In a small bowl, combine the flour, baking powder, and salt. Set aside.<br>
+<br>
+3. Cream the butter and sugars till they are combined. Add the peanut butter and mix it in. Add the egg and vanilla. Scrape down the sides of the bowl and mix again. Add the flour mixture. Blend until combined. The mixture will be dry. Slowly pour in the milk and mix well.<br>
+<br>
 4. Spoon the batter into the prepared loaf pan. Bake it for 50 minutes or until the center springs back when pressed with a fingertip. Cool the loaf for 10 minutes in the pan and remove the bread from the pan to a cooling rack to cool completely.
+</div>
