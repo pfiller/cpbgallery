@@ -1,4 +1,5 @@
 ---
+title: Post Archives
 layout: default
 ---
 <h1>Chocolate Peanut Butter Posts</h1>

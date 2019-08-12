@@ -1,5 +1,6 @@
 ---
 layout: default
+title: A site dedicated to the world's two best ingredients!
 ---
 
 {% for post in site.posts limit: 10 %}
