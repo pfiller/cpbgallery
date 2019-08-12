@@ -12,8 +12,13 @@
     <meta name="title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
     <meta property="og:url" content="https://www.cpbgallery.com{{ page.url }}" />
-    {% if page.shortdescription %}<meta property="og:description" content="{{ page.shortdescription }}" />{% endif %}
-    {% if page.featureimage %}<meta property="og:image" content="https://www.cpbgallery.com{{ page.featureimage }}"/>{% endif %}
+
+    {% if page.shortdescription %}
+    <meta property="description" content="{{ page.shortdescription }}" />
+    <meta property="og:description" content="{{ page.shortdescription }}" />
+
+    {% endif %}
+    {% if page.featureimage %}<meta property="og:image" content="https://www.cpbgallery.com{{ page.featureimage }}"/>{% endif %}g
     <meta property="og:type" content="{% if page.type %}{{ page.type}}{% else %}article{% endif %}" />
   </head>
   <body>
