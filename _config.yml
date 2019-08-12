@@ -13,3 +13,4 @@ permalink: /:year/:month/:day/:slug
 markdown: kramdown
 plugins:
   - jekyll-feed
+timezone: America/New_York
