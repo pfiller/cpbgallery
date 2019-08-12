@@ -12,4 +12,4 @@ layout: default
 {% endfor %}
 
 
-<a href="/archives/">View all our posts in the CPB Archives!</a>
+<a href="/archives">View all our posts in the CPB Archives!</a>
