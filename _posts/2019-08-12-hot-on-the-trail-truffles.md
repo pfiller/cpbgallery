@@ -4,6 +4,7 @@ title: Hot on the Trail Truffles
 date: '2019-08-12T15:02:00+00:00'
 slug: hot-on-the-trail-truffles
 featureimage: /images/uploads/2019/hot-on-the-trail-truffles.jpg
+shortdescription: A quick review of Trail Truffles, a new CPB favorite!
 ---
 
 <a href="/images/uploads/2019/hot-on-the-trail-truffles.jpg"><img src="/images/uploads/2019/hot-on-the-trail-truffles.jpg" alt="Hot on the Trail Truffles" width="500" height="333" class="alignnone size-full wp-image-3029" /></a>

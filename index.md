@@ -1,6 +1,8 @@
 ---
 layout: default
+type: website
 title: A site dedicated to the world's two best ingredients!
+shortdescription: Chocolate Peanut Butter gallery features recipes, reviews, news, and more ... all about Chocolate and Peanut Butter!
 ---
 
 {% for post in site.posts limit: 10 %}

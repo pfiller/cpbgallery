@@ -1,6 +1,7 @@
 ---
 title: Post Archives
 layout: default
+type: website
 ---
 <h1>Chocolate Peanut Butter Posts</h1>
 <p>Between 2008-2014, I published 384 posts about the best ingredient combination in the world. You can read them all!</p>
