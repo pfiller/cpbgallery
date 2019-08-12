@@ -7,5 +7,5 @@ layout: default
 {{ content }}
 
 <div class="see-archives">
-  Looking for more? The <a href="/archives/">CPB Archives</a> are delicious!
+  Looking for more? The <a href="/archives">CPB Archives</a> are delicious!
 </div>
