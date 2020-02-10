@@ -26,7 +26,7 @@ And then we danced!
 
 (We're in there somewhere)
 
-<a href="http://www.flickr.com/photos/trashrockx/6063916817/" title="Untitled by trashrockx, on Flickr"><img src="http://farm7.static.flickr.com/6182/6063916817_90ccb09ffc.jpg" width="500" height="333" alt=""></a>
+<img src="/images/uploads/wedding-dance.jpg" width="500" height="333" alt="" class="yellowborder">
 
 The entire day was magical. I know people say that about their weddings, but it really felt charmed. Every detail was perfect. Including our amazingly delicious custom chocolate bar favors by <a href="http://www.askinosie.com/">Askinosie Chocolate</a>, with packaging that I got to design myself. So fun and again, amazingly delicious!
 
@@ -40,7 +40,7 @@ As you can see, Taste Tester could hardly wait to dig into the favors. I'll have
 
 As if those weren't delicious enough, during the rooftop bar segment of our reception, a friend who stopped by was kind enough to bring a big box of our favorite cupcakes: <a href="http://www.mollyscupcakes.com/">Molly's</a>!
 
-<a href="http://www.flickr.com/photos/trashrockx/6063896327/" title="Untitled by trashrockx, on Flickr"><img src="http://farm7.static.flickr.com/6076/6063896327_4b48831e67.jpg" width="500" height="333" alt=""></a>
+<img src="/images/uploads/wedding-cupcakes.jpg" width="500" height="333" alt="" class="yellowborder">
 
 You may remember me raving about Molly's <a href="http://www.cpbgallery.com/2008/07/30/back-with-a-bang-a-review-of-mollys-cupcakes/">here</a>, <a href="http://www.cpbgallery.com/2009/06/01/i-♥-chicago/">here</a>, <a href="http://www.cpbgallery.com/2010/01/19/chocolate-peanut-butter-cupcakes-another-chicago-edition/">here</a> and probably elsewhere. It is my favorite Chicago cupcakery and possibly my favorite cupcakery in the US. I love it. They are moist cupcakes with rich, luscious fillings and a generous topping of perfect frosting. Their flavor combos as well are fantastic- our favorite being the super chocolate peanut buttery <a href="http://www.flickr.com/photos/kstar810/3576498274/">Ron Bennington</a>. 
 
@@ -48,7 +48,7 @@ If they're our favorite Chicago cupcakery, how did we end up eating them at our 
 
 Here's me serving them to our eager guests who, mind you had already had wedding cake. It's no wonder I get along with people who can handle two servings of dessert!
 
-<a href="http://www.flickr.com/photos/trashrockx/6064445498/" title="Untitled by trashrockx, on Flickr"><img src="http://farm7.static.flickr.com/6068/6064445498_e79389ae85.jpg" width="500" height="333" alt=""></a>
+<img src="/images/uploads/wedding-cupcake-delivery.jpg" width="500" height="333" alt="" class="yellowborder">
 
 Did I mention it was a wonderful day?
 
@@ -58,4 +58,4 @@ That's all for now, but having taken such a long sabbatical on my chocolate and 
 
 If you like, you can see more beautiful shots from our wedding in this blog post by our wonderful photographers, <a href="http://sweetlittlephotographs.com/weddings/kristy-patricks-brooklyn-wedding-and-parade">Sweet Little Photographs</a>. Hire them for yours. They are amazing. 
 
-Thanks to our friend <a href="http://www.flickr.com/photos/trashrockx/">Matt</a> as well for the bar pics and delicious cupcakes!!
+Thanks to our friend <a href="http://matthewlettini.com">Matthew</a> as well for the bar pics and delicious cupcakes!!

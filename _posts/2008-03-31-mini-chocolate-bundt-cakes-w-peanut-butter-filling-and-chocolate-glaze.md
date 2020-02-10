@@ -4,7 +4,7 @@ title: Mini Chocolate Bundt Cakes w/ Peanut Butter Filling and Chocolate Glaze
 date: '2008-03-31T08:01:36+00:00'
 slug: mini-chocolate-bundt-cakes-w-peanut-butter-filling-and-chocolate-glaze
 ---
-<a href="http://www.bakeorbreak.com/2007/06/24/mini-chocolate-bundt-cakes-with-peanut-butter-filling/"><img src="http://www.grouprecipes.com/images/recipes/big/2124550146.jpg" alt="chocolate peanut butter bundt cake" /></a>
+<a href="http://www.bakeorbreak.com/2007/06/24/mini-chocolate-bundt-cakes-with-peanut-butter-filling/"><img src="https://bakeorbreak.com/wp-content/uploads/2007/06/chbndtpb1kP2.jpg" alt="chocolate peanut butter bundt cake" /></a>
 
 *Update: I was just informed that this recipe is originally from <a href="http://www.bakeorbreak.com/">bake or break</a>. Please take a visit over there as they are constantly posting amazing recipes such as these beautiful bundt cakes!*
 
